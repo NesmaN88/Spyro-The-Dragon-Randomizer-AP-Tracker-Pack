@@ -1,0 +1,177 @@
+﻿[
+  {
+    "name": "artisanshomeworld",
+    "img": "images/maps/artisanshomeworld.png",
+    "location_size": 40
+  },
+    {
+        "name": "stonehill",
+        "img": "images/maps/stonehill.png",
+        "location_size": 9
+    },
+    {
+        "name": "darkhollow",
+        "img": "images/maps/darkhollow.png",
+        "location_size": 9
+    },
+    {
+        "name": "townsquare",
+        "img": "images/maps/townsquare.png",
+        "location_size": 9
+    },
+    {
+        "name": "sunnyflight",
+        "img": "images/maps/sunnyflight.png",
+        "location_size": 9
+    },
+    {
+        "name": "toasty",
+        "img": "images/maps/toasty.png",
+        "location_size": 9
+    },
+    {
+        "name": "peacekeepers",
+        "img": "images/maps/peacekeepers.png",
+        "location_size": 9
+    },
+    {
+        "name": "drycanyon",
+        "img": "images/maps/drycanyon.png",
+        "location_size": 9
+    },
+    {
+        "name": "clifftown",
+        "img": "images/maps/clifftown.png",
+        "location_size": 9
+    },
+    {
+        "name": "icycavern",
+        "img": "images/maps/icycavern.png",
+        "location_size": 9
+    },
+    {
+        "name": "doctorshemp",
+        "img": "images/maps/doctorshemp.png",
+        "location_size": 9
+    },
+    {
+        "name": "nightflight",
+        "img": "images/maps/nightflight.png",
+        "location_size": 9
+    },
+    {
+        "name": "magiccrafters",
+        "img": "images/maps/magiccrafters.png",
+        "location_size": 9
+    },
+    {
+        "name": "alpineridge",
+        "img": "images/maps/alpineridge.png",
+        "location_size": 9
+    },
+    {
+        "name": "wizardpeak",
+        "img": "images/maps/wizardpeak.png",
+        "location_size": 9
+    },
+    {
+        "name": "highcaves",
+        "img": "images/maps/highcaves.png",
+        "location_size": 9
+    },
+    {
+        "name": "crystalflight",
+        "img": "images/maps/crystalflight.png",
+        "location_size": 9
+    },
+    {
+        "name": "blowhard",
+        "img": "images/maps/blowhard.png",
+        "location_size": 9
+    },
+    {
+        "name": "dreamweavers",
+        "img": "images/maps/dreamweavers.png",
+        "location_size": 9
+    },
+    {
+        "name": "darkpassage",
+        "img": "images/maps/darkpassage.png",
+        "location_size": 9
+    },
+    {
+        "name": "hauntedtower",
+        "img": "images/maps/hauntedtower.png",
+        "location_size": 9
+    },
+    {
+        "name": "loftycastle",
+        "img": "images/maps/loftycastle.png",
+        "location_size": 9
+    },
+    {
+        "name": "icyflight",
+        "img": "images/maps/icyflight.png",
+        "location_size": 9
+    },
+    {
+        "name": "jacques",
+        "img": "images/maps/jacques.png",
+        "location_size": 9
+    },
+    {
+        "name": "beastmakers",
+        "img": "images/maps/beastmakers.png",
+        "location_size": 9
+    },
+    {
+        "name": "treetops",
+        "img": "images/maps/treetops.png",
+        "location_size": 9
+    },
+    {
+        "name": "terracevillage",
+        "img": "images/maps/terracevillage.png",
+        "location_size": 9
+    },
+    {
+        "name": "mistybog",
+        "img": "images/maps/mistybog.png",
+        "location_size": 9
+    },
+    {
+        "name": "wildflight",
+        "img": "images/maps/wildflight.png",
+        "location_size": 9
+    },
+    {
+        "name": "metalhead",
+        "img": "images/maps/metalhead.png",
+        "location_size": 9
+    },
+    {
+        "name": "gnorcgnexus",
+        "img": "images/maps/gnorcgnexus.png",
+        "location_size": 9
+    },
+    {
+        "name": "gnorccove",
+        "img": "images/maps/gnorccove.png",
+        "location_size": 9
+    },
+    {
+        "name": "twilightharbor",
+        "img": "images/maps/twilightharbor.png",
+        "location_size": 9
+    },
+    {
+        "name": "gnastygnorc",
+        "img": "images/maps/gnastygnorc.png",
+        "location_size": 9
+    },
+    {
+        "name": "gnastysloot",
+        "img": "images/maps/gnastysloot.png",
+        "location_size": 9
+    }
+]
