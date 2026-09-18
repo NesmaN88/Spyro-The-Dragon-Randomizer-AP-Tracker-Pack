@@ -44,4 +44,8 @@ ITEM_MAPPING = {
 	[1042] = {"fainttrap", "consumable"},
 	[1043] = {"extralife", "consumable"},
 	[1044] = {"butterfly", "consumable"},
+	[1045] = {"gnorcgnexus, toggle"},
+	[1046] = {"500gems", "consumable"},
+	[1047] = {"1000gems", "consumable"},
+	[1048] = {"1500gems", "consumable"},
 }
