@@ -1,25 +1,169 @@
 {
-    "tracker_items": {
-        "type": "array",
-        "orientation": "horizontal",
-        "content": [
-            {
-                "type": "itemgrid",
-                "h_alignment": "center",
-                "item_margin": "0,0",
-                "item_size": "5",
-                "rows": [
-                    [
-                        "toastysstilts",
-                        "shempsstaff",
-                        "Blowhard's Beard",
-                        "metalheadsmowhawk",
-                        "jacquesribbon",
-                        "gnastygnorc",
-                        "gnastysloot"
-                    ]
-                ]
-			}
+  "tracker_items": {
+    "type": "array",
+    "orientation": "vertical",
+    "content": [
+      {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "0,0",
+        "item_size": "4",
+        "rows": [
+          [
+            "egg1",
+            "egg2",
+            "egg3",
+            "egg4",
+            "egg5",
+            "egg6",
+            "egg7",
+            "egg8",
+            "egg9",
+            "dragon29"
+
+          ],
+          [
+            "artisans",
+            "toastysstilts",
+            "artisans25%gems",
+            "dragon1",
+            "sunnyflight",
+            "sunnyflight25%gems",
+            "cleared1",
+            "toastyrealm",
+            "toasty25%gems",
+            "dragon5"
+          ],
+          [
+            "",
+            "stonehill",
+            "stonehill25%gems",
+            "dragon2",
+            "darkhollow",
+            "darkhollow25%gems",
+            "dragon3",
+            "townsquare",
+            "townsquare25%gems",
+            "dragon4"
+          ],
+          [
+            "peacekeepers",
+            "shempsstaff",
+            "peacekeepers25%gems",
+            "dragon6",
+            "nightflight",
+            "nightflight25%gems",
+            "cleared2",
+            "doctorshemp",
+            "doctorshemp25%gems",
+            "dragon10"
+          ],
+          [
+            "",
+            "drycanyon",
+            "drycanyon25%gems",
+            "dragon7",
+            "clifftown",
+            "clifftown25%gems",
+            "dragon8",
+            "icecavern",
+            "icecavern25%gems",
+            "dragon9"
+          ],
+          [
+            "magiccrafters",
+            "Blowhard's Beard",
+            "gem13",
+            "dragon11",
+            "crystalflight",
+            "gem17",
+            "cleared3",
+            "blowhard",
+            "gem18",
+            "dragon15"
+          ],
+          [
+            "",
+            "alpineridge",
+            "gem14",
+            "dragon12",
+            "wizardpeak",
+            "gem15",
+            "dragon13",
+            "highcaves",
+            "gem16",
+            "dragon14"
+          ],
+          [
+            "dreamweavers",
+            "jacquesribbon",
+            "gem19",
+            "dragon16",
+            "icyflight",
+            "gem23",
+            "cleared4",
+            "jacques",
+            "gem24",
+            "dragon20"
+          ],
+          [
+            "",
+            "darkpassage",
+            "gem20",
+            "dragon17",
+            "hauntedtowers",
+            "gem22",
+            "dragon18",
+            "loftycastle",
+            "gem21",
+            "dragon19"
+          ],
+          [
+            "beastmakers",
+            "metalheadsmowhawk",
+            "gem25",
+            "dragon21",
+            "wildflight",
+            "gem29",
+            "cleared5",
+            "metalhead",
+            "gem30",
+            "dragon25"
+          ],
+          [
+            "",
+            "terracevillage",
+            "gem26",
+            "dragon22",
+            "mistybog",
+            "gem27",
+            "dragon23",
+            "treetops",
+            "gem28",
+            "dragon24"
+          ],
+          [
+            "gnorcsworld",
+            "gnastygnorc",
+            "gem31",
+            "dragon26",
+            "gnastygnorcr",
+            "gem35",
+            "",
+            "gnastyslootr",
+            "gem34"
+          ],
+          [
+            "",
+            "gnorccove",
+            "gem32",
+            "dragon27",
+            "twilightharbor",
+            "gem33",
+            "dragon28"
+          ]
         ]
-    }
+      }
+    ]
+  }
 }
