@@ -1,0 +1,2241 @@
+[
+  //ARTISANS DRAGONS ----------------------------------------
+  {
+    "name": "Artisans",
+    "access_rules": [
+      "artisans"
+    ],
+
+    "map_locations": [
+      {
+        "map": "artisanshomeworld",
+        "x": 410,
+        "y": 348,
+        "size": 15,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "NESTER"
+      }
+    ]
+  },
+  {
+    "name": "Artisans",
+    "access_rules": [
+      "artisans"
+    ],
+    "map_locations": [
+      {
+        "map": "artisanshomeworld",
+        "x": 510,
+        "y": 387,
+        "size": 15,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "DELBIN"
+      }
+    ]
+  },
+  {
+    "name": "Artisans",
+    "access_rules": [
+      "artisans"
+    ],
+    "map_locations": [
+      {
+        "map": "artisanshomeworld",
+        "x": 262,
+        "y": 210,
+        "size": 15,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "TOMAS"
+      }
+    ]
+  },
+  {
+    "name": "Artisans",
+    "access_rules": [
+      "artisans"
+    ],
+    "map_locations": [
+      {
+        "map": "artisanshomeworld",
+        "x": 115,
+        "y": 318,
+        "size": 15,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "ARGUS"
+      }
+    ]
+  },
+  // ARTISANS OTHER ITEMS ------------------------------
+  {
+    "name": "Artisans",
+    "access_rules": [
+      "artisans"
+    ],
+    "map_locations": [
+      {
+        "map": "artisanshomeworld",
+        "x": 400,
+        "y": 450,
+        "size": 15,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "LIFE CHEST (not randomized)"
+      }
+    ]
+  },
+  //REALM GATES FOR ARTISANS -------------------------------------
+  {
+    "name": "Artisans",
+    "access_rules": [
+      "artisans,stonehill"
+    ],
+    "map_locations": [
+      {
+        "map": "artisanshomeworld",
+        "x": 344,
+        "y": 318,
+        "size": 15,
+        "border_thickness": 2,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "STONE HILL GATE"
+      }
+    ]
+  },
+  {
+    "name": "Artisans",
+    "access_rules": [
+      "artisans,townsquare"
+    ],
+    "map_locations": [
+      {
+        "map": "artisanshomeworld",
+        "x": 155,
+        "y": 105,
+        "size": 15,
+        "border_thickness": 2,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "TOWN SQUARE GATE"
+      }
+    ]
+  },
+  {
+    "name": "Artisans",
+    "access_rules": [
+      "artisans,darkhollow"
+    ],
+    "map_locations": [
+      {
+        "map": "artisanshomeworld",
+        "x": 450,
+        "y": 503,
+        "size": 15,
+        "border_thickness": 2,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "DARK HOLLOW GATE"
+      }
+    ]
+  },
+  {
+    "name": "Artisans",
+    "access_rules": [
+      "artisans,toastyworld"
+    ],
+    "map_locations": [
+      {
+        "map": "artisanshomeworld",
+        "x": 80,
+        "y": 290,
+        "size": 15,
+        "border_thickness": 2,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "TOASTY GATE"
+      }
+    ]
+  },
+  {
+    "name": "Artisans",
+    "access_rules": [
+      "artisans,sunnyflight"
+    ],
+    "map_locations": [
+      {
+        "map": "artisanshomeworld",
+        "x": 578,
+        "y": 460,
+        "size": 15,
+        "border_thickness": 2,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "SUNNTY FLIGHT GATE"
+      }
+    ]
+  },
+  //GEMSTONES ARTISANS ---------------------------------------
+  {
+    "name": "Artisans",
+    "access_rules": [
+      "artisans"
+    ],
+    "map_locations": [
+      {
+        "map": "artisanshomeworld",
+        "x": 530,
+        "y": 590,
+        "size": 15,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 25%"
+      }
+    ]
+  },
+  {
+    "name": "Artisans",
+    "access_rules": [
+      "artisans"
+    ],
+    "map_locations": [
+      {
+        "map": "artisanshomeworld",
+        "x": 530,
+        "y": 610,
+        "size": 15,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 50%"
+      }
+    ]
+  },
+  {
+    "name": "Artisans",
+    "access_rules": [
+      "artisans"
+    ],
+    "map_locations": [
+      {
+        "map": "artisanshomeworld",
+        "x": 530,
+        "y": 630,
+        "size": 15,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 75%"
+      }
+    ]
+  },
+  {
+    "name": "Artisans",
+    "access_rules": [
+      "artisans"
+    ],
+    "map_locations": [
+      {
+        "map": "artisanshomeworld",
+        "x": 530,
+        "y": 650,
+        "size": 15,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 100%"
+      }
+    ]
+  },
+  //STONE HILL ----------------------------------------
+  {
+    "name": "Stone Hill",
+    // ACCESS RULES FOR REALMS LEFT OUT FOR NOW ---
+    //"access_rules": [
+    //  "stonehill"
+    //],
+    "map_locations": [
+      {
+        "map": "stonehill",
+        "x": 118,
+        "y": 583,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "LINDAR"
+      }
+    ]
+  },
+  {
+    "name": "Stone Hill",
+    //"access_rules": [
+    //  "stonehill"
+    //],
+    "map_locations": [
+      {
+        "map": "stonehill",
+        "x": 295,
+        "y": 308,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "ASTOR"
+      }
+    ]
+  },
+  {
+    "name": "Stone Hill",
+    //"access_rules": [
+    //  "stonehill"
+    //],
+    "map_locations": [
+      {
+        "map": "stonehill",
+        "x": 817,
+        "y": 575,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GAVIN"
+      }
+    ]
+  },
+  {
+    "name": "Stone Hill",
+    //"access_rules": [
+    //  "stonehill"
+    //],
+    "map_locations": [
+      {
+        "map": "stonehill",
+        "x": 736,
+        "y": 171,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GILDAS"
+      }
+    ]
+  },
+  {
+    "name": "Stone Hill",
+    //"access_rules": [
+    //  "stonehill"
+    //],
+    "map_locations": [
+      {
+        "map": "stonehill",
+        "x": 580,
+        "y": 319,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "EGG THEIF"
+      }
+    ]
+  },
+  {
+    "name": "Stone Hill",
+    //"access_rules": [
+    //  "stonehill"
+    //],
+    "map_locations": [
+      {
+        "map": "stonehill",
+        "x": 270,
+        "y": 308,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "REALM EXIT"
+      }
+    ]
+  },
+  {
+    "name": "Stone Hill",
+    //"access_rules": [
+    //  "stonehill"
+    //],
+    "map_locations": [
+      {
+        "map": "stonehill",
+        "x": 783,
+        "y": 545,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "KEY CHEST"
+      }
+    ]
+  },
+  {
+    "name": "Stone Hill",
+    //"access_rules": [
+    //  "stonehill"
+    //],
+    "map_locations": [
+      {
+        "map": "stonehill",
+        "x": 403,
+        "y": 261,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "CHEST KEY"
+      }
+    ]
+  },
+  //GEMSTONES STONE HILL ---------------------------------------
+  {
+    "name": "Stone Hill",
+    //"access_rules": [
+    //  "stonehill"
+    //],
+    "map_locations": [
+      {
+        "map": "stonehill",
+        "x": 940,
+        "y": 570,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 25%"
+      }
+    ]
+  },
+  {
+    "name": "Stone Hill",
+    //"access_rules": [
+    //  "stonehill"
+    //],
+    "map_locations": [
+      {
+        "map": "stonehill",
+        "x": 940,
+        "y": 595,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 50%"
+      }
+    ]
+  },
+  {
+    "name": "Stone Hill",
+    //"access_rules": [
+    //  "stonehill"
+    //],
+    "map_locations": [
+      {
+        "map": "stonehill",
+        "x": 940,
+        "y": 620,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 75%"
+      }
+    ]
+  },
+  {
+    "name": "Stone Hill",
+    //"access_rules": [
+    //  "stonehill"
+    //],
+    "map_locations": [
+      {
+        "map": "stonehill",
+        "x": 940,
+        "y": 645,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 100%"
+      }
+    ]
+  },
+  // DARK HOLLOW --------------------------------------
+  {
+    "name": "Dakr Hollow",
+    //"access_rules": [
+    //  "darkhollow"
+    //],
+    "map_locations": [
+      {
+        "map": "darkhollow",
+        "x": 197,
+        "y": 280,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "ALBAN"
+      }
+    ]
+  },
+  {
+    "name": "Dark Hollow",
+    //"access_rules": [
+    //  "darkhollow"
+    //],
+    "map_locations": [
+      {
+        "map": "darkhollow",
+        "x": 1000,
+        "y": 270,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "OSWIN"
+      }
+    ]
+  },
+  {
+    "name": "Dark Hollow",
+    //"access_rules": [
+    //  "darkhollow"
+    //],
+    "map_locations": [
+      {
+        "map": "darkhollow",
+        "x": 580,
+        "y": 117,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "DARIUS"
+      }
+    ]
+  },
+  {
+    "name": "Dark Hollow",
+    //"access_rules": [
+    //  "darkhollow"
+    //],
+    "map_locations": [
+      {
+        "map": "darkhollow",
+        "x": 660,
+        "y": 90,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "REALM EXIT"
+      }
+    ]
+  },
+  {
+    "name": "Dark Hollow",
+    //"access_rules": [
+    //  "darkhollow"
+    //],
+    "map_locations": [
+      {
+        "map": "darkhollow",
+        "x": 940,
+        "y": 230,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "CHEST KEY"
+      }
+    ]
+  },
+  {
+    "name": "Dark Hollow",
+    //"access_rules": [
+    //  "darkhollow"
+    //],
+    "map_locations": [
+      {
+        "map": "darkhollow",
+        "x": 260,
+        "y": 420,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "KEY CHEST"
+      }
+    ]
+  },
+  //GEMSTONES DARK HOLLOW ---------------------------------------
+  {
+    "name": "Dark Hollow",
+    //"access_rules": [
+    //  "darkhollow"
+    //],
+    "map_locations": [
+      {
+        "map": "darkhollow",
+        "x": 940,
+        "y": 20,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 25%"
+      }
+    ]
+  },
+  {
+    "name": "Dark Hollow",
+    //"access_rules": [
+    //  "darkhollow"
+    //],
+    "map_locations": [
+      {
+        "map": "darkhollow",
+        "x": 940,
+        "y": 45,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 50%"
+      }
+    ]
+  },
+  {
+    "name": "Dark Hollow",
+    //"access_rules": [
+    //  "darkhollow"
+    //],
+    "map_locations": [
+      {
+        "map": "darkhollow",
+        "x": 940,
+        "y": 70,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 75%"
+      }
+    ]
+  },
+  {
+    "name": "Dark Hollow",
+    //"access_rules": [
+    //  "darkhollow"
+    //],
+    "map_locations": [
+      {
+        "map": "darkhollow",
+        "x": 940,
+        "y": 95,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 100%"
+      }
+    ]
+  },
+  // TOWN SQUARE --------------------------------------
+  {
+    "name": "Town Square",
+    //"access_rules": [
+    //  "townsquare"
+    //],
+    "map_locations": [
+      {
+        "map": "townsquare",
+        "x": 680,
+        "y": 728,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "NILS"
+      }
+    ]
+  },
+  {
+    "name": "Town Square",
+    //"access_rules": [
+    //  "townsquare"
+    //],
+    "map_locations": [
+      {
+        "map": "townsquare",
+        "x": 450,
+        "y": 518,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "DEVLIN"
+      }
+    ]
+  },
+  {
+    "name": "Town Square",
+    //"access_rules": [
+    //  "townsquare"
+    //],
+    "map_locations": [
+      {
+        "map": "townsquare",
+        "x": 785,
+        "y": 435,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "ALVAR"
+      }
+    ]
+  },
+  {
+    "name": "Town Square",
+    //"access_rules": [
+    //  "townsquare"
+    //],
+    "map_locations": [
+      {
+        "map": "townsquare",
+        "x": 645,
+        "y": 595,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "THOR"
+      }
+    ]
+  },
+  {
+    "name": "Town Square",
+    //"access_rules": [
+    //  "townsquare"
+    //],
+    "map_locations": [
+      {
+        "map": "townsquare",
+        "x": 823,
+        "y": 387,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "REALM EXIT"
+      }
+    ]
+  },
+
+  {
+    "name": "Town Square",
+    //"access_rules": [
+    //  "townsquare"
+    //],
+    "map_locations": [
+      {
+        "map": "townsquare",
+        "x": 125,
+        "y": 375,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "EGG THEIF"
+      }
+    ]
+  },
+  //GEMSTONES TOWN SQUARE ---------------------------------------
+  {
+    "name": "Town Square",
+    //"access_rules": [
+    //  "townsquare"
+    //],
+    "map_locations": [
+      {
+        "map": "townsquare",
+        "x": 850,
+        "y": 890,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 25%"
+      }
+    ]
+  },
+  {
+    "name": "Town Square",
+    //"access_rules": [
+    //  "townsquare"
+    //],
+    "map_locations": [
+      {
+        "map": "townsquare",
+        "x": 850,
+        "y": 915,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 50%"
+      }
+    ]
+  },
+  {
+    "name": "Town Square",
+    //"access_rules": [
+    //  "townsquare"
+    //],
+    "map_locations": [
+      {
+        "map": "townsquare",
+        "x": 850,
+        "y": 940,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 75%"
+      }
+    ]
+  },
+  {
+    "name": "Town Square",
+    //"access_rules": [
+    //  "townsquare"
+    //],
+    "map_locations": [
+      {
+        "map": "townsquare",
+        "x": 850,
+        "y": 965,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 100%"
+      }
+    ]
+  },
+  //TOASTY BOSS REALM ---------------------------------
+  {
+    "name": "Toasty",
+    //"access_rules": [
+    //  "toastyworld"
+    //],
+    "map_locations": [
+      {
+        "map": "toasty",
+        "x": 728,
+        "y": 270,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "NEVIN"
+      }
+    ]
+  },
+  {
+    "name": "Town Square",
+    //"access_rules": [
+    //  "toastyworld"
+    //],
+    "map_locations": [
+      {
+        "map": "toasty",
+        "x": 680,
+        "y": 565,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "REALM EXIT"
+      }
+    ]
+  },
+
+  {
+    "name": "Town Square",
+    //"access_rules": [
+    //  "toastyworld"
+    //],
+    "map_locations": [
+      {
+        "map": "toasty",
+        "x": 830,
+        "y": 430,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "Toasty"
+      }
+    ]
+  },
+  //GEMSTONES TOASTY BOSS REALM ---------------------------------------
+  {
+    "name": "Toasty",
+    //"access_rules": [
+    //  "toastyworld"
+    //],
+    "map_locations": [
+      {
+        "map": "toasty",
+        "x": 250,
+        "y": 930,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 25%"
+      }
+    ]
+  },
+  {
+    "name": "Toasty",
+    //"access_rules": [
+    //  "toastyworld"
+    //],
+    "map_locations": [
+      {
+        "map": "toasty",
+        "x": 250,
+        "y": 955,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 50%"
+      }
+    ]
+  },
+  {
+    "name": "Toasty",
+    //"access_rules": [
+    //  "townsquare"
+    //],
+    "map_locations": [
+      {
+        "map": "toasty",
+        "x": 250,
+        "y": 980,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 75%"
+      }
+    ]
+  },
+  {
+    "name": "Toasty",
+    //"access_rules": [
+    //  "toastyworld"
+    //],
+    "map_locations": [
+      {
+        "map": "toasty",
+        "x": 250,
+        "y": 1005,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 100%"
+      }
+    ]
+  },
+  [
+    //PEACE KEEPERS DRAGONS ----------------------------------------
+    {
+      "name": "Peace Keeprs",
+      "access_rules": [
+        "peacekeepers"
+      ],
+
+      "map_locations": [
+        {
+          "map": "peacekeepers",
+          "x": 325,
+          "y": 605,
+          "size": 15,
+          "border_thickness": 1,
+          "shape": "rect"
+        }
+      ],
+      "sections": [
+        {
+          "name": "TITAN"
+        }
+      ]
+    },
+    {
+      "name": "Peace Keeprs",
+      "access_rules": [
+        "peacekeepers"
+      ],
+      "map_locations": [
+        {
+          "map": "peacekeepers",
+          "x": 827,
+          "y": 270,
+          "size": 15,
+          "border_thickness": 1,
+          "shape": "rect"
+        }
+      ],
+      "sections": [
+        {
+          "name": "MAGNUS"
+        }
+      ]
+    },
+    {
+      "name": "Peace Keeprs",
+      "access_rules": [
+        "peacekeepers"
+      ],
+      "map_locations": [
+        {
+          "map": "peacekeepers",
+          "x": 936,
+          "y": 643,
+          "size": 15,
+          "border_thickness": 1,
+          "shape": "rect"
+        }
+      ],
+      "sections": [
+        {
+          "name": "GUNNAR"
+        }
+      ]
+    },
+    // PEACE KEEPERS OTHER ITEMS ------------------------------
+    {
+      "name": "Peace Keeprs",
+      "access_rules": [
+        "peacekeepers"
+      ],
+      "map_locations": [
+        {
+          "map": "peacekeepers",
+          "x": 980,
+          "y": 670,
+          "size": 15,
+          "border_thickness": 1,
+          "shape": "rect"
+        }
+      ],
+      "sections": [
+        {
+          "name": "EGG THEIF"
+        }
+      ]
+    },
+    //REALM GATES FOR PEACE KEEPERS -------------------------------------
+    {
+      "name": "Peace Keeprs",
+      "access_rules": [
+        "peacekeepers,drycanyon"
+      ],
+      "map_locations": [
+        {
+          "map": "peacekeepers",
+          "x": 344,
+          "y": 308,
+          "size": 15,
+          "border_thickness": 2,
+          "shape": "trapezoid"
+        }
+      ],
+      "sections": [
+        {
+          "name": "DRY CANYON GATE"
+        }
+      ]
+    },
+    {
+      "name": "Peace Keeprs",
+      "access_rules": [
+        "peacekeepers,clifftown"
+      ],
+      "map_locations": [
+        {
+          "map": "peacekeepers",
+          "x": 610,
+          "y": 255,
+          "size": 15,
+          "border_thickness": 2,
+          "shape": "trapezoid"
+        }
+      ],
+      "sections": [
+        {
+          "name": "CLIFF TOWN GATE"
+        }
+      ]
+    },
+    {
+      "name": "Peace Keeprs",
+      "access_rules": [
+        "peacekeepers,icecavern"
+      ],
+      "map_locations": [
+        {
+          "map": "peacekeepers",
+          "x": 1040,
+          "y": 255,
+          "size": 15,
+          "border_thickness": 2,
+          "shape": "trapezoid"
+        }
+      ],
+      "sections": [
+        {
+          "name": "ICE CAVERN GATE"
+        }
+      ]
+    },
+    {
+      "name": "Peace Keeprs",
+      "access_rules": [
+        "peacekeepers,doctorshemp"
+      ],
+      "map_locations": [
+        {
+          "map": "peacekeepers",
+          "x": 860,
+          "y": 435,
+          "size": 15,
+          "border_thickness": 2,
+          "shape": "trapezoid"
+        }
+      ],
+      "sections": [
+        {
+          "name": "DOCTOR SHEMP GATE"
+        }
+      ]
+    },
+    {
+      "name": "Peace Keeprs",
+      "access_rules": [
+        "peacekeepers,nightflight"
+      ],
+      "map_locations": [
+        {
+          "map": "peacekeepers",
+          "x": 660,
+          "y": 390,
+          "size": 15,
+          "border_thickness": 2,
+          "shape": "trapezoid"
+        }
+      ],
+      "sections": [
+        {
+          "name": "NIGHT FLIGHT GATE"
+        }
+      ]
+    },
+    //GEMSTONES PEACE KEEPERS ---------------------------------------
+    {
+      "name": "Peace Keeprs",
+      "access_rules": [
+        "peacekeepers"
+      ],
+      "map_locations": [
+        {
+          "map": "peacekeepers",
+          "x": 890,
+          "y": 730,
+          "size": 20,
+          "border_thickness": 2,
+          "shape": "diamond"
+        }
+      ],
+      "sections": [
+        {
+          "name": "GEMSTONE 25%"
+        }
+      ]
+    },
+    {
+      "name": "Peace Keeprs",
+      "access_rules": [
+        "peacekeepers"
+      ],
+      "map_locations": [
+        {
+          "map": "peacekeepers",
+          "x": 890,
+          "y": 755,
+          "size": 20,
+          "border_thickness": 2,
+          "shape": "diamond"
+        }
+      ],
+      "sections": [
+        {
+          "name": "GEMSTONE 50%"
+        }
+      ]
+    },
+    {
+      "name": "Peace Keeprs",
+      "access_rules": [
+        "peacekeepers"
+      ],
+      "map_locations": [
+        {
+          "map": "peacekeepers",
+          "x": 890,
+          "y": 780,
+          "size": 20,
+          "border_thickness": 2,
+          "shape": "diamond"
+        }
+      ],
+      "sections": [
+        {
+          "name": "GEMSTONE 75%"
+        }
+      ]
+    },
+    {
+      "name": "Peace Keeprs",
+      "access_rules": [
+        "peacekeepers"
+      ],
+      "map_locations": [
+        {
+          "map": "peacekeepers",
+          "x": 890,
+          "y": 805,
+          "size": 20,
+          "border_thickness": 2,
+          "shape": "diamond"
+        }
+      ],
+      "sections": [
+        {
+          "name": "GEMSTONE 100%"
+        }
+      ]
+    },
+    //DRY CANYON DRAGONS ----------------------------------------
+    {
+      "name": "Dry Canyon",
+      // ACCESS RULES FOR REALMS LEFT OUT FOR NOW ---
+      //"access_rules": [
+      //  "drycanyon"
+      //],
+      "map_locations": [
+        {
+          "map": "drycanyon",
+          "x": 118,
+          "y": 583,
+          "size": 20,
+          "border_thickness": 1,
+          "shape": "rect"
+        }
+      ],
+      "sections": [
+        {
+          "name": "LINDAR"
+        }
+      ]
+    },
+    {
+      "name": "Dry Canyon",
+      //"access_rules": [
+      //  "drycanyon"
+      //],
+      "map_locations": [
+        {
+          "map": "drycanyon",
+          "x": 295,
+          "y": 308,
+          "size": 20,
+          "border_thickness": 1,
+          "shape": "rect"
+        }
+      ],
+      "sections": [
+        {
+          "name": "ASTOR"
+        }
+      ]
+    },
+    {
+      "name": "Dry Canyon",
+      //"access_rules": [
+      //  "drycanyon"
+      //],
+      "map_locations": [
+        {
+          "map": "drycanyon",
+          "x": 817,
+          "y": 575,
+          "size": 20,
+          "border_thickness": 1,
+          "shape": "rect"
+        }
+      ],
+      "sections": [
+        {
+          "name": "GAVIN"
+        }
+      ]
+    },
+    {
+      "name": "Dry Canyon",
+      //"access_rules": [
+      //  "drycanyon"
+      //],
+      "map_locations": [
+        {
+          "map": "drycanyon",
+          "x": 736,
+          "y": 171,
+          "size": 20,
+          "border_thickness": 1,
+          "shape": "rect"
+        }
+      ],
+      "sections": [
+        {
+          "name": "GILDAS"
+        }
+      ]
+    },
+    {
+      "name": "Dry Canyon",
+      //"access_rules": [
+      //  "drycanyon"
+      //],
+      "map_locations": [
+        {
+          "map": "drycanyon",
+          "x": 580,
+          "y": 319,
+          "size": 20,
+          "border_thickness": 1,
+          "shape": "trapezoid"
+        }
+      ],
+      "sections": [
+        {
+          "name": "EGG THEIF"
+        }
+      ]
+    },
+    {
+      "name": "Dry Canyon",
+      //"access_rules": [
+      //  "drycanyon"
+      //],
+      "map_locations": [
+        {
+          "map": "drycanyon",
+          "x": 270,
+          "y": 308,
+          "size": 20,
+          "border_thickness": 1,
+          "shape": "rect"
+        }
+      ],
+      "sections": [
+        {
+          "name": "REALM EXIT"
+        }
+      ]
+    },
+    {
+      "name": "Dry Canyon",
+      //"access_rules": [
+      //  "drycanyon"
+      //],
+      "map_locations": [
+        {
+          "map": "drycanyon",
+          "x": 783,
+          "y": 545,
+          "size": 20,
+          "border_thickness": 1,
+          "shape": "rect"
+        }
+      ],
+      "sections": [
+        {
+          "name": "KEY CHEST"
+        }
+      ]
+    },
+    {
+      "name": "Dry Canyon",
+      //"access_rules": [
+      //  "drycanyon"
+      //],
+      "map_locations": [
+        {
+          "map": "drycanyon",
+          "x": 403,
+          "y": 261,
+          "size": 20,
+          "border_thickness": 1,
+          "shape": "rect"
+        }
+      ],
+      "sections": [
+        {
+          "name": "CHEST KEY"
+        }
+      ]
+    },
+    //GEMSTONES STONE HILL ---------------------------------------
+    {
+      "name": "Dry Canyon",
+      //"access_rules": [
+      //  "drycanyon"
+      //],
+      "map_locations": [
+        {
+          "map": "drycanyon",
+          "x": 940,
+          "y": 570,
+          "size": 20,
+          "border_thickness": 2,
+          "shape": "diamond"
+        }
+      ],
+      "sections": [
+        {
+          "name": "GEMSTONE 25%"
+        }
+      ]
+    },
+    {
+      "name": "Dry Canyon",
+      //"access_rules": [
+      //  "drycanyon"
+      //],
+      "map_locations": [
+        {
+          "map": "drycanyon",
+          "x": 940,
+          "y": 595,
+          "size": 20,
+          "border_thickness": 2,
+          "shape": "diamond"
+        }
+      ],
+      "sections": [
+        {
+          "name": "GEMSTONE 50%"
+        }
+      ]
+    },
+    {
+      "name": "Dry Canyon",
+      //"access_rules": [
+      //  "drycanyon"
+      //],
+      "map_locations": [
+        {
+          "map": "drycanyon",
+          "x": 940,
+          "y": 620,
+          "size": 20,
+          "border_thickness": 2,
+          "shape": "diamond"
+        }
+      ],
+      "sections": [
+        {
+          "name": "GEMSTONE 75%"
+        }
+      ]
+    },
+    {
+      "name": "Dry Canyon",
+      //"access_rules": [
+      //  "drycanyon"
+      //],
+      "map_locations": [
+        {
+          "map": "drycanyon",
+          "x": 940,
+          "y": 645,
+          "size": 20,
+          "border_thickness": 2,
+          "shape": "diamond"
+        }
+      ],
+      "sections": [
+        {
+          "name": "GEMSTONE 100%"
+        }
+      ]
+    },
+    // DARK HOLLOW --------------------------------------
+    {
+      "name": "Dakr Hollow",
+      //"access_rules": [
+      //  "darkhollow"
+      //],
+      "map_locations": [
+        {
+          "map": "darkhollow",
+          "x": 197,
+          "y": 280,
+          "size": 20,
+          "border_thickness": 1,
+          "shape": "rect"
+        }
+      ],
+      "sections": [
+        {
+          "name": "ALBAN"
+        }
+      ]
+    },
+    {
+      "name": "Dark Hollow",
+      //"access_rules": [
+      //  "darkhollow"
+      //],
+      "map_locations": [
+        {
+          "map": "darkhollow",
+          "x": 1000,
+          "y": 270,
+          "size": 20,
+          "border_thickness": 1,
+          "shape": "rect"
+        }
+      ],
+      "sections": [
+        {
+          "name": "OSWIN"
+        }
+      ]
+    },
+    {
+      "name": "Dark Hollow",
+      //"access_rules": [
+      //  "darkhollow"
+      //],
+      "map_locations": [
+        {
+          "map": "darkhollow",
+          "x": 580,
+          "y": 117,
+          "size": 20,
+          "border_thickness": 1,
+          "shape": "rect"
+        }
+      ],
+      "sections": [
+        {
+          "name": "DARIUS"
+        }
+      ]
+    },
+    {
+      "name": "Dark Hollow",
+      //"access_rules": [
+      //  "darkhollow"
+      //],
+      "map_locations": [
+        {
+          "map": "darkhollow",
+          "x": 660,
+          "y": 90,
+          "size": 20,
+          "border_thickness": 1,
+          "shape": "rect"
+        }
+      ],
+      "sections": [
+        {
+          "name": "REALM EXIT"
+        }
+      ]
+    },
+    {
+      "name": "Dark Hollow",
+      //"access_rules": [
+      //  "darkhollow"
+      //],
+      "map_locations": [
+        {
+          "map": "darkhollow",
+          "x": 940,
+          "y": 230,
+          "size": 20,
+          "border_thickness": 1,
+          "shape": "rect"
+        }
+      ],
+      "sections": [
+        {
+          "name": "CHEST KEY"
+        }
+      ]
+    },
+    {
+      "name": "Dark Hollow",
+      //"access_rules": [
+      //  "darkhollow"
+      //],
+      "map_locations": [
+        {
+          "map": "darkhollow",
+          "x": 260,
+          "y": 420,
+          "size": 20,
+          "border_thickness": 1,
+          "shape": "rect"
+        }
+      ],
+      "sections": [
+        {
+          "name": "KEY CHEST"
+        }
+      ]
+    },
+    //GEMSTONES DARK HOLLOW ---------------------------------------
+    {
+      "name": "Dark Hollow",
+      //"access_rules": [
+      //  "darkhollow"
+      //],
+      "map_locations": [
+        {
+          "map": "darkhollow",
+          "x": 940,
+          "y": 20,
+          "size": 20,
+          "border_thickness": 2,
+          "shape": "diamond"
+        }
+      ],
+      "sections": [
+        {
+          "name": "GEMSTONE 25%"
+        }
+      ]
+    },
+    {
+      "name": "Dark Hollow",
+      //"access_rules": [
+      //  "darkhollow"
+      //],
+      "map_locations": [
+        {
+          "map": "darkhollow",
+          "x": 940,
+          "y": 45,
+          "size": 20,
+          "border_thickness": 2,
+          "shape": "diamond"
+        }
+      ],
+      "sections": [
+        {
+          "name": "GEMSTONE 50%"
+        }
+      ]
+    },
+    {
+      "name": "Dark Hollow",
+      //"access_rules": [
+      //  "darkhollow"
+      //],
+      "map_locations": [
+        {
+          "map": "darkhollow",
+          "x": 940,
+          "y": 70,
+          "size": 20,
+          "border_thickness": 2,
+          "shape": "diamond"
+        }
+      ],
+      "sections": [
+        {
+          "name": "GEMSTONE 75%"
+        }
+      ]
+    },
+    {
+      "name": "Dark Hollow",
+      //"access_rules": [
+      //  "darkhollow"
+      //],
+      "map_locations": [
+        {
+          "map": "darkhollow",
+          "x": 940,
+          "y": 95,
+          "size": 20,
+          "border_thickness": 2,
+          "shape": "diamond"
+        }
+      ],
+      "sections": [
+        {
+          "name": "GEMSTONE 100%"
+        }
+      ]
+    },
+    // TOWN SQUARE --------------------------------------
+    {
+      "name": "Town Square",
+      //"access_rules": [
+      //  "townsquare"
+      //],
+      "map_locations": [
+        {
+          "map": "townsquare",
+          "x": 680,
+          "y": 728,
+          "size": 20,
+          "border_thickness": 1,
+          "shape": "rect"
+        }
+      ],
+      "sections": [
+        {
+          "name": "NILS"
+        }
+      ]
+    },
+    {
+      "name": "Town Square",
+      //"access_rules": [
+      //  "townsquare"
+      //],
+      "map_locations": [
+        {
+          "map": "townsquare",
+          "x": 450,
+          "y": 518,
+          "size": 20,
+          "border_thickness": 1,
+          "shape": "rect"
+        }
+      ],
+      "sections": [
+        {
+          "name": "DEVLIN"
+        }
+      ]
+    },
+    {
+      "name": "Town Square",
+      //"access_rules": [
+      //  "townsquare"
+      //],
+      "map_locations": [
+        {
+          "map": "townsquare",
+          "x": 785,
+          "y": 435,
+          "size": 20,
+          "border_thickness": 1,
+          "shape": "rect"
+        }
+      ],
+      "sections": [
+        {
+          "name": "ALVAR"
+        }
+      ]
+    },
+    {
+      "name": "Town Square",
+      //"access_rules": [
+      //  "townsquare"
+      //],
+      "map_locations": [
+        {
+          "map": "townsquare",
+          "x": 645,
+          "y": 595,
+          "size": 20,
+          "border_thickness": 1,
+          "shape": "rect"
+        }
+      ],
+      "sections": [
+        {
+          "name": "THOR"
+        }
+      ]
+    },
+    {
+      "name": "Town Square",
+      //"access_rules": [
+      //  "townsquare"
+      //],
+      "map_locations": [
+        {
+          "map": "townsquare",
+          "x": 823,
+          "y": 387,
+          "size": 20,
+          "border_thickness": 1,
+          "shape": "rect"
+        }
+      ],
+      "sections": [
+        {
+          "name": "REALM EXIT"
+        }
+      ]
+    },
+
+    {
+      "name": "Town Square",
+      //"access_rules": [
+      //  "townsquare"
+      //],
+      "map_locations": [
+        {
+          "map": "townsquare",
+          "x": 125,
+          "y": 375,
+          "size": 20,
+          "border_thickness": 1,
+          "shape": "trapezoid"
+        }
+      ],
+      "sections": [
+        {
+          "name": "EGG THEIF"
+        }
+      ]
+    },
+    //GEMSTONES TOWN SQUARE ---------------------------------------
+    {
+      "name": "Town Square",
+      //"access_rules": [
+      //  "townsquare"
+      //],
+      "map_locations": [
+        {
+          "map": "townsquare",
+          "x": 850,
+          "y": 890,
+          "size": 20,
+          "border_thickness": 2,
+          "shape": "diamond"
+        }
+      ],
+      "sections": [
+        {
+          "name": "GEMSTONE 25%"
+        }
+      ]
+    },
+    {
+      "name": "Town Square",
+      //"access_rules": [
+      //  "townsquare"
+      //],
+      "map_locations": [
+        {
+          "map": "townsquare",
+          "x": 850,
+          "y": 915,
+          "size": 20,
+          "border_thickness": 2,
+          "shape": "diamond"
+        }
+      ],
+      "sections": [
+        {
+          "name": "GEMSTONE 50%"
+        }
+      ]
+    },
+    {
+      "name": "Town Square",
+      //"access_rules": [
+      //  "townsquare"
+      //],
+      "map_locations": [
+        {
+          "map": "townsquare",
+          "x": 850,
+          "y": 940,
+          "size": 20,
+          "border_thickness": 2,
+          "shape": "diamond"
+        }
+      ],
+      "sections": [
+        {
+          "name": "GEMSTONE 75%"
+        }
+      ]
+    },
+    {
+      "name": "Town Square",
+      //"access_rules": [
+      //  "townsquare"
+      //],
+      "map_locations": [
+        {
+          "map": "townsquare",
+          "x": 850,
+          "y": 965,
+          "size": 20,
+          "border_thickness": 2,
+          "shape": "diamond"
+        }
+      ],
+      "sections": [
+        {
+          "name": "GEMSTONE 100%"
+        }
+      ]
+    },
+    //TOASTY BOSS REALM ---------------------------------
+    {
+      "name": "Toasty",
+      //"access_rules": [
+      //  "toastyworld"
+      //],
+      "map_locations": [
+        {
+          "map": "toasty",
+          "x": 728,
+          "y": 270,
+          "size": 20,
+          "border_thickness": 1,
+          "shape": "rect"
+        }
+      ],
+      "sections": [
+        {
+          "name": "NEVIN"
+        }
+      ]
+    },
+    {
+      "name": "Town Square",
+      //"access_rules": [
+      //  "toastyworld"
+      //],
+      "map_locations": [
+        {
+          "map": "toasty",
+          "x": 680,
+          "y": 565,
+          "size": 20,
+          "border_thickness": 1,
+          "shape": "rect"
+        }
+      ],
+      "sections": [
+        {
+          "name": "REALM EXIT"
+        }
+      ]
+    },
+
+    {
+      "name": "Town Square",
+      //"access_rules": [
+      //  "toastyworld"
+      //],
+      "map_locations": [
+        {
+          "map": "toasty",
+          "x": 830,
+          "y": 430,
+          "size": 20,
+          "border_thickness": 1,
+          "shape": "trapezoid"
+        }
+      ],
+      "sections": [
+        {
+          "name": "Toasty"
+        }
+      ]
+    },
+    //GEMSTONES TOASTY BOSS REALM ---------------------------------------
+    {
+      "name": "Toasty",
+      //"access_rules": [
+      //  "toastyworld"
+      //],
+      "map_locations": [
+        {
+          "map": "toasty",
+          "x": 250,
+          "y": 930,
+          "size": 20,
+          "border_thickness": 2,
+          "shape": "diamond"
+        }
+      ],
+      "sections": [
+        {
+          "name": "GEMSTONE 25%"
+        }
+      ]
+    },
+    {
+      "name": "Toasty",
+      //"access_rules": [
+      //  "toastyworld"
+      //],
+      "map_locations": [
+        {
+          "map": "toasty",
+          "x": 250,
+          "y": 955,
+          "size": 20,
+          "border_thickness": 2,
+          "shape": "diamond"
+        }
+      ],
+      "sections": [
+        {
+          "name": "GEMSTONE 50%"
+        }
+      ]
+    },
+    {
+      "name": "Toasty",
+      //"access_rules": [
+      //  "townsquare"
+      //],
+      "map_locations": [
+        {
+          "map": "toasty",
+          "x": 250,
+          "y": 980,
+          "size": 20,
+          "border_thickness": 2,
+          "shape": "diamond"
+        }
+      ],
+      "sections": [
+        {
+          "name": "GEMSTONE 75%"
+        }
+      ]
+    },
+    {
+      "name": "Toasty",
+      //"access_rules": [
+      //  "toastyworld"
+      //],
+      "map_locations": [
+        {
+          "map": "toasty",
+          "x": 250,
+          "y": 1005,
+          "size": 20,
+          "border_thickness": 2,
+          "shape": "diamond"
+        }
+      ],
+      "sections": [
+        {
+          "name": "GEMSTONE 100%"
+        }
+      ]
+    }
+  ]
+]
