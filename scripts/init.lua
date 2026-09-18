@@ -2,6 +2,7 @@ Tracker:AddItems("items/items.json")
 Tracker:AddItems("items/modifiers.json")
 
 Tracker:AddMaps("maps/maps.json")
+Tracker:AddLocations("locations/locations.json")
 
 ScriptHost:LoadScript("scripts/logic.lua")
 
