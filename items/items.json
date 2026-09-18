@@ -1,272 +1,1328 @@
 [
-	{
-        "name": "Toasty's Stilts",
-        "type": "toggle",
-        "img": "images/items/toasty.png",
-        "codes": "toastysstilts"
-    },
-	{
-        "name": "Shemp's Staff",
-        "type": "toggle",
-        "img": "images/items/shemp.png",
-        "codes": "shempsstaff"
-    },
-	{
-        "name": "Blowhard's Beard",
-        "type": "toggle",
-        "img": "images/items/blowhard.png",
-        "codes": "Blowhard's Beard"
-    },
-	{
-        "name": "Metalhead's Mowhawk",
-        "type": "toggle",
-        "img": "images/items/metalhead.png",
-        "codes": "metalheadsmowhawk"
-    },
-	{
-        "name": "Jacques' Ribbon",
-        "type": "toggle",
-        "img": "images/items/jacques.png",
-        "codes": "jacquesribbon"
-    },
-	{
-        "name": "Gnasty Gnorc",
-        "type": "toggle",
-        "img": "images/items/gnastygnorc.png",
-        "codes": "gnastygnorc"
-    },
-	{
-        "name": "Artisans",
-        "type": "toggle",
-        "img": "images/items/gnastygnorc.png",
-        "codes": "artisans"
-    },
-	{
-        "name": "Beast Makers",
-        "type": "toggle",
-        "img": "images/items/gnastygnorc.png",
-        "codes": "beastmakers"
-    },
-	{
-        "name": "Peace Keepers",
-        "type": "toggle",
-        "img": "images/items/gnastygnorc.png",
-        "codes": "peacekeepers"
-    },
-	{
-        "name": "Magic Crafters",
-        "type": "toggle",
-        "img": "images/items/gnastygnorc.png",
-        "codes": "magiccrafters"
-    },
-	{
-        "name": "Dream Weavers",
-        "type": "toggle",
-        "img": "images/items/gnastygnorc.png",
-        "codes": "dreamweavers"
-    },
-	{
-        "name": "Stone Hill",
-        "type": "toggle",
-        "img": "images/items/gnastygnorc.png",
-        "codes": "stonehill"
-    },
-	{
-        "name": "Dark Hollow",
-        "type": "toggle",
-        "img": "images/items/gnastygnorc.png",
-        "codes": "darkhollow"
-    },
-	{
-        "name": "Town Square",
-        "type": "toggle",
-        "img": "images/items/gnastygnorc.png",
-        "codes": "townsquare"
-    },
-	{
-        "name": "Toasty",
-        "type": "toggle",
-        "img": "images/items/gnastygnorc.png",
-        "codes": "toasty"
-    },
-	{
-        "name": "Sunny Flight",
-        "type": "toggle",
-        "img": "images/items/gnastygnorc.png",
-        "codes": "sunnyflight"
-    },
-	{
-        "name": "Dry Canyon",
-        "type": "toggle",
-        "img": "images/items/gnastygnorc.png",
-        "codes": "drycanyon"
-    },
-	{
-        "name": "Cliff Town",
-        "type": "toggle",
-        "img": "images/items/gnastygnorc.png",
-        "codes": "clifftown"
-    },
-	{
-        "name": "Ice Cavern",
-        "type": "toggle",
-        "img": "images/items/gnastygnorc.png",
-        "codes": "icecavern"
-    },
-	{
-        "name": "Doctor Shemp",
-        "type": "toggle",
-        "img": "images/items/gnastygnorc.png",
-        "codes": "doctorshemp"
-    },
-	{
-        "name": "Night Flight",
-        "type": "toggle",
-        "img": "images/items/gnastygnorc.png",
-        "codes": "nightflight"
-    },
-	{
-        "name": "Alpine Ridge",
-        "type": "toggle",
-        "img": "images/items/gnastygnorc.png",
-        "codes": "alpineridge"
-    },
-	{
-        "name": "High Caves",
-        "type": "toggle",
-        "img": "images/items/gnastygnorc.png",
-        "codes": "highcaves"
-    },
-	{
-        "name": "Wizard Peak",
-        "type": "toggle",
-        "img": "images/items/gnastygnorc.png",
-        "codes": "wizardpeak"
-    },
-	{
-        "name": "Blowhard",
-        "type": "toggle",
-        "img": "images/items/gnastygnorc.png",
-        "codes": "blowhard"
-    },
-	{
-        "name": "Crystal Flight",
-        "type": "toggle",
-        "img": "images/items/gnastygnorc.png",
-        "codes": "crystalflight"
-    },
-	{
-        "name": "Terrace Village",
-        "type": "toggle",
-        "img": "images/items/gnastygnorc.png",
-        "codes": "terracevillage"
-    },
-	{
-        "name": "Misty Bog",
-        "type": "toggle",
-        "img": "images/items/gnastygnorc.png",
-        "codes": "mistybog"
-    },
-	{
-        "name": "Tree Tops",
-        "type": "toggle",
-        "img": "images/items/gnastygnorc.png",
-        "codes": "treetops"
-    },
-	{
-        "name": "Metalhead",
-        "type": "toggle",
-        "img": "images/items/gnastygnorc.png",
-        "codes": "metalhead"
-    },
-	{
-        "name": "Wild Flight",
-        "type": "toggle",
-        "img": "images/items/gnastygnorc.png",
-        "codes": "wildflight"
-    },
-	{
-        "name": "Dark Passage",
-        "type": "toggle",
-        "img": "images/items/gnastygnorc.png",
-        "codes": "darkpassage"
-    },
-	{
-        "name": "Lofty Castle",
-        "type": "toggle",
-        "img": "images/items/gnastygnorc.png",
-        "codes": "loftycastle"
-    },
-	{
-        "name": "Haunted Towers",
-        "type": "toggle",
-        "img": "images/items/gnastygnorc.png",
-        "codes": "hauntedtowers"
-    },
-	{
-        "name": "Jacques",
-        "type": "toggle",
-        "img": "images/items/gnastygnorc.png",
-        "codes": "jacques"
-    },
-	{
-        "name": "Icy Flight",
-        "type": "toggle",
-        "img": "images/items/gnastygnorc.png",
-        "codes": "icyflight"
-    },
-	{
-        "name": "Gnorc Cove",
-        "type": "toggle",
-        "img": "images/items/gnastygnorc.png",
-        "codes": "gnorccove"
-    },
-	{
-        "name": "Twilight Harbor",
-        "type": "toggle",
-        "img": "images/items/gnastygnorc.png",
-        "codes": "twilightharbor"
-    },
-	{
-        "name": "Gnasty's Loot",
-        "type": "toggle",
-        "img": "images/items/gnastysloot.png",
-        "codes": "gnastysloot"
-    },
-	{
-        "name": "Victory",
-        "type": "toggle",
-        "img": "images/items/gnastygnorc.png",
-        "codes": "victory"
-    },
-	{
-        "name": "Flop Trap",
-        "type": "consumable",
-        "img": "images/items/gnastygnorc.png",
-        "codes": "floptrap"
-    },
-	{
-        "name": "Roll Trap",
-        "type": "consumable",
-        "img": "images/items/gnastygnorc.png",
-        "codes": "rolltrap"
-    },
-	{
-        "name": "Faint Trap",
-        "type": "consumable",
-        "img": "images/items/gnastygnorc.png",
-        "codes": "fainttrap"
-    },
-	{
-        "name": "Extra Life",
-        "type": "consumable",
-        "img": "images/items/gnastygnorc.png",
-        "codes": "extralife"
-    },
-	{
-        "name": "Butterfly",
-        "type": "consumable",
-        "img": "images/items/gnastygnorc.png",
-        "codes": "butterfly"
-    }
+  {
+    "name": "Toasty's Stilts",
+    "type": "toggle",
+    "img": "images/items/toastystilts.png",
+    "codes": "toastysstilts"
+  },
+  {
+    "name": "Shemp's Staff",
+    "type": "toggle",
+    "img": "images/items/shempsstaff.png",
+    "codes": "shempsstaff"
+  },
+  {
+    "name": "Doctor Shemp",
+    "type": "toggle",
+    "img": "images/items/doctorshemp.png",
+    "codes": "doctorshemp"
+  },
+  {
+    "name": "Blowhard's Beard",
+    "type": "toggle",
+    "img": "images/items/blowhardbeard.png",
+    "codes": "Blowhard's Beard"
+  },
+  {
+    "name": "Blowhard",
+    "type": "toggle",
+    "img": "images/items/blowhard.png",
+    "codes": "blowhard"
+  },
+  {
+    "name": "Metalhead's Mowhawk",
+    "type": "toggle",
+    "img": "images/items/metalheadsmowhawk.png",
+    "codes": "metalheadsmowhawk"
+  },
+  {
+    "name": "Jacques' Ribbon",
+    "type": "toggle",
+    "img": "images/items/jacquesribbon.png",
+    "codes": "jacquesribbon"
+  },
+  {
+    "name": "Gnasty Gnorc",
+    "type": "toggle",
+    "img": "images/items/gnastygnorc.png",
+    "codes": "gnastygnorc"
+  },
+  {
+    "name": "Gnasty Gnorc Realm",
+    "type": "toggle",
+    "img": "images/items/gnastygnorcr.png",
+    "codes": "gnastygnorcr"
+  },
+  {
+    "name": "Artisans",
+    "type": "toggle",
+    "img": "images/items/artisans.png",
+    "codes": "artisans"
+  },
+  {
+    "name": "Beast Makers",
+    "type": "toggle",
+    "img": "images/items/beastmakers.png",
+    "codes": "beastmakers"
+  },
+  {
+    "name": "Peace Keepers",
+    "type": "toggle",
+    "img": "images/items/peacekeepers.png",
+    "codes": "peacekeepers"
+  },
+  {
+    "name": "Magic Crafters",
+    "type": "toggle",
+    "img": "images/items/magiccrafters.png",
+    "codes": "magiccrafters"
+  },
+  {
+    "name": "Dream Weavers",
+    "type": "toggle",
+    "img": "images/items/dreamweavers.png",
+    "codes": "dreamweavers"
+  },
+  {
+    "name": "Stone Hill",
+    "type": "toggle",
+    "img": "images/items/stonehill.png",
+    "codes": "stonehill"
+  },
+  {
+    "name": "Dark Hollow",
+    "type": "toggle",
+    "img": "images/items/darkhollow.png",
+    "codes": "darkhollow"
+  },
+  {
+    "name": "Town Square",
+    "type": "toggle",
+    "img": "images/items/townsquare.png",
+    "codes": "townsquare"
+  },
+  {
+    "name": "Toasty",
+    "type": "toggle",
+    "img": "images/items/toasty.png",
+    "codes": "toastyrealm"
+  },
+  {
+    "name": "Sunny Flight",
+    "type": "toggle",
+    "img": "images/items/sunnyflight.png",
+    "codes": "sunnyflight"
+  },
+  {
+    "name": "Dry Canyon",
+    "type": "toggle",
+    "img": "images/items/drycanyon.png",
+    "codes": "drycanyon"
+  },
+  {
+    "name": "Cliff Town",
+    "type": "toggle",
+    "img": "images/items/clifftown.png",
+    "codes": "clifftown"
+  },
+  {
+    "name": "Ice Cavern",
+    "type": "toggle",
+    "img": "images/items/icecavern.png",
+    "codes": "icecavern"
+  },
+  {
+    "name": "Night Flight",
+    "type": "toggle",
+    "img": "images/items/nightflight.png",
+    "codes": "nightflight"
+  },
+  {
+    "name": "Alpine Ridge",
+    "type": "toggle",
+    "img": "images/items/alpineridge.png",
+    "codes": "alpineridge"
+  },
+  {
+    "name": "High Caves",
+    "type": "toggle",
+    "img": "images/items/highcaves.png",
+    "codes": "highcaves"
+  },
+  {
+    "name": "Wizard's Peak",
+    "type": "toggle",
+    "img": "images/items/wizardpeak.png",
+    "codes": "wizardpeak"
+  },
+  {
+    "name": "Crystal Flight",
+    "type": "toggle",
+    "img": "images/items/crystalflight.png",
+    "codes": "crystalflight"
+  },
+  {
+    "name": "Terrace Village",
+    "type": "toggle",
+    "img": "images/items/terracevillage.png",
+    "codes": "terracevillage"
+  },
+  {
+    "name": "Misty Bog",
+    "type": "toggle",
+    "img": "images/items/mistybog.png",
+    "codes": "mistybog"
+  },
+  {
+    "name": "Tree Tops",
+    "type": "toggle",
+    "img": "images/items/treetops.png",
+    "codes": "treetops"
+  },
+  {
+    "name": "Metalhead",
+    "type": "toggle",
+    "img": "images/items/metalhead.png",
+    "codes": "metalhead"
+  },
+  {
+    "name": "Wild Flight",
+    "type": "toggle",
+    "img": "images/items/wildflight.png",
+    "codes": "wildflight"
+  },
+  {
+    "name": "Dark Passage",
+    "type": "toggle",
+    "img": "images/items/darkpassage.png",
+    "codes": "darkpassage"
+  },
+  {
+    "name": "Lofty Castle",
+    "type": "toggle",
+    "img": "images/items/loftycastle.png",
+    "codes": "loftycastle"
+  },
+  {
+    "name": "Haunted Towers",
+    "type": "toggle",
+    "img": "images/items/hauntedtowers.png",
+    "codes": "hauntedtowers"
+  },
+  {
+    "name": "Jacques",
+    "type": "toggle",
+    "img": "images/items/jacques.png",
+    "codes": "jacques"
+  },
+  {
+    "name": "Icy Flight",
+    "type": "toggle",
+    "img": "images/items/icyflight.png",
+    "codes": "icyflight"
+  },
+  {
+    "name": "Gnorc Cove",
+    "type": "toggle",
+    "img": "images/items/gnorccove.png",
+    "codes": "gnorccove"
+  },
+  {
+    "name": "Gnorcs World",
+    "type": "toggle",
+    "img": "images/items/gnorcsworld.png",
+    "codes": "gnorcsworld"
+  },
+  {
+    "name": "Twilight Harbor",
+    "type": "toggle",
+    "img": "images/items/twilightharbor.png",
+    "codes": "twilightharbor"
+  },
+  {
+    "name": "Gnasty's Loot",
+    "type": "toggle",
+    "img": "images/items/gnastyslootr.png",
+    "codes": "gnastyslootr"
+  },
+  {
+    "name": "Gnasty's Loot",
+    "type": "toggle",
+    "img": "images/items/gnastysloot.png",
+    "codes": "gnastysloot"
+  },
+  {
+    "name": "Victory",
+    "type": "toggle",
+    "img": "images/items/gnastygnorc.png",
+    "codes": "victory"
+  },
+  // TRAPS AND FILLERS -----------------------------------------------
+  {
+    "name": "Flop Trap",
+    "type": "consumable",
+    "img": "images/items/gnastygnorc.png",
+    "codes": "floptrap"
+  },
+  {
+    "name": "Roll Trap",
+    "type": "consumable",
+    "img": "images/items/gnastygnorc.png",
+    "codes": "rolltrap"
+  },
+  {
+    "name": "Faint Trap",
+    "type": "consumable",
+    "img": "images/items/gnastygnorc.png",
+    "codes": "fainttrap"
+  },
+  {
+    "name": "Extra Life",
+    "type": "consumable",
+    "img": "images/items/gnastygnorc.png",
+    "codes": "extralife"
+  },
+  {
+    "name": "Butterfly",
+    "type": "consumable",
+    "img": "images/items/gnastygnorc.png",
+    "codes": "butterfly"
+  },
+  //DRAGON RESCUES AND GEMSTONES --------------------------------------------------------
+  //{
+  //  "name": "Dragon Rescue",
+  //  "type": "consumable",
+  //  "min_quantity": 0,
+  //  "max_quantity": 80,
+  //  "overlay_align": "center",
+  //  "overlay_font_size": 20,
+  //  "img": "images/items/dragon.png",
+  //  "codes": "dragon"
+  //},
+  {
+    "name": "Artisans Gems",
+    "type": "progressive",
+    "stages": [
+      {
+        "name": "Artisans 25% Gems",
+        "codes": "artisans25%gems",
+        "img": "images/Items/gem25.png"
+      },
+      {
+        "name": "Artisans 50% Gems",
+        "codes": "artisans50%gems",
+        "img": "images/Items/gem50.png"
+      },
+      {
+        "name": "Artisans 75% Gems",
+        "codes": "artisans75%gems",
+        "img": "images/Items/gem75.png"
+      },
+      {
+        "name": "Artisans 100% Gems",
+        "codes": "artisans100%gems",
+        "img": "images/Items/gem100.png"
+      }
+    ]
+  },
+  {
+    "name": "Dragon Artisans",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 4,
+    "overlay_align": "center",
+    "overlay_font_size": 20,
+    "img": "images/items/dragon.png",
+    "codes": "dragon1"
+  },
+  {
+    "name": "Stone Hill Gems",
+    "type": "progressive",
+    "stages": [
+      {
+        "name": "Stone Hill 25% Gems",
+        "codes": "stonehill25%gems",
+        "img": "images/Items/gem25.png"
+      },
+      {
+        "name": "Stone Hill 50% Gems",
+        "codes": "stonehill50%gems",
+        "img": "images/Items/gem50.png"
+      },
+      {
+        "name": "Stone Hill 75% Gems",
+        "codes": "stonehill75%gems",
+        "img": "images/Items/gem75.png"
+      },
+      {
+        "name": "Stone Hill 100% Gems",
+        "codes": "stonehill100%gems",
+        "img": "images/Items/gem100.png"
+      }
+    ]
+  },
+  {
+    "name": "Dragon stonehill",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 4,
+    "overlay_align": "center",
+    "overlay_font_size": 20,
+    "img": "images/items/dragon.png",
+    "codes": "dragon2"
+  },
+  {
+    "name": "Dark Hollow Gems",
+    "type": "progressive",
+    "stages": [
+      {
+        "name": "Dark Hollow 25% Gems",
+        "codes": "darkhollow25%gems",
+        "img": "images/Items/gem25.png"
+      },
+      {
+        "name": "Dark Hollow 50% Gems",
+        "codes": "darkhollow50%gems",
+        "img": "images/Items/gem50.png"
+      },
+      {
+        "name": "Dark Hollow 75% Gems",
+        "codes": "darkhollow75%gems",
+        "img": "images/Items/gem75.png"
+      },
+      {
+        "name": "Dark Hollow 100% Gems",
+        "codes": "darkhollow100%gems",
+        "img": "images/Items/gem100.png"
+      }
+    ]
+  },
+  {
+    "name": "Dragon Dark Hollow",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 3,
+    "overlay_align": "center",
+    "overlay_font_size": 20,
+    "img": "images/items/dragon.png",
+    "codes": "dragon3"
+  },
+  {
+    "name": "Town Square Gemstones",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 200,
+    "increment": 50,
+    "decrement": 50,
+    "overlay_align": "center",
+    "overlay_font_size": 15,
+    "img": "images/items/gemblue.png",
+    "codes": "gem4"
+  },
+  {
+    "name": "Town Square Gems",
+    "type": "progressive",
+    "stages": [
+      {
+        "name": "Town Square 25% Gems",
+        "codes": "townsquare25%gems",
+        "img": "images/Items/gem25.png"
+      },
+      {
+        "name": "Town Square 50% Gems",
+        "codes": "townsquare50%gems",
+        "img": "images/Items/gem50.png"
+      },
+      {
+        "name": "Town Square 75% Gems",
+        "codes": "townsquare75%gems",
+        "img": "images/Items/gem75.png"
+      },
+      {
+        "name": "Town Square 100% Gems",
+        "codes": "townsquare100%gems",
+        "img": "images/Items/gem100.png"
+      }
+    ]
+  },
+  {
+    "name": "Town Square Hollow",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 4,
+    "overlay_align": "center",
+    "overlay_font_size": 20,
+    "img": "images/items/dragon.png",
+    "codes": "dragon4"
+  },
+  {
+    "name": "Sunny Flight Gemstones",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 300,
+    "increment": 75,
+    "decrement": 75,
+    "overlay_align": "center",
+    "overlay_font_size": 15,
+    "img": "images/items/gempurple.png",
+    "codes": "gem5"
+  },
+  {
+    "name": "Sunny Flight Gems",
+    "type": "progressive",
+    "stages": [
+      {
+        "name": "Sunny Flight 25% Gems",
+        "codes": "sunnyflight25%gems",
+        "img": "images/Items/gem25.png"
+      },
+      {
+        "name": "Sunny Flight 50% Gems",
+        "codes": "sunnyflight50%gems",
+        "img": "images/Items/gem50.png"
+      },
+      {
+        "name": "Sunny Flight 75% Gems",
+        "codes": "sunnyflight75%gems",
+        "img": "images/Items/gem75.png"
+      },
+      {
+        "name": "Sunny Flight 100% Gems",
+        "codes": "sunnyflight100%gems",
+        "img": "images/Items/gem100.png"
+      }
+    ]
+  },
+  {
+    "name": "Sunny Flight Complete",
+    "type": "toggle",
+    "img": "images/items/cleared.png",
+    "codes": "cleared1"
+  },
+  {
+    "name": "Toasty Gems",
+    "type": "progressive",
+    "stages": [
+      {
+        "name": "Toasty 25% Gems",
+        "codes": "toasty25%gems",
+        "img": "images/Items/gem25.png"
+      },
+      {
+        "name": "Toasty 50% Gems",
+        "codes": "toasty50%gems",
+        "img": "images/Items/gem50.png"
+      },
+      {
+        "name": "Toasty 75% Gems",
+        "codes": "toasty75%gems",
+        "img": "images/Items/gem75.png"
+      },
+      {
+        "name": "Toasty 100% Gems",
+        "codes": "toasty100%gems",
+        "img": "images/Items/gem100.png"
+      }
+    ]
+  },
+  {
+    "name": "Dragon Toasty",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 1,
+    "overlay_align": "center",
+    "overlay_font_size": 20,
+    "img": "images/items/dragon.png",
+    "codes": "dragon5"
+  },
+  {
+    "name": "Peace Keepers Gems",
+    "type": "progressive",
+    "stages": [
+      {
+        "name": "Peace Keepers 25% Gems",
+        "codes": "peacekeepers25%gems",
+        "img": "images/Items/gem25.png"
+      },
+      {
+        "name": "Peace Keepers 50% Gems",
+        "codes": "peacekeeprs50%gems",
+        "img": "images/Items/gem50.png"
+      },
+      {
+        "name": "Peace Keepers 75% Gems",
+        "codes": "peacekeepers75%gems",
+        "img": "images/Items/gem75.png"
+      },
+      {
+        "name": "Peace Keepers 100% Gems",
+        "codes": "peacekeepers100%gems",
+        "img": "images/Items/gem100.png"
+      }
+    ]
+  },
+  {
+    "name": "Dragon Peace Keeprs",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 3,
+    "overlay_align": "center",
+    "overlay_font_size": 20,
+    "img": "images/items/dragon.png",
+    "codes": "dragon6"
+  },
+  {
+    "name": "Dray Canyon Gems",
+    "type": "progressive",
+    "stages": [
+      {
+        "name": "Dry Canyon 25% Gems",
+        "codes": "drycanyon25%gems",
+        "img": "images/Items/gem25.png"
+      },
+      {
+        "name": "Dry Canyon 50% Gems",
+        "codes": "drycanyon50%gems",
+        "img": "images/Items/gem50.png"
+      },
+      {
+        "name": "Dry Canyon 75% Gems",
+        "codes": "drycanyon75%gems",
+        "img": "images/Items/gem75.png"
+      },
+      {
+        "name": "Dry Canyon 100% Gems",
+        "codes": "drycanyon100%gems",
+        "img": "images/Items/gem100.png"
+      }
+    ]
+  },
+  {
+    "name": "Dragon Dry Canyon",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 4,
+    "overlay_align": "center",
+    "overlay_font_size": 20,
+    "img": "images/items/dragon.png",
+    "codes": "dragon7"
+  },
+  {
+    "name": "Cliff Town Gems",
+    "type": "progressive",
+    "stages": [
+      {
+        "name": "Cliff Town 25% Gems",
+        "codes": "clifftown25%gems",
+        "img": "images/Items/gem25.png"
+      },
+      {
+        "name": "Cliff Town 50% Gems",
+        "codes": "clifftown50%gems",
+        "img": "images/Items/gem50.png"
+      },
+      {
+        "name": "Cliff Town 75% Gems",
+        "codes": "clifftown75%gems",
+        "img": "images/Items/gem75.png"
+      },
+      {
+        "name": "Cliff Town 100% Gems",
+        "codes": "clifftown100%gems",
+        "img": "images/Items/gem100.png"
+      }
+    ]
+  },
+  {
+    "name": "Dragon Cliff Town",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 3,
+    "overlay_align": "center",
+    "overlay_font_size": 20,
+    "img": "images/items/dragon.png",
+    "codes": "dragon8"
+  },
+  {
+    "name": "Ice Cavern Gems",
+    "type": "progressive",
+    "stages": [
+      {
+        "name": "Ice Cavern 25% Gems",
+        "codes": "icecavern25%gems",
+        "img": "images/Items/gem25.png"
+      },
+      {
+        "name": "Ice Cavern 50% Gems",
+        "codes": "icecavern50%gems",
+        "img": "images/Items/gem50.png"
+      },
+      {
+        "name": "Ice Cavern 75% Gems",
+        "codes": "icecavern75%gems",
+        "img": "images/Items/gem75.png"
+      },
+      {
+        "name": "Ice Cavern 100% Gems",
+        "codes": "icecavern100%gems",
+        "img": "images/Items/gem100.png"
+      }
+    ]
+  },
+  {
+    "name": "Dragon Ice Cavern",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 5,
+    "overlay_align": "center",
+    "overlay_font_size": 20,
+    "img": "images/items/dragon.png",
+    "codes": "dragon9"
+  },
+  {
+    "name": "Night Flight Gemstones",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 300,
+    "increment": 75,
+    "decrement": 75,
+    "overlay_align": "center",
+    "overlay_font_size": 15,
+    "img": "images/items/gempurple.png",
+    "codes": "gem11"
+  },
+  {
+    "name": "Night Flight Complete",
+    "type": "toggle",
+    "img": "images/items/cleared.png",
+    "codes": "cleared2"
+  },
+  {
+    "name": "Night Flight Gems",
+    "type": "progressive",
+    "stages": [
+      {
+        "name": "Night Flight 25% Gems",
+        "codes": "nightflight25%gems",
+        "img": "images/Items/gem25.png"
+      },
+      {
+        "name": "Night Flight 50% Gems",
+        "codes": "nightflight50%gems",
+        "img": "images/Items/gem50.png"
+      },
+      {
+        "name": "Night Flight 75% Gems",
+        "codes": "nightflight75%gems",
+        "img": "images/Items/gem75.png"
+      },
+      {
+        "name": "Night Flight 100% Gems",
+        "codes": "nightflight100%gems",
+        "img": "images/Items/gem100.png"
+      }
+    ]
+  },
+  {
+    "name": "Doctor Shemp Gems",
+    "type": "progressive",
+    "stages": [
+      {
+        "name": "Doctor Shemp 25% Gems",
+        "codes": "doctorshemp25%gems",
+        "img": "images/Items/gem25.png"
+      },
+      {
+        "name": "Docotr Shemp 50% Gems",
+        "codes": "doctorshemp50%gems",
+        "img": "images/Items/gem50.png"
+      },
+      {
+        "name": "Doctor Shemp 75% Gems",
+        "codes": "doctorshemp75%gems",
+        "img": "images/Items/gem75.png"
+      },
+      {
+        "name": "Doctor Shemp 100% Gems",
+        "codes": "doctorshemp100%gems",
+        "img": "images/Items/gem100.png"
+      }
+    ]
+  },
+  {
+    "name": "Doctor Shemp Dragon",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 1,
+    "overlay_align": "center",
+    "overlay_font_size": 20,
+    "img": "images/items/dragon.png",
+    "codes": "dragon10"
+  },
+  {
+    "name": "Magic Crafters Gemstones",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 300,
+    "increment": 75,
+    "decrement": 75,
+    "overlay_align": "center",
+    "overlay_font_size": 15,
+    "img": "images/items/gemgreen.png",
+    "codes": "gem13"
+  },
+  {
+    "name": "Magic Crafters Dragons",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 3,
+    "overlay_align": "center",
+    "overlay_font_size": 20,
+    "img": "images/items/dragon.png",
+    "codes": "dragon11"
+  },
+  {
+    "name": "Alpine Ridge Gemstones",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 500,
+    "increment": 125,
+    "decrement": 125,
+    "overlay_align": "center",
+    "overlay_font_size": 15,
+    "img": "images/items/gemblue.png",
+    "codes": "gem14"
+  },
+  {
+    "name": "Alpine Ridge Dragons",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 4,
+    "overlay_align": "center",
+    "overlay_font_size": 20,
+    "img": "images/items/dragon.png",
+    "codes": "dragon12"
+  },
+  {
+    "name": "Wizard's Peak Gemstones",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 500,
+    "increment": 125,
+    "decrement": 125,
+    "overlay_align": "center",
+    "overlay_font_size": 15,
+    "img": "images/items/gemblue.png",
+    "codes": "gem15"
+  },
+  {
+    "name": "Wizard's Peak Dragons",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 3,
+    "overlay_align": "center",
+    "overlay_font_size": 20,
+    "img": "images/items/dragon.png",
+    "codes": "dragon13"
+  },
+  {
+    "name": "High Caves Gemstones",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 500,
+    "increment": 125,
+    "decrement": 125,
+    "overlay_align": "center",
+    "overlay_font_size": 15,
+    "img": "images/items/gemblue.png",
+    "codes": "gem16"
+  },
+  {
+    "name": "High Caves Dragons",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 3,
+    "overlay_align": "center",
+    "overlay_font_size": 20,
+    "img": "images/items/dragon.png",
+    "codes": "dragon14"
+  },
+  {
+    "name": "Crystal Flight Gemstones",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 300,
+    "increment": 75,
+    "decrement": 75,
+    "overlay_align": "center",
+    "overlay_font_size": 15,
+    "img": "images/items/gempurple.png",
+    "codes": "gem17"
+  },
+  {
+    "name": "Crystal Flight Complete",
+    "type": "toggle",
+    "img": "images/items/cleared.png",
+    "codes": "cleared3"
+  },
+  {
+    "name": "Blowhard Gemstones",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 400,
+    "increment": 100,
+    "decrement": 100,
+    "overlay_align": "center",
+    "overlay_font_size": 15,
+    "img": "images/items/gemred.png",
+    "codes": "gem18"
+  },
+  {
+    "name": "Blowhard Dragon",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 1,
+    "overlay_align": "center",
+    "overlay_font_size": 20,
+    "img": "images/items/dragon.png",
+    "codes": "dragon15"
+  },
+  {
+    "name": "Dream Weavers Gemstones",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 300,
+    "increment": 75,
+    "decrement": 75,
+    "overlay_align": "center",
+    "overlay_font_size": 15,
+    "img": "images/items/gemgreen.png",
+    "codes": "gem19"
+  },
+  {
+    "name": "Dream Weavers Dragons",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 3,
+    "overlay_align": "center",
+    "overlay_font_size": 20,
+    "img": "images/items/dragon.png",
+    "codes": "dragon16"
+  },
+  {
+    "name": "Dark Passage Gemstones",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 500,
+    "increment": 125,
+    "decrement": 125,
+    "overlay_align": "center",
+    "overlay_font_size": 15,
+    "img": "images/items/gemblue.png",
+    "codes": "gem20"
+  },
+  {
+    "name": "Dark Passage Dragons",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 5,
+    "overlay_align": "center",
+    "overlay_font_size": 20,
+    "img": "images/items/dragon.png",
+    "codes": "dragon17"
+  },
+  {
+    "name": "Lofty Castle Gemstones",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 400,
+    "increment": 100,
+    "decrement": 100,
+    "overlay_align": "center",
+    "overlay_font_size": 15,
+    "img": "images/items/gemblue.png",
+    "codes": "gem21"
+  },
+  {
+    "name": "Lofty Castle Dragons",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 3,
+    "overlay_align": "center",
+    "overlay_font_size": 20,
+    "img": "images/items/dragon.png",
+    "codes": "dragon18"
+  },
+  {
+    "name": "Haunted Tower Gemstones",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 500,
+    "increment": 125,
+    "decrement": 125,
+    "overlay_align": "center",
+    "overlay_font_size": 15,
+    "img": "images/items/gemblue.png",
+    "codes": "gem22"
+  },
+  {
+    "name": "Haunted Tower Dragons",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 3,
+    "overlay_align": "center",
+    "overlay_font_size": 20,
+    "img": "images/items/dragon.png",
+    "codes": "dragon19"
+  },
+  {
+    "name": "Icy Flight Gemstones",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 300,
+    "increment": 75,
+    "decrement": 75,
+    "overlay_align": "center",
+    "overlay_font_size": 15,
+    "img": "images/items/gempurple.png",
+    "codes": "gem23"
+  },
+  {
+    "name": "Icy Flight Complete",
+    "type": "toggle",
+    "img": "images/items/cleared.png",
+    "codes": "cleared4"
+  },
+  {
+    "name": "Jacques Gemstones",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 500,
+    "increment": 125,
+    "decrement": 125,
+    "overlay_align": "center",
+    "overlay_font_size": 15,
+    "img": "images/items/gemred.png",
+    "codes": "gem24"
+  },
+  {
+    "name": "Jacques Dragons",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 2,
+    "overlay_align": "center",
+    "overlay_font_size": 20,
+    "img": "images/items/dragon.png",
+    "codes": "dragon20"
+  },
+  {
+    "name": "Beast Makers Gemstones",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 300,
+    "increment": 75,
+    "decrement": 75,
+    "overlay_align": "center",
+    "overlay_font_size": 15,
+    "img": "images/items/gemgreen.png",
+    "codes": "gem25"
+  },
+  {
+    "name": "Beats Makers Dragons",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 2,
+    "overlay_align": "center",
+    "overlay_font_size": 20,
+    "img": "images/items/dragon.png",
+    "codes": "dragon21"
+  },
+  {
+    "name": "Terrace Village Gemstones",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 400,
+    "increment": 100,
+    "decrement": 100,
+    "overlay_align": "center",
+    "overlay_font_size": 15,
+    "img": "images/items/gemblue.png",
+    "codes": "gem26"
+  },
+  {
+    "name": "Terrace Village Dragons",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 2,
+    "overlay_align": "center",
+    "overlay_font_size": 20,
+    "img": "images/items/dragon.png",
+    "codes": "dragon22"
+  },
+  {
+    "name": "Misty Bog Gemstones",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 500,
+    "increment": 125,
+    "decrement": 125,
+    "overlay_align": "center",
+    "overlay_font_size": 15,
+    "img": "images/items/gemblue.png",
+    "codes": "gem27"
+  },
+  {
+    "name": "Misty Bog Dragons",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 4,
+    "overlay_align": "center",
+    "overlay_font_size": 20,
+    "img": "images/items/dragon.png",
+    "codes": "dragon23"
+  },
+  {
+    "name": "Tree Tops Gemstones",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 500,
+    "increment": 125,
+    "decrement": 125,
+    "overlay_align": "center",
+    "overlay_font_size": 15,
+    "img": "images/items/gemblue.png",
+    "codes": "gem28"
+  },
+  {
+    "name": "Tree Tops Dragons",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 3,
+    "overlay_align": "center",
+    "overlay_font_size": 20,
+    "img": "images/items/dragon.png",
+    "codes": "dragon24"
+  },
+  {
+    "name": "Wild Flight Gemstones",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 300,
+    "increment": 75,
+    "decrement": 75,
+    "overlay_align": "center",
+    "overlay_font_size": 15,
+    "img": "images/items/gempurple.png",
+    "codes": "gem29"
+  },
+  {
+    "name": "Wild Flight Complete",
+    "type": "toggle",
+    "img": "images/items/cleared.png",
+    "codes": "cleared5"
+  },
+  {
+    "name": "Metalhead Gemstones",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 500,
+    "increment": 125,
+    "decrement": 125,
+    "overlay_align": "center",
+    "overlay_font_size": 15,
+    "img": "images/items/gemred.png",
+    "codes": "gem30"
+  },
+  {
+    "name": "Metalhead Dragon",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 1,
+    "overlay_align": "center",
+    "overlay_font_size": 20,
+    "img": "images/items/dragon.png",
+    "codes": "dragon25"
+  },
+  {
+    "name": "Gnor World Gemstones",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 200,
+    "increment": 50,
+    "decrement": 50,
+    "overlay_align": "center",
+    "overlay_font_size": 15,
+    "img": "images/items/gemgreen.png",
+    "codes": "gem31"
+  },
+  {
+    "name": "Gnorc Gnexus Dragons",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 2,
+    "overlay_align": "center",
+    "overlay_font_size": 20,
+    "img": "images/items/dragon.png",
+    "codes": "dragon26"
+  },
+  {
+    "name": "Gnorc Cove Gemstones",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 400,
+    "increment": 100,
+    "decrement": 100,
+    "overlay_align": "center",
+    "overlay_font_size": 15,
+    "img": "images/items/gemblue.png",
+    "codes": "gem32"
+  },
+  {
+    "name": "Gnorc Cove Dragons",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 2,
+    "overlay_align": "center",
+    "overlay_font_size": 20,
+    "img": "images/items/dragon.png",
+    "codes": "dragon27"
+  },
+  {
+    "name": "Twilight Harbor Gemstones",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 400,
+    "increment": 100,
+    "decrement": 100,
+    "overlay_align": "center",
+    "overlay_font_size": 15,
+    "img": "images/items/gemblue.png",
+    "codes": "gem33"
+  },
+  {
+    "name": "Twilight Harbor Dragons",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 2,
+    "overlay_align": "center",
+    "overlay_font_size": 20,
+    "img": "images/items/dragon.png",
+    "codes": "dragon28"
+  },
+  {
+    "name": "Gnasty's Loot Gemstones",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 2000,
+    "increment": 500,
+    "decrement": 500,
+    "overlay_align": "center",
+    "overlay_font_size": 15,
+    "img": "images/items/gempurple.png",
+    "codes": "gem34"
+  },
+  {
+    "name": "Gnasty Gnorc Gemstones",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 500,
+    "increment": 125,
+    "decrement": 125,
+    "overlay_align": "center",
+    "overlay_font_size": 15,
+    "img": "images/items/gemred.png",
+    "codes": "gem35"
+  },
+  {
+    "name": "Total Rescued Dragons",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 80,
+    "overlay_align": "center",
+    "overlay_font_size": 20,
+    "img": "images/items/dragon.png",
+    "codes": "dragon29"
+  },
+  // Dragon Eggs --------------------------------------------------------
+  {
+    "name": "Stone Hill Egg",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 1,
+    "overlay_font_size": 15,
+    "img": "images/items/egg.png",
+    "codes": "egg1"
+  },
+  {
+    "name": "Town Square Egg",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 1,
+    "overlay_font_size": 15,
+    "img": "images/items/egg.png",
+    "codes": "egg2"
+  },
+  {
+    "name": "Peace Keeper Egg",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 1,
+    "overlay_font_size": 15,
+    "img": "images/items/egg.png",
+    "codes": "egg3"
+  },
+  {
+    "name": "Dry Canyon Egg",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 1,
+    "overlay_font_size": 15,
+    "img": "images/items/egg.png",
+    "codes": "egg4"
+  },
+  {
+    "name": "Cliff Town Egg",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 1,
+    "overlay_font_size": 15,
+    "img": "images/items/egg.png",
+    "codes": "egg5"
+  },
+  {
+    "name": "Magic Crafters Eggs",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 2,
+    "overlay_font_size": 15,
+    "img": "images/items/egg.png",
+    "codes": "egg6"
+  },
+  {
+    "name": "Alpine Ridge Egg",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 1,
+    "overlay_font_size": 15,
+    "img": "images/items/egg.png",
+    "codes": "egg7"
+  },
+  {
+    "name": "Wizard's Peak Eggs",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 2,
+    "overlay_font_size": 15,
+    "img": "images/items/egg.png",
+    "codes": "egg8"
+  },
+  {
+    "name": "High Caves Eggs",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 2,
+    "overlay_font_size": 15,
+    "img": "images/items/egg.png",
+    "codes": "egg9"
+  }
 ]
