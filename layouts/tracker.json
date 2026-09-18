@@ -1,33 +1,434 @@
 {
-    "tracker_default": {
-        "type": "container",
-        "content": {
-            "type": "dock",
-            "dropshadow": false,
-            "content": [
+  "tracker_default": {
+    "type": "container",
+    "content": {
+      "type": "dock",
+      "dropshadow": false,
+      "content": [
+        {
+          "type": "dock",
+          "dock": "left",
+          "v_alignment": "stretch",
+          "content": [
+            {
+              "type": "group",
+              "header": "Collectables",
+              "dock": "left",
+              "content": {
+                "type": "layout",
+                "key": "tracker_items"
+              },
+              "header_content": {
+                "type": "button_popup",
+                "style": "settings",
+                "popup_background": "#739300",
+                "layout": "settings_popup"
+              }
+            }
+          ]
+        },
+        {
+          "type": "dock",
+          "dropshadow": "true",
+          "content": [
+            {
+              "type": "dock",
+              "dock": "top",
+              "orientation": "vertical",
+              "v_alignment": "stretch",
+              "margin": "0,0,3,0",
+              "content": [
                 {
-                    "type": "dock",
-                    "dock": "bottom",
-                    "v_alignment": "stretch",
-                    "content": [
-                        {
-                            "type": "group",
-                            "header": "",
-                            "dock": "left",
-                            "content": {
-                                "type": "layout",
-                                "key": "tracker_items"
-                            },
-                            "header_content": {
-                                "type": "button_popup",
-                                "style": "settings",
-                                "popup_background": "#739300",
-                                "layout": "settings_popup"
-                            }
-                        }
-                    ]
+                  "type": "group",
+                  //"background": "#212121",
+                  "header": "Maps",
+                  "header_background": "#000000",
+                  "dock": "top",
+                  "content": {
+                    "type": "layout",
+                    "key": "item_grid"
+                  }
                 }
-			]
+              ]
+            },
+            {
+              "type": "dock",
+              "content": [
+                {
+                  "type": "tabbed",
+                  "dock": "top",
+                  "tabs": [
+                    {
+                      "title": "Artisans",
+                      "content": {
+                        "type": "tabbed",
+                        "tabs": [
+                          {
+                            "title": "Artisans",
+                            "content": {
+                              "type": "map",
+                              "maps": [
+                                "artisanshomeworld"
+                              ]
+                            }
+                          },
+                          {
+                            "title": "Stone Hill",
+                            "content": {
+                              "type": "map",
+                              "maps": [
+                                "stonehill"
+                              ]
+                            }
+                          },
+                          {
+                            "title": "Dark Hollow",
+                            "content": {
+                              "type": "map",
+                              "maps": [
+                                "darkhollow"
+                              ]
+                            }
+                          },
+                          {
+                            "title": "Town Square",
+                            "content": {
+                              "type": "map",
+                              "maps": [
+                                "townsquare"
+                              ]
+                            }
+                          },
+                          {
+                            "title": "Sunny Flight",
+                            "content": {
+                              "type": "map",
+                              "maps": [
+                                "sunnyflight"
+                              ]
+                            }
+                          },
+                          {
+                            "title": "Toasty",
+                            "content": {
+                              "type": "map",
+                              "maps": [
+                                "toasty"
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "title": "Peace Keppers",
+                      "content": {
+                        "type": "tabbed",
+                        "tabs": [
+                          {
+                            "title": "Peace Keepers",
+                            "content": {
+                              "type": "map",
+                              "maps": [
+                                "peacekeepers"
+                              ]
+                            }
+                          },
+                          {
+                            "title": "Dry Canyon",
+                            "content": {
+                              "type": "map",
+                              "maps": [
+                                "drycanyon"
+                              ]
+                            }
+                          },
+                          {
+                            "title": "Cliff Town",
+                            "content": {
+                              "type": "map",
+                              "maps": [
+                                "clifftown"
+                              ]
+                            }
+                          },
+
+                          {
+                            "title": "Ice Cavern",
+                            "content": {
+                              "type": "map",
+                              "maps": [
+                                "icycavern"
+                              ]
+                            }
+                          },
+                          {
+                            "title": "Night Flight",
+                            "content": {
+                              "type": "map",
+                              "maps": [
+                                "nightflight"
+                              ]
+                            }
+                          },
+                          {
+                            "title": "Doctor Shemp",
+                            "content": {
+                              "type": "map",
+                              "maps": [
+                                "doctorshemp"
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "title": "Magic Crafters",
+                      "content": {
+                        "type": "tabbed",
+                        "tabs": [
+                          {
+                            "title": "Magic Crafters",
+                            "content": {
+                              "type": "map",
+                              "maps": [
+                                "magiccrafters"
+                              ]
+                            }
+                          },
+                          {
+                            "title": "Alpine Ridge",
+                            "content": {
+                              "type": "map",
+                              "maps": [
+                                "alpineridge"
+                              ]
+                            }
+                          },
+                          {
+                            "title": "Wizard Peak",
+                            "content": {
+                              "type": "map",
+                              "maps": [
+                                "wizardpeak"
+                              ]
+                            }
+                          },
+                          {
+                            "title": "High Caves",
+                            "content": {
+                              "type": "map",
+                              "maps": [
+                                "highcaves"
+                              ]
+                            }
+                          },
+                          {
+                            "title": "Crystal Flight",
+                            "content": {
+                              "type": "map",
+                              "maps": [
+                                "crystalflight"
+                              ]
+                            }
+                          },
+                          {
+                            "title": "Blowhard",
+                            "content": {
+                              "type": "map",
+                              "maps": [
+                                "blowhard"
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "title": "Dream Weavers",
+                      "content": {
+                        "type": "tabbed",
+                        "tabs": [
+                          {
+                            "title": "Dream Weavers",
+                            "content": {
+                              "type": "map",
+                              "maps": [
+                                "dreamweavers"
+                              ]
+                            }
+                          },
+                          {
+                            "title": "Dark Passage",
+                            "content": {
+                              "type": "map",
+                              "maps": [
+                                "darkpassage"
+                              ]
+                            }
+                          },
+                          {
+                            "title": "Haunted Tower",
+                            "content": {
+                              "type": "map",
+                              "maps": [
+                                "hauntedtower"
+                              ]
+                            }
+                          },
+                          {
+                            "title": "Lofty Castle",
+                            "content": {
+                              "type": "map",
+                              "maps": [
+                                "loftycastle"
+                              ]
+                            }
+                          },
+                          {
+                            "title": "Icy Flight",
+                            "content": {
+                              "type": "map",
+                              "maps": [
+                                "icyflight"
+                              ]
+                            }
+                          },
+                          {
+                            "title": "Jacques",
+                            "content": {
+                              "type": "map",
+                              "maps": [
+                                "jacques"
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "title": "Beast Makers",
+                      "content": {
+                        "type": "tabbed",
+                        "tabs": [
+                          {
+                            "title": "Beast Makers",
+                            "content": {
+                              "type": "map",
+                              "maps": [
+                                "beastmakers"
+                              ]
+                            }
+                          },
+                          {
+                            "title": "Terrace Village",
+                            "content": {
+                              "type": "map",
+                              "maps": [
+                                "terracevillage"
+                              ]
+                            }
+                          },
+                          {
+                            "title": "Misty Bog",
+                            "content": {
+                              "type": "map",
+                              "maps": [
+                                "mistybog"
+                              ]
+                            }
+                          },
+                          {
+                            "title": "Tree Tops",
+                            "content": {
+                              "type": "map",
+                              "maps": [
+                                "treetops"
+                              ]
+                            }
+                          },
+                          {
+                            "title": "Wild Flight",
+                            "content": {
+                              "type": "map",
+                              "maps": [
+                                "wildflight"
+                              ]
+                            }
+                          },
+                          {
+                            "title": "Metalhead",
+                            "content": {
+                              "type": "map",
+                              "maps": [
+                                "metalhead"
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "title": "Gnorc Gnexus",
+                      "content": {
+                        "type": "tabbed",
+                        "tabs": [
+                          {
+                            "title": "Gnorc Gnexus",
+                            "content": {
+                              "type": "map",
+                              "maps": [
+                                "gnorcgnexus"
+                              ]
+                            }
+                          },
+                          {
+                            "title": "Gnorc Cove",
+                            "content": {
+                              "type": "map",
+                              "maps": [
+                                "gnorccove"
+                              ]
+                            }
+                          },
+                          {
+                            "title": "Twilight Harbor",
+                            "content": {
+                              "type": "map",
+                              "maps": [
+                                "twilightharbor"
+                              ]
+                            }
+                          },
+                          {
+                            "title": "Gnasty Gnorc",
+                            "content": {
+                              "type": "map",
+                              "maps": [
+                                "gnastygnorc"
+                              ]
+                            }
+                          },
+                          {
+                            "title": "Gnasty's Loot",
+                            "content": {
+                              "type": "map",
+                              "maps": [
+                                "gnastysloot"
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
+      ]
     }
+  }
 }
