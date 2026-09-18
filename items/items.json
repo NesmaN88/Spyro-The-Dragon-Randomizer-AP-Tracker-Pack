@@ -228,10 +228,10 @@
     "codes": "gnorccove"
   },
   {
-    "name": "Gnorcs World",
+    "name": "Gnorc Gnexus",
     "type": "toggle",
-    "img": "images/items/gnorcsworld.png",
-    "codes": "gnorcsworld"
+    "img": "images/items/gnorcgnexus.png",
+    "codes": "gnorcgnexus"
   },
   {
     "name": "Twilight Harbor",
@@ -456,18 +456,6 @@
     "codes": "dragon4"
   },
   {
-    "name": "Sunny Flight Gemstones",
-    "type": "consumable",
-    "min_quantity": 0,
-    "max_quantity": 300,
-    "increment": 75,
-    "decrement": 75,
-    "overlay_align": "center",
-    "overlay_font_size": 15,
-    "img": "images/items/gempurple.png",
-    "codes": "gem5"
-  },
-  {
     "name": "Sunny Flight Gems",
     "type": "progressive",
     "stages": [
@@ -680,18 +668,6 @@
     "codes": "dragon9"
   },
   {
-    "name": "Night Flight Gemstones",
-    "type": "consumable",
-    "min_quantity": 0,
-    "max_quantity": 300,
-    "increment": 75,
-    "decrement": 75,
-    "overlay_align": "center",
-    "overlay_font_size": 15,
-    "img": "images/items/gempurple.png",
-    "codes": "gem11"
-  },
-  {
     "name": "Night Flight Complete",
     "type": "toggle",
     "img": "images/items/cleared.png",
@@ -760,16 +736,30 @@
     "codes": "dragon10"
   },
   {
-    "name": "Magic Crafters Gemstones",
-    "type": "consumable",
-    "min_quantity": 0,
-    "max_quantity": 300,
-    "increment": 75,
-    "decrement": 75,
-    "overlay_align": "center",
-    "overlay_font_size": 15,
-    "img": "images/items/gemgreen.png",
-    "codes": "gem13"
+    "name": "Magic Crafters Gems",
+    "type": "progressive",
+    "stages": [
+      {
+        "name": "Magic Crafters 25% Gems",
+        "codes": "magiccrafters25%gems",
+        "img": "images/Items/gem25.png"
+      },
+      {
+        "name": "Magic Crafters 50% Gems",
+        "codes": "magiccrafters50%gems",
+        "img": "images/Items/gem50.png"
+      },
+      {
+        "name": "Magic Crafters 75% Gems",
+        "codes": "magiccrafters75%gems",
+        "img": "images/Items/gem75.png"
+      },
+      {
+        "name": "Magic Crafters 100% Gems",
+        "codes": "magiccrafters100%gems",
+        "img": "images/Items/gem100.png"
+      }
+    ]
   },
   {
     "name": "Magic Crafters Dragons",
@@ -782,16 +772,30 @@
     "codes": "dragon11"
   },
   {
-    "name": "Alpine Ridge Gemstones",
-    "type": "consumable",
-    "min_quantity": 0,
-    "max_quantity": 500,
-    "increment": 125,
-    "decrement": 125,
-    "overlay_align": "center",
-    "overlay_font_size": 15,
-    "img": "images/items/gemblue.png",
-    "codes": "gem14"
+    "name": "Alpine Ridge Gems",
+    "type": "progressive",
+    "stages": [
+      {
+        "name": "Alpine Ridge 25% Gems",
+        "codes": "alpineridge25%gems",
+        "img": "images/Items/gem25.png"
+      },
+      {
+        "name": "Alpine Ridge 50% Gems",
+        "codes": "alpineridge50%gems",
+        "img": "images/Items/gem50.png"
+      },
+      {
+        "name": "alpine Ridge 75% Gems",
+        "codes": "alpineridge75%gems",
+        "img": "images/Items/gem75.png"
+      },
+      {
+        "name": "Alpine Ridge 100% Gems",
+        "codes": "alpineridge100%gems",
+        "img": "images/Items/gem100.png"
+      }
+    ]
   },
   {
     "name": "Alpine Ridge Dragons",
@@ -804,16 +808,30 @@
     "codes": "dragon12"
   },
   {
-    "name": "Wizard's Peak Gemstones",
-    "type": "consumable",
-    "min_quantity": 0,
-    "max_quantity": 500,
-    "increment": 125,
-    "decrement": 125,
-    "overlay_align": "center",
-    "overlay_font_size": 15,
-    "img": "images/items/gemblue.png",
-    "codes": "gem15"
+    "name": "Wiazard Peak Gems",
+    "type": "progressive",
+    "stages": [
+      {
+        "name": "Wizard Peak 25% Gems",
+        "codes": "wizardpeak25%gems",
+        "img": "images/Items/gem25.png"
+      },
+      {
+        "name": "Wizard Peak 50% Gems",
+        "codes": "wizardpeak50%gems",
+        "img": "images/Items/gem50.png"
+      },
+      {
+        "name": "Wizard Peak 75% Gems",
+        "codes": "wizardpeak75%gems",
+        "img": "images/Items/gem75.png"
+      },
+      {
+        "name": "Wizard Peak 100% Gems",
+        "codes": "wizardpeak100%gems",
+        "img": "images/Items/gem100.png"
+      }
+    ]
   },
   {
     "name": "Wizard's Peak Dragons",
@@ -826,16 +844,30 @@
     "codes": "dragon13"
   },
   {
-    "name": "High Caves Gemstones",
-    "type": "consumable",
-    "min_quantity": 0,
-    "max_quantity": 500,
-    "increment": 125,
-    "decrement": 125,
-    "overlay_align": "center",
-    "overlay_font_size": 15,
-    "img": "images/items/gemblue.png",
-    "codes": "gem16"
+    "name": "High Caves Gems",
+    "type": "progressive",
+    "stages": [
+      {
+        "name": "High Caves 25% Gems",
+        "codes": "highcaves25%gems",
+        "img": "images/Items/gem25.png"
+      },
+      {
+        "name": "High Caves 50% Gems",
+        "codes": "highcaves50%gems",
+        "img": "images/Items/gem50.png"
+      },
+      {
+        "name": "High Caves 75% Gems",
+        "codes": "highcaves75%gems",
+        "img": "images/Items/gem75.png"
+      },
+      {
+        "name": "High Caves 100% Gems",
+        "codes": "highcaves100%gems",
+        "img": "images/Items/gem100.png"
+      }
+    ]
   },
   {
     "name": "High Caves Dragons",
@@ -848,16 +880,30 @@
     "codes": "dragon14"
   },
   {
-    "name": "Crystal Flight Gemstones",
-    "type": "consumable",
-    "min_quantity": 0,
-    "max_quantity": 300,
-    "increment": 75,
-    "decrement": 75,
-    "overlay_align": "center",
-    "overlay_font_size": 15,
-    "img": "images/items/gempurple.png",
-    "codes": "gem17"
+    "name": "Crystal Flight Gems",
+    "type": "progressive",
+    "stages": [
+      {
+        "name": "Crystal Flight 25% Gems",
+        "codes": "crystalflight25%gems",
+        "img": "images/Items/gem25.png"
+      },
+      {
+        "name": "Crystal Flight 50% Gems",
+        "codes": "crystalflight50%gems",
+        "img": "images/Items/gem50.png"
+      },
+      {
+        "name": "Crystal Flight 75% Gems",
+        "codes": "crystalflight75%gems",
+        "img": "images/Items/gem75.png"
+      },
+      {
+        "name": "Crystal Flight 100% Gems",
+        "codes": "crystalflight100%gems",
+        "img": "images/Items/gem100.png"
+      }
+    ]
   },
   {
     "name": "Crystal Flight Complete",
@@ -866,16 +912,30 @@
     "codes": "cleared3"
   },
   {
-    "name": "Blowhard Gemstones",
-    "type": "consumable",
-    "min_quantity": 0,
-    "max_quantity": 400,
-    "increment": 100,
-    "decrement": 100,
-    "overlay_align": "center",
-    "overlay_font_size": 15,
-    "img": "images/items/gemred.png",
-    "codes": "gem18"
+    "name": "Blowhard Gems",
+    "type": "progressive",
+    "stages": [
+      {
+        "name": "Blowhard 25% Gems",
+        "codes": "blowhard25%gems",
+        "img": "images/Items/gem25.png"
+      },
+      {
+        "name": "Blowhard 50% Gems",
+        "codes": "blowhard50%gems",
+        "img": "images/Items/gem50.png"
+      },
+      {
+        "name": "Blowhard 75% Gems",
+        "codes": "blowhard75%gems",
+        "img": "images/Items/gem75.png"
+      },
+      {
+        "name": "Blowhard 100% Gems",
+        "codes": "blowhard100%gems",
+        "img": "images/Items/gem100.png"
+      }
+    ]
   },
   {
     "name": "Blowhard Dragon",
@@ -888,16 +948,30 @@
     "codes": "dragon15"
   },
   {
-    "name": "Dream Weavers Gemstones",
-    "type": "consumable",
-    "min_quantity": 0,
-    "max_quantity": 300,
-    "increment": 75,
-    "decrement": 75,
-    "overlay_align": "center",
-    "overlay_font_size": 15,
-    "img": "images/items/gemgreen.png",
-    "codes": "gem19"
+    "name": "Dream Weavers Gems",
+    "type": "progressive",
+    "stages": [
+      {
+        "name": "Dream Weavers 25% Gems",
+        "codes": "dreamweavers25%gems",
+        "img": "images/Items/gem25.png"
+      },
+      {
+        "name": "Dream Weavers 50% Gems",
+        "codes": "dreamweavers50%gems",
+        "img": "images/Items/gem50.png"
+      },
+      {
+        "name": "Dream Weavers 75% Gems",
+        "codes": "dreamweavers75%gems",
+        "img": "images/Items/gem75.png"
+      },
+      {
+        "name": "Dream Weavers 100% Gems",
+        "codes": "dreamweavers100%gems",
+        "img": "images/Items/gem100.png"
+      }
+    ]
   },
   {
     "name": "Dream Weavers Dragons",
@@ -910,16 +984,30 @@
     "codes": "dragon16"
   },
   {
-    "name": "Dark Passage Gemstones",
-    "type": "consumable",
-    "min_quantity": 0,
-    "max_quantity": 500,
-    "increment": 125,
-    "decrement": 125,
-    "overlay_align": "center",
-    "overlay_font_size": 15,
-    "img": "images/items/gemblue.png",
-    "codes": "gem20"
+    "name": "Dark Passage Gems",
+    "type": "progressive",
+    "stages": [
+      {
+        "name": "Dark Passage 25% Gems",
+        "codes": "darkpassage25%gems",
+        "img": "images/Items/gem25.png"
+      },
+      {
+        "name": "Dark Passage 50% Gems",
+        "codes": "darkpassage50%gems",
+        "img": "images/Items/gem50.png"
+      },
+      {
+        "name": "Dark Passage 75% Gems",
+        "codes": "darkpassage75%gems",
+        "img": "images/Items/gem75.png"
+      },
+      {
+        "name": "Dark Passage 100% Gems",
+        "codes": "darkpassage100%gems",
+        "img": "images/Items/gem100.png"
+      }
+    ]
   },
   {
     "name": "Dark Passage Dragons",
@@ -932,16 +1020,30 @@
     "codes": "dragon17"
   },
   {
-    "name": "Lofty Castle Gemstones",
-    "type": "consumable",
-    "min_quantity": 0,
-    "max_quantity": 400,
-    "increment": 100,
-    "decrement": 100,
-    "overlay_align": "center",
-    "overlay_font_size": 15,
-    "img": "images/items/gemblue.png",
-    "codes": "gem21"
+    "name": "Loft Castle Gems",
+    "type": "progressive",
+    "stages": [
+      {
+        "name": "Loft Castle 25% Gems",
+        "codes": "loftycastle25%gems",
+        "img": "images/Items/gem25.png"
+      },
+      {
+        "name": "Lofty Castle 50% Gems",
+        "codes": "loftycastle50%gems",
+        "img": "images/Items/gem50.png"
+      },
+      {
+        "name": "Lofty Castle 75% Gems",
+        "codes": "loftycastle75%gems",
+        "img": "images/Items/gem75.png"
+      },
+      {
+        "name": "Lofty Castle 100% Gems",
+        "codes": "loftycastle100%gems",
+        "img": "images/Items/gem100.png"
+      }
+    ]
   },
   {
     "name": "Lofty Castle Dragons",
@@ -954,16 +1056,30 @@
     "codes": "dragon18"
   },
   {
-    "name": "Haunted Tower Gemstones",
-    "type": "consumable",
-    "min_quantity": 0,
-    "max_quantity": 500,
-    "increment": 125,
-    "decrement": 125,
-    "overlay_align": "center",
-    "overlay_font_size": 15,
-    "img": "images/items/gemblue.png",
-    "codes": "gem22"
+    "name": "Haunted Towers Gems",
+    "type": "progressive",
+    "stages": [
+      {
+        "name": "Haunted Towers 25% Gems",
+        "codes": "hauntedtowers25%gems",
+        "img": "images/Items/gem25.png"
+      },
+      {
+        "name": "Haunted Towers 50% Gems",
+        "codes": "hauntedtowers50%gems",
+        "img": "images/Items/gem50.png"
+      },
+      {
+        "name": "Haunted Towers 75% Gems",
+        "codes": "hauntedtowers75%gems",
+        "img": "images/Items/gem75.png"
+      },
+      {
+        "name": "Haunted Towers 100% Gems",
+        "codes": "hauntedtowers100%gems",
+        "img": "images/Items/gem100.png"
+      }
+    ]
   },
   {
     "name": "Haunted Tower Dragons",
@@ -976,16 +1092,30 @@
     "codes": "dragon19"
   },
   {
-    "name": "Icy Flight Gemstones",
-    "type": "consumable",
-    "min_quantity": 0,
-    "max_quantity": 300,
-    "increment": 75,
-    "decrement": 75,
-    "overlay_align": "center",
-    "overlay_font_size": 15,
-    "img": "images/items/gempurple.png",
-    "codes": "gem23"
+    "name": "Icy Flight Gems",
+    "type": "progressive",
+    "stages": [
+      {
+        "name": "Icy Flight 25% Gems",
+        "codes": "icyflight25%gems",
+        "img": "images/Items/gem25.png"
+      },
+      {
+        "name": "Icy Flight 50% Gems",
+        "codes": "icyflight50%gems",
+        "img": "images/Items/gem50.png"
+      },
+      {
+        "name": "Icy Flight 75% Gems",
+        "codes": "icyflight75%gems",
+        "img": "images/Items/gem75.png"
+      },
+      {
+        "name": "Icy Flight 100% Gems",
+        "codes": "icyflight100%gems",
+        "img": "images/Items/gem100.png"
+      }
+    ]
   },
   {
     "name": "Icy Flight Complete",
@@ -994,16 +1124,30 @@
     "codes": "cleared4"
   },
   {
-    "name": "Jacques Gemstones",
-    "type": "consumable",
-    "min_quantity": 0,
-    "max_quantity": 500,
-    "increment": 125,
-    "decrement": 125,
-    "overlay_align": "center",
-    "overlay_font_size": 15,
-    "img": "images/items/gemred.png",
-    "codes": "gem24"
+    "name": "Jacques Gems",
+    "type": "progressive",
+    "stages": [
+      {
+        "name": "Jacques 25% Gems",
+        "codes": "jacques25%gems",
+        "img": "images/Items/gem25.png"
+      },
+      {
+        "name": "Jacques 50% Gems",
+        "codes": "jacques50%gems",
+        "img": "images/Items/gem50.png"
+      },
+      {
+        "name": "Jacques 75% Gems",
+        "codes": "jacques75%gems",
+        "img": "images/Items/gem75.png"
+      },
+      {
+        "name": "Jacques 100% Gems",
+        "codes": "jacques100%gems",
+        "img": "images/Items/gem100.png"
+      }
+    ]
   },
   {
     "name": "Jacques Dragons",
@@ -1016,16 +1160,30 @@
     "codes": "dragon20"
   },
   {
-    "name": "Beast Makers Gemstones",
-    "type": "consumable",
-    "min_quantity": 0,
-    "max_quantity": 300,
-    "increment": 75,
-    "decrement": 75,
-    "overlay_align": "center",
-    "overlay_font_size": 15,
-    "img": "images/items/gemgreen.png",
-    "codes": "gem25"
+    "name": "Beast Makers Gems",
+    "type": "progressive",
+    "stages": [
+      {
+        "name": "Beast Makers 25% Gems",
+        "codes": "beastmakers25%gems",
+        "img": "images/Items/gem25.png"
+      },
+      {
+        "name": "Beast Makers 50% Gems",
+        "codes": "beastmakers50%gems",
+        "img": "images/Items/gem50.png"
+      },
+      {
+        "name": "Beast Makers 75% Gems",
+        "codes": "beastmakers75%gems",
+        "img": "images/Items/gem75.png"
+      },
+      {
+        "name": "Beast Makers 100% Gems",
+        "codes": "beastmakers100%gems",
+        "img": "images/Items/gem100.png"
+      }
+    ]
   },
   {
     "name": "Beats Makers Dragons",
@@ -1038,16 +1196,30 @@
     "codes": "dragon21"
   },
   {
-    "name": "Terrace Village Gemstones",
-    "type": "consumable",
-    "min_quantity": 0,
-    "max_quantity": 400,
-    "increment": 100,
-    "decrement": 100,
-    "overlay_align": "center",
-    "overlay_font_size": 15,
-    "img": "images/items/gemblue.png",
-    "codes": "gem26"
+    "name": "Terrace Villave Gems",
+    "type": "progressive",
+    "stages": [
+      {
+        "name": "Terrace Village 25% Gems",
+        "codes": "terracevillage25%gems",
+        "img": "images/Items/gem25.png"
+      },
+      {
+        "name": "Terrace Village 50% Gems",
+        "codes": "terracevillage%gems",
+        "img": "images/Items/gem50.png"
+      },
+      {
+        "name": "Terrace Village 75% Gems",
+        "codes": "terracevillage75%gems",
+        "img": "images/Items/gem75.png"
+      },
+      {
+        "name": "Terrace Village 100% Gems",
+        "codes": "terracevillage100%gems",
+        "img": "images/Items/gem100.png"
+      }
+    ]
   },
   {
     "name": "Terrace Village Dragons",
@@ -1060,16 +1232,30 @@
     "codes": "dragon22"
   },
   {
-    "name": "Misty Bog Gemstones",
-    "type": "consumable",
-    "min_quantity": 0,
-    "max_quantity": 500,
-    "increment": 125,
-    "decrement": 125,
-    "overlay_align": "center",
-    "overlay_font_size": 15,
-    "img": "images/items/gemblue.png",
-    "codes": "gem27"
+    "name": "Misty Bog Gems",
+    "type": "progressive",
+    "stages": [
+      {
+        "name": "Misty Bog 25% Gems",
+        "codes": "mistybog25%gems",
+        "img": "images/Items/gem25.png"
+      },
+      {
+        "name": "Misty Bog 50% Gems",
+        "codes": "mistybog50%gems",
+        "img": "images/Items/gem50.png"
+      },
+      {
+        "name": "Misty Bog 75% Gems",
+        "codes": "mistybog75%gems",
+        "img": "images/Items/gem75.png"
+      },
+      {
+        "name": "Misty Bog 100% Gems",
+        "codes": "mistybog100%gems",
+        "img": "images/Items/gem100.png"
+      }
+    ]
   },
   {
     "name": "Misty Bog Dragons",
@@ -1082,16 +1268,30 @@
     "codes": "dragon23"
   },
   {
-    "name": "Tree Tops Gemstones",
-    "type": "consumable",
-    "min_quantity": 0,
-    "max_quantity": 500,
-    "increment": 125,
-    "decrement": 125,
-    "overlay_align": "center",
-    "overlay_font_size": 15,
-    "img": "images/items/gemblue.png",
-    "codes": "gem28"
+    "name": "Tree Tops Gems",
+    "type": "progressive",
+    "stages": [
+      {
+        "name": "Tree tops 25% Gems",
+        "codes": "treetops25%gems",
+        "img": "images/Items/gem25.png"
+      },
+      {
+        "name": "Tree Tops 50% Gems",
+        "codes": "treetops50%gems",
+        "img": "images/Items/gem50.png"
+      },
+      {
+        "name": "Tree Tops 75% Gems",
+        "codes": "treetops75%gems",
+        "img": "images/Items/gem75.png"
+      },
+      {
+        "name": "Tree Tops 100% Gems",
+        "codes": "treetopos100%gems",
+        "img": "images/Items/gem100.png"
+      }
+    ]
   },
   {
     "name": "Tree Tops Dragons",
@@ -1104,16 +1304,30 @@
     "codes": "dragon24"
   },
   {
-    "name": "Wild Flight Gemstones",
-    "type": "consumable",
-    "min_quantity": 0,
-    "max_quantity": 300,
-    "increment": 75,
-    "decrement": 75,
-    "overlay_align": "center",
-    "overlay_font_size": 15,
-    "img": "images/items/gempurple.png",
-    "codes": "gem29"
+    "name": "Wild Flight Gems",
+    "type": "progressive",
+    "stages": [
+      {
+        "name": "Wild Flight 25% Gems",
+        "codes": "wildflight25%gems",
+        "img": "images/Items/gem25.png"
+      },
+      {
+        "name": "Wild Flight 50% Gems",
+        "codes": "wildflight50%gems",
+        "img": "images/Items/gem50.png"
+      },
+      {
+        "name": "Wild Flight 75% Gems",
+        "codes": "wildflight75%gems",
+        "img": "images/Items/gem75.png"
+      },
+      {
+        "name": "Wild Flight 100% Gems",
+        "codes": "wildflight100%gems",
+        "img": "images/Items/gem100.png"
+      }
+    ]
   },
   {
     "name": "Wild Flight Complete",
@@ -1122,16 +1336,30 @@
     "codes": "cleared5"
   },
   {
-    "name": "Metalhead Gemstones",
-    "type": "consumable",
-    "min_quantity": 0,
-    "max_quantity": 500,
-    "increment": 125,
-    "decrement": 125,
-    "overlay_align": "center",
-    "overlay_font_size": 15,
-    "img": "images/items/gemred.png",
-    "codes": "gem30"
+    "name": "Metalhead Gems",
+    "type": "progressive",
+    "stages": [
+      {
+        "name": "Metalhead 25% Gems",
+        "codes": "metalhead25%gems",
+        "img": "images/Items/gem25.png"
+      },
+      {
+        "name": "Metalhead 50% Gems",
+        "codes": "metalhead50%gems",
+        "img": "images/Items/gem50.png"
+      },
+      {
+        "name": "Metalhead 75% Gems",
+        "codes": "metalhead75%gems",
+        "img": "images/Items/gem75.png"
+      },
+      {
+        "name": "Metalhead 100% Gems",
+        "codes": "metalhead100%gems",
+        "img": "images/Items/gem100.png"
+      }
+    ]
   },
   {
     "name": "Metalhead Dragon",
@@ -1144,16 +1372,30 @@
     "codes": "dragon25"
   },
   {
-    "name": "Gnor World Gemstones",
-    "type": "consumable",
-    "min_quantity": 0,
-    "max_quantity": 200,
-    "increment": 50,
-    "decrement": 50,
-    "overlay_align": "center",
-    "overlay_font_size": 15,
-    "img": "images/items/gemgreen.png",
-    "codes": "gem31"
+    "name": "Gnorc Gnexus Gems",
+    "type": "progressive",
+    "stages": [
+      {
+        "name": "Gnorc Gnexus 25% Gems",
+        "codes": "gnorcgnexus25%gems",
+        "img": "images/Items/gem25.png"
+      },
+      {
+        "name": "Gnorc Gnexus 50% Gems",
+        "codes": "gnorcgnexus50%gems",
+        "img": "images/Items/gem50.png"
+      },
+      {
+        "name": "Gnorc Gnexus 75% Gems",
+        "codes": "gnorcgnexus75%gems",
+        "img": "images/Items/gem75.png"
+      },
+      {
+        "name": "Gnorc Gnexus 100% Gems",
+        "codes": "gnorcgnexus100%gems",
+        "img": "images/Items/gem100.png"
+      }
+    ]
   },
   {
     "name": "Gnorc Gnexus Dragons",
@@ -1166,16 +1408,30 @@
     "codes": "dragon26"
   },
   {
-    "name": "Gnorc Cove Gemstones",
-    "type": "consumable",
-    "min_quantity": 0,
-    "max_quantity": 400,
-    "increment": 100,
-    "decrement": 100,
-    "overlay_align": "center",
-    "overlay_font_size": 15,
-    "img": "images/items/gemblue.png",
-    "codes": "gem32"
+    "name": "Gnorc Cove Gems",
+    "type": "progressive",
+    "stages": [
+      {
+        "name": "Gnorc Cove 25% Gems",
+        "codes": "gnorccove25%gems",
+        "img": "images/Items/gem25.png"
+      },
+      {
+        "name": "Gnorc Cove 50% Gems",
+        "codes": "gnorccove50%gems",
+        "img": "images/Items/gem50.png"
+      },
+      {
+        "name": "Gnorc Cove 75% Gems",
+        "codes": "gnorccove75%gems",
+        "img": "images/Items/gem75.png"
+      },
+      {
+        "name": "Gnorc Cove 100% Gems",
+        "codes": "gnorccove100%gems",
+        "img": "images/Items/gem100.png"
+      }
+    ]
   },
   {
     "name": "Gnorc Cove Dragons",
@@ -1188,16 +1444,30 @@
     "codes": "dragon27"
   },
   {
-    "name": "Twilight Harbor Gemstones",
-    "type": "consumable",
-    "min_quantity": 0,
-    "max_quantity": 400,
-    "increment": 100,
-    "decrement": 100,
-    "overlay_align": "center",
-    "overlay_font_size": 15,
-    "img": "images/items/gemblue.png",
-    "codes": "gem33"
+    "name": "Twilight Harbor Gems",
+    "type": "progressive",
+    "stages": [
+      {
+        "name": "Twilight Harbor 25% Gems",
+        "codes": "twilightharbor25%gems",
+        "img": "images/Items/gem25.png"
+      },
+      {
+        "name": "Twilight Harbor 50% Gems",
+        "codes": "twilightharbor50%gems",
+        "img": "images/Items/gem50.png"
+      },
+      {
+        "name": "Twilight Harbor 75% Gems",
+        "codes": "twilightharbor75%gems",
+        "img": "images/Items/gem75.png"
+      },
+      {
+        "name": "Twilight Harbor 100% Gems",
+        "codes": "twilightharbor100%gems",
+        "img": "images/Items/gem100.png"
+      }
+    ]
   },
   {
     "name": "Twilight Harbor Dragons",
@@ -1210,28 +1480,56 @@
     "codes": "dragon28"
   },
   {
-    "name": "Gnasty's Loot Gemstones",
-    "type": "consumable",
-    "min_quantity": 0,
-    "max_quantity": 2000,
-    "increment": 500,
-    "decrement": 500,
-    "overlay_align": "center",
-    "overlay_font_size": 15,
-    "img": "images/items/gempurple.png",
-    "codes": "gem34"
+    "name": "Gnasty's Loot Gems",
+    "type": "progressive",
+    "stages": [
+      {
+        "name": "Gnasty's Loot 25% Gems",
+        "codes": "gnastysloot25%gems",
+        "img": "images/Items/gem25.png"
+      },
+      {
+        "name": "Gnasty's Loot 50% Gems",
+        "codes": "gnastysloot50%gems",
+        "img": "images/Items/gem50.png"
+      },
+      {
+        "name": "Gnasty's Loot 75% Gems",
+        "codes": "gnastysloot75%gems",
+        "img": "images/Items/gem75.png"
+      },
+      {
+        "name": "Gnasty's Loot 100% Gems",
+        "codes": "gnastysLoot100%gems",
+        "img": "images/Items/gem100.png"
+      }
+    ]
   },
   {
-    "name": "Gnasty Gnorc Gemstones",
-    "type": "consumable",
-    "min_quantity": 0,
-    "max_quantity": 500,
-    "increment": 125,
-    "decrement": 125,
-    "overlay_align": "center",
-    "overlay_font_size": 15,
-    "img": "images/items/gemred.png",
-    "codes": "gem35"
+    "name": "Gnasty Gnorc Gems",
+    "type": "progressive",
+    "stages": [
+      {
+        "name": "Gnasty Gnorc 25% Gems",
+        "codes": "gnastygnorc25%gems",
+        "img": "images/Items/gem25.png"
+      },
+      {
+        "name": "Gnasty Gnorc 50% Gems",
+        "codes": "gnastygnorc50%gems",
+        "img": "images/Items/gem50.png"
+      },
+      {
+        "name": "Gnasty Gnorc 75% Gems",
+        "codes": "gnastygnorc75%gems",
+        "img": "images/Items/gem75.png"
+      },
+      {
+        "name": "Gnasty Gnorc 100% Gems",
+        "codes": "gnastygnorc100%gems",
+        "img": "images/Items/gem100.png"
+      }
+    ]
   },
   {
     "name": "Total Rescued Dragons",
