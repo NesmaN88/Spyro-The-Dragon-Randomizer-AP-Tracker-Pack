@@ -1,13 +1,13 @@
-﻿{
-    "name": "Spyro the Dragon Boss Item and Goal Tracker",
+{
+    "name": "Spyro the Dragon",
     "game_name": "Spyro the Dragon",
     "platform": "PSX",
-    "package_version": "1.0",
-    "package_uid": "spyro1_randomizer_leaddy",
-    "author": "Leaddy",
+    "package_version": "0.4.0",
+    "package_uid": "spyro_the_dragon_randomizer_NesmaN88",
+    "author": "NesmaN88, Leaddy",
     "variants": {
         "itemrando": {
-            "display_name": "Item Tracker",
+            "display_name": "Item Tracker and Map",
             "flags": [
                 "ap"
             ]
