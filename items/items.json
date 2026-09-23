@@ -289,16 +289,6 @@
     "codes": "butterfly"
   },
   //DRAGON RESCUES AND GEMSTONES --------------------------------------------------------
-  //{
-  //  "name": "Dragon Rescue",
-  //  "type": "consumable",
-  //  "min_quantity": 0,
-  //  "max_quantity": 80,
-  //  "overlay_align": "center",
-  //  "overlay_font_size": 20,
-  //  "img": "images/items/dragon.png",
-  //  "codes": "dragon"
-  //},
   {
     "name": "Artisans Gems",
     "type": "progressive",
@@ -1544,83 +1534,271 @@
   // Dragon Eggs --------------------------------------------------------
   {
     "name": "Stone Hill Egg",
-    "type": "consumable",
-    "min_quantity": 0,
-    "max_quantity": 1,
-    "overlay_font_size": 15,
+    "type": "toggle",
     "img": "images/items/egg.png",
     "codes": "egg1"
   },
   {
     "name": "Town Square Egg",
-    "type": "consumable",
-    "min_quantity": 0,
-    "max_quantity": 1,
-    "overlay_font_size": 15,
+    "type": "toggle",
     "img": "images/items/egg.png",
     "codes": "egg2"
   },
   {
     "name": "Peace Keeper Egg",
-    "type": "consumable",
-    "min_quantity": 0,
-    "max_quantity": 1,
-    "overlay_font_size": 15,
+    "type": "toggle",
     "img": "images/items/egg.png",
     "codes": "egg3"
   },
   {
     "name": "Dry Canyon Egg",
-    "type": "consumable",
-    "min_quantity": 0,
-    "max_quantity": 1,
-    "overlay_font_size": 15,
+    "type": "toggle",
     "img": "images/items/egg.png",
     "codes": "egg4"
   },
   {
     "name": "Cliff Town Egg",
-    "type": "consumable",
-    "min_quantity": 0,
-    "max_quantity": 1,
-    "overlay_font_size": 15,
+    "type": "toggle",
     "img": "images/items/egg.png",
     "codes": "egg5"
   },
   {
-    "name": "Magic Crafters Eggs",
-    "type": "consumable",
-    "min_quantity": 0,
-    "max_quantity": 2,
-    "overlay_font_size": 15,
-    "img": "images/items/egg.png",
-    "codes": "egg6"
+    "name": "Magic Crafters' Eggs",
+    "type": "progressive",
+    "stages": [
+      {
+        "name": "Magic Crafters Egg 1",
+        "codes": "egg6",
+        "img": "images/Items/egg.png"
+      },
+      {
+        "name": "Magic Crafters Egg 2",
+        "codes": "egg10",
+        "img": "images/Items/egg2.png"
+      }
+    ]
   },
   {
     "name": "Alpine Ridge Egg",
-    "type": "consumable",
-    "min_quantity": 0,
-    "max_quantity": 1,
-    "overlay_font_size": 15,
+    "type": "toggle",
     "img": "images/items/egg.png",
     "codes": "egg7"
   },
   {
-    "name": "Wizard's Peak Eggs",
-    "type": "consumable",
-    "min_quantity": 0,
-    "max_quantity": 2,
-    "overlay_font_size": 15,
-    "img": "images/items/egg.png",
-    "codes": "egg8"
+    "name": "Wizard Peak Eggs",
+    "type": "progressive",
+    "stages": [
+      {
+        "name": "Wizard Peak Egg 1",
+        "codes": "egg8",
+        "img": "images/Items/egg.png"
+      },
+      {
+        "name": "Magic Crafters Egg 2",
+        "codes": "egg11",
+        "img": "images/Items/egg2.png"
+      }
+    ]
   },
   {
-    "name": "High Caves Eggs",
-    "type": "consumable",
-    "min_quantity": 0,
-    "max_quantity": 2,
-    "overlay_font_size": 15,
-    "img": "images/items/egg.png",
-    "codes": "egg9"
+    "name": "High Caves' Eggs",
+    "type": "progressive",
+    "stages": [
+      {
+        "name": "High Caves Egg 1",
+        "codes": "egg9",
+        "img": "images/Items/egg.png"
+      },
+      {
+        "name": "High Caves Egg 2",
+        "codes": "egg12",
+        "img": "images/Items/egg2.png"
+      }
+    ]
+  },
+  // Collections Gems --------------------------------------------
+  {
+    "name": "Gem Collection 500-2000",
+    "type": "progressive",
+    "stages": [
+      {
+        "name": "Gem Collection 500",
+        "codes": "gemcollection500, gc500",
+        "img": "images/Items/gc500.png"
+      },
+      {
+        "name": "Gem Collection 1000",
+        "codes": "gemcollection1000, gc1000",
+        "img": "images/Items/gc1000.png"
+      },
+      {
+        "name": "Gem Collection 1500",
+        "codes": "gemcollection1500, gc1500",
+        "img": "images/Items/gc1500.png"
+      },
+      {
+        "name": "Gem Collection 2000",
+        "codes": "gemcollection2000, gc2000",
+        "img": "images/Items/gc2000.png"
+      },
+      //   ]
+      //  },
+      //  {
+      //    "name": "Gem Collection 2500-4000",
+      //    "type": "progressive",
+      //    "stages": [
+      {
+        "name": "Gem Collection 2500",
+        "codes": "gemcollection2500, gc2500",
+        "img": "images/Items/gc2500.png"
+      },
+      {
+        "name": "Gem Collection 3000",
+        "codes": "gemcollection3000, gc3000",
+        "img": "images/Items/gc3000.png"
+      },
+      {
+        "name": "Gem Collection 3500",
+        "codes": "gemcollection3500, gc3500",
+        "img": "images/Items/gc3500.png"
+      },
+      {
+        "name": "Gem Collection 4000",
+        "codes": "gemcollection4000, gc4000",
+        "img": "images/Items/gc4000.png"
+      },
+      //   ]
+      //  },
+      //  {
+      //    "name": "Gem Collection 4500-6000",
+      //    "type": "progressive",
+      //    "stages": [
+      {
+        "name": "Gem Collection 4500",
+        "codes": "gemcollection4500, gc4500",
+        "img": "images/Items/gc4500.png"
+      },
+      {
+        "name": "Gem Collection 5000",
+        "codes": "gemcollection5000, gc5000",
+        "img": "images/Items/gc5000.png"
+      },
+      {
+        "name": "Gem Collection 5500",
+        "codes": "gemcollection5500, gc5500",
+        "img": "images/Items/gc5500.png"
+      },
+      {
+        "name": "Gem Collection 6000",
+        "codes": "gemcollection6000, gc6000",
+        "img": "images/Items/gc6000.png"
+      },
+      //   ]
+      //  },
+      //  {
+      //    "name": "Gem Collection 6500-8000",
+      //    "type": "progressive",
+      //    "stages": [
+      {
+        "name": "Gem Collection 6500",
+        "codes": "gemcollection6500, gc6500",
+        "img": "images/Items/gc6500.png"
+      },
+      {
+        "name": "Gem Collection 7000",
+        "codes": "gemcollection7000, gc7000",
+        "img": "images/Items/gc7000.png"
+      },
+      {
+        "name": "Gem Collection 7500",
+        "codes": "gemcollection7500, gc7500",
+        "img": "images/Items/gc7500.png"
+      },
+      {
+        "name": "Gem Collection 8000",
+        "codes": "gemcollection8000, gc8000",
+        "img": "images/Items/gc8000.png"
+      },
+      //   ]
+      //  },
+      //  {
+      //    "name": "Gem Collection 8500-10000",
+      //    "type": "progressive",
+      //    "stages": [
+      {
+        "name": "Gem Collection 8500",
+        "codes": "gemcollection8500, gc8500",
+        "img": "images/Items/gc8500.png"
+      },
+      {
+        "name": "Gem Collection 9000",
+        "codes": "gemcollection9000, gc9000",
+        "img": "images/Items/gc9000.png"
+      },
+      {
+        "name": "Gem Collection 9500",
+        "codes": "gemcollection9500, gc9500",
+        "img": "images/Items/gc9500.png"
+      },
+      {
+        "name": "Gem Collection 10000",
+        "codes": "gemcollection10000, gc10000",
+        "img": "images/Items/gc10000.png"
+      },
+      //   ]
+      //  },
+      //  {
+      //    "name": "Gem Collection 10500-12000",
+      //    "type": "progressive",
+      //    "stages": [
+      {
+        "name": "Gem Collection 10500",
+        "codes": "gemcollection10500, gc10500",
+        "img": "images/Items/gc10500.png"
+      },
+      {
+        "name": "Gem Collection 11000",
+        "codes": "gemcollection11000, gc11000",
+        "img": "images/Items/gc11000.png"
+      },
+      {
+        "name": "Gem Collection 11500",
+        "codes": "gemcollection11500, gc11500",
+        "img": "images/Items/gc11500.png"
+      },
+      {
+        "name": "Gem Collection 12000",
+        "codes": "gemcollection12000, gc12000",
+        "img": "images/Items/gc12000.png"
+      },
+      //   ]
+      //  },
+      //  {
+      //    "name": "Gem Collection 12500-14000",
+      //    "type": "progressive",
+      //    "stages": [
+      {
+        "name": "Gem Collection 12500",
+        "codes": "gemcollection12500, gc12500",
+        "img": "images/Items/gc12500.png"
+      },
+      {
+        "name": "Gem Collection 13000",
+        "codes": "gemcollection13000, gc13000",
+        "img": "images/Items/gc13000.png"
+      },
+      {
+        "name": "Gem Collection 13500",
+        "codes": "gemcollection13500, gc13500",
+        "img": "images/Items/gc13500.png"
+      },
+      {
+        "name": "Gem Collection 14000",
+        "codes": "gemcollection14000, gc14000",
+        "img": "images/Items/gc14000.png"
+      }
+      //    ]
+      //  }
+    ]
   }
 ]
