@@ -1195,7 +1195,7 @@
   [
     //PEACE KEEPERS DRAGONS ----------------------------------------
     {
-      "name": "Peace Keeprs",
+      "name": "Peace Keepers",
       "access_rules": [
         "peacekeepers"
       ],
@@ -1217,7 +1217,7 @@
       ]
     },
     {
-      "name": "Peace Keeprs",
+      "name": "Peace Keepers",
       "access_rules": [
         "peacekeepers"
       ],
@@ -1238,7 +1238,7 @@
       ]
     },
     {
-      "name": "Peace Keeprs",
+      "name": "Peace Keepers",
       "access_rules": [
         "peacekeepers"
       ],
@@ -1260,7 +1260,7 @@
     },
     // PEACE KEEPERS OTHER ITEMS ------------------------------
     {
-      "name": "Peace Keeprs",
+      "name": "Peace Keepers",
       "access_rules": [
         "peacekeepers"
       ],
@@ -1303,7 +1303,7 @@
     },
     //REALM GATES FOR PEACE KEEPERS -------------------------------------
     {
-      "name": "Peace Keeprs",
+      "name": "Peace Keepers",
       "access_rules": [
         "peacekeepers,drycanyon"
       ],
@@ -1324,7 +1324,7 @@
       ]
     },
     {
-      "name": "Peace Keeprs",
+      "name": "Peace Keepers",
       "access_rules": [
         "peacekeepers,clifftown"
       ],
@@ -1345,7 +1345,7 @@
       ]
     },
     {
-      "name": "Peace Keeprs",
+      "name": "Peace Keepers",
       "access_rules": [
         "peacekeepers,icecavern"
       ],
@@ -1366,7 +1366,7 @@
       ]
     },
     {
-      "name": "Peace Keeprs",
+      "name": "Peace Keepers",
       "access_rules": [
         "peacekeepers,doctorshemp"
       ],
@@ -1387,7 +1387,7 @@
       ]
     },
     {
-      "name": "Peace Keeprs",
+      "name": "Peace Keepers",
       "access_rules": [
         "peacekeepers,nightflight"
       ],
@@ -1409,7 +1409,7 @@
     },
     //GEMSTONES PEACE KEEPERS ---------------------------------------
     {
-      "name": "Peace Keeprs",
+      "name": "Peace Keepers",
       "access_rules": [
         "peacekeepers"
       ],
@@ -1430,7 +1430,7 @@
       ]
     },
     {
-      "name": "Peace Keeprs",
+      "name": "Peace Keepers",
       "access_rules": [
         "peacekeepers"
       ],
@@ -1451,7 +1451,7 @@
       ]
     },
     {
-      "name": "Peace Keeprs",
+      "name": "Peace Keepers",
       "access_rules": [
         "peacekeepers"
       ],
@@ -1472,7 +1472,7 @@
       ]
     },
     {
-      "name": "Peace Keeprs",
+      "name": "Peace Keepers",
       "access_rules": [
         "peacekeepers"
       ],
@@ -2534,5 +2534,1178 @@
         }
       ]
     }
-  ]
+  ],
+  // MAGIC CRAFTERS DRAGONS ----------------------------------------
+  {
+    "name": "Magic Crafters",
+    "access_rules": [
+      "magiccrafters"
+    ],
+
+    "map_locations": [
+      {
+        "map": "magiccrafters",
+        "x": 270,
+        "y": 400,
+        "size": 15,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "COSMOS"
+      }
+    ]
+  },
+  {
+    "name": "Magic Crafters",
+    "access_rules": [
+      "magiccrafters"
+    ],
+    "map_locations": [
+      {
+        "map": "magiccrafters",
+        "x": 150,
+        "y": 180,
+        "size": 15,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "ZANTOR"
+      }
+    ]
+  },
+  {
+    "name": "Magic Crafters",
+    "access_rules": [
+      "magiccrafters"
+    ],
+    "map_locations": [
+      {
+        "map": "magiccrafters",
+        "x": 400,
+        "y": 150,
+        "size": 15,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "BOLDAR"
+      }
+    ]
+  },
+  // MAGIC CRAFTERS OTHER ITEMS ------------------------------
+  {
+    "name": "Magic Crafters",
+    "access_rules": [
+      "magiccrafters"
+    ],
+    "map_locations": [
+      {
+        "map": "magiccrafters",
+        "x": 350,
+        "y": 400,
+        "size": 15,
+        "border_thickness": 2,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "EGG THEIF 1"
+      }
+    ]
+  },
+  {
+    "name": "Magic Crafters",
+    "access_rules": [
+      "magiccrafters"
+    ],
+    "map_locations": [
+      {
+        "map": "magiccrafters",
+        "x": 150,
+        "y": 240,
+        "size": 15,
+        "border_thickness": 2,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "EGG THEIF 2"
+      }
+    ]
+  },
+  {
+    "name": "Magic Crafters",
+    "access_rules": [
+      "magiccrafters"
+    ],
+    "map_locations": [
+      {
+        "map": "magiccrafters",
+        "x": 25,
+        "y": 260,
+        "size": 15,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "Life Chest"
+      }
+    ]
+  },
+  {
+    "name": "Magic Crafters",
+    "access_rules": [
+      "magiccrafters"
+    ],
+    "map_locations": [
+      {
+        "map": "magiccrafters",
+        "x": 50,
+        "y": 250,
+        "size": 15,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "Key Chest"
+      }
+    ]
+  },
+  {
+    "name": "Magic Crafters",
+    "access_rules": [
+      "magiccrafters"
+    ],
+    "map_locations": [
+      {
+        "map": "magiccrafters",
+        "x": 520,
+        "y": 160,
+        "size": 15,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "Chest Key"
+      }
+    ]
+  },
+  //REALM GATES FOR MAGIC CRAFTERS -------------------------------------
+  {
+    "name": "Magic Crafters",
+    "access_rules": [
+      "magiccrafters,alpineridge"
+    ],
+    "map_locations": [
+      {
+        "map": "magiccrafters",
+        "x": 120,
+        "y": 350,
+        "size": 15,
+        "border_thickness": 2,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "ALPINE RIDGE GATE"
+      }
+    ]
+  },
+  {
+    "name": "Magic Crafters",
+    "access_rules": [
+      "magiccrafters,highcaves"
+    ],
+    "map_locations": [
+      {
+        "map": "magiccrafters",
+        "x": 120,
+        "y": 185,
+        "size": 15,
+        "border_thickness": 2,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "HIGH CAVES GATE"
+      }
+    ]
+  },
+  {
+    "name": "Magic Crafters",
+    "access_rules": [
+      "magiccrafters,wizardpeak"
+    ],
+    "map_locations": [
+      {
+        "map": "magiccrafters",
+        "x": 545,
+        "y": 190,
+        "size": 15,
+        "border_thickness": 2,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "WIZARD PEAK GATE"
+      }
+    ]
+  },
+  {
+    "name": "Magic Crafters",
+    "access_rules": [
+      "magiccrafters,blowhard"
+    ],
+    "map_locations": [
+      {
+        "map": "magiccrafters",
+        "x": 560,
+        "y": 340,
+        "size": 15,
+        "border_thickness": 2,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "BLOWHARD GATE"
+      }
+    ]
+  },
+  {
+    "name": "Magic Crafters",
+    "access_rules": [
+      "magiccrafters,crystalflight"
+    ],
+    "map_locations": [
+      {
+        "map": "magiccrafters",
+        "x": 400,
+        "y": 125,
+        "size": 15,
+        "border_thickness": 2,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "CRYSTAL FLIGHT GATE"
+      }
+    ]
+  },
+  // GEMSTONES MAGIC CRAFTERS ---------------------------------------
+  {
+    "name": "Magic Crafters",
+    "access_rules": [
+      "magiccrafters"
+    ],
+    "map_locations": [
+      {
+        "map": "magiccrafters",
+        "x": 85,
+        "y": 370,
+        "size": 15,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 25%"
+      }
+    ]
+  },
+  {
+    "name": "Magic Crafters",
+    "access_rules": [
+      "magiccrafters"
+    ],
+    "map_locations": [
+      {
+        "map": "magiccrafters",
+        "x": 85,
+        "y": 390,
+        "size": 15,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 50%"
+      }
+    ]
+  },
+  {
+    "name": "Magic Crafters",
+    "access_rules": [
+      "magiccrafters"
+    ],
+    "map_locations": [
+      {
+        "map": "magiccrafters",
+        "x": 85,
+        "y": 410,
+        "size": 15,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 75%"
+      }
+    ]
+  },
+  {
+    "name": "Magic Crafters",
+    "access_rules": [
+      "magiccrafters"
+    ],
+    "map_locations": [
+      {
+        "map": "magiccrafters",
+        "x": 85,
+        "y": 430,
+        "size": 15,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 100%"
+      }
+    ]
+  },
+  // ALPINE RIDGE DRAGONS -----------------------------------------
+  {
+    "name": "Alpine Ridge",
+    // ACCESS RULES FOR REALMS LEFT OUT FOR NOW ---
+    //"access_rules": [
+    //  "alpineridge"
+    //],
+    "map_locations": [
+      {
+        "map": "alpineridge",
+        "x": 800,
+        "y": 475,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "ZANE"
+      }
+    ]
+  },
+  {
+    "name": "Alpine Ridge",
+    //"access_rules": [
+    //  "alpineridge"
+    //],
+    "map_locations": [
+      {
+        "map": "alpineridge",
+        "x": 400,
+        "y": 420,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "ELDRID"
+      }
+    ]
+  },
+  {
+    "name": "Alpine Ridge",
+    //"access_rules": [
+    //  "alpineridge"
+    //],
+    "map_locations": [
+      {
+        "map": "alpineridge",
+        "x": 300,
+        "y": 454,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "KELVIN"
+      }
+    ]
+  },
+  {
+    "name": "Alpine Ridge",
+    //"access_rules": [
+    //  "alpineridge"
+    //],
+    "map_locations": [
+      {
+        "map": "alpineridge",
+        "x": 560,
+        "y": 350,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "IVOR"
+      }
+    ]
+  },
+  // OTHER CHECKS -------------------------------------
+  {
+    "name": "Alpine Ridge",
+    //"access_rules": [
+    //  "alpineridge"
+    //],
+    "map_locations": [
+      {
+        "map": "alpineridge",
+        "x": 270,
+        "y": 440,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "EGG THEIF"
+      }
+    ]
+  },
+  {
+    "name": "Alpine Ridge",
+    //"access_rules": [
+    //  "alpineridge"
+    //],
+    "map_locations": [
+      {
+        "map": "alpineridge",
+        "x": 570,
+        "y": 185,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "Life Chest"
+      }
+    ]
+  },
+  {
+    "name": "Alpine Ridge",
+    //"access_rules": [
+    //  "alpineridge"
+    //],
+    "map_locations": [
+      {
+        "map": "alpineridge",
+        "x": 520,
+        "y": 350,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "REALM EXIT"
+      }
+    ]
+  },
+  //GEMSTONES ALPINE RIDGE ---------------------------------------
+  {
+    "name": "Alpine Ridge",
+    //"access_rules": [
+    //  "alpineridge"
+    //],
+    "map_locations": [
+      {
+        "map": "alpineridge",
+        "x": 900,
+        "y": 40,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 25%"
+      }
+    ]
+  },
+  {
+    "name": "Alpine Ridge",
+    //"access_rules": [
+    //  "alpineridge"
+    //],
+    "map_locations": [
+      {
+        "map": "alpineridge",
+        "x": 900,
+        "y": 65,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 50%"
+      }
+    ]
+  },
+  {
+    "name": "Alpine Ridge",
+    //"access_rules": [
+    //  "alpineridge"
+    //],
+    "map_locations": [
+      {
+        "map": "alpineridge",
+        "x": 900,
+        "y": 90,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 75%"
+      }
+    ]
+  },
+  {
+    "name": "Alpine Ridge",
+    //"access_rules": [
+    //  "alpineridge"
+    //],
+    "map_locations": [
+      {
+        "map": "alpineridge",
+        "x": 900,
+        "y": 115,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 100%"
+      }
+    ]
+  },
+  // WIZARD PEAK CHECKS --------------------------------------
+  {
+    "name": "Wizard Peak",
+    //"access_rules": [
+    //  "wizardpeak"
+    //],
+    "map_locations": [
+      {
+        "map": "wizardpeak",
+        "x": 670,
+        "y": 360,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "JARVIS"
+      }
+    ]
+  },
+  {
+    "name": "Wizard Peak",
+    //"access_rules": [
+    //  "wizardpeak"
+    //],
+    "map_locations": [
+      {
+        "map": "wizardpeak",
+        "x": 310,
+        "y": 350,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "HEXUS"
+      }
+    ]
+  },
+  {
+    "name": "Wizard Peak",
+    //"access_rules": [
+    //  "wizardpeak"
+    //],
+    "map_locations": [
+      {
+        "map": "wizardpeak",
+        "x": 135,
+        "y": 335,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "LUCAS"
+      }
+    ]
+  },
+  // WIZARD PEAK CHECKS ---------------------------------------
+  {
+    "name": "Wizard Peak",
+    //"access_rules": [
+    //  "wizardpeak"
+    //],
+    "map_locations": [
+      {
+        "map": "wizardpeak",
+        "x": 110,
+        "y": 325,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "REALM EXIT"
+      }
+    ]
+  },
+  {
+    "name": "Cliff Townw",
+    //"access_rules": [
+    //  "wizardpeak"
+    //],
+    "map_locations": [
+      {
+        "map": "wizardpeak",
+        "x": 435,
+        "y": 190,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "Life Chest"
+      }
+    ]
+  },
+  {
+    "name": "Wizaed Peak",
+    //"access_rules": [
+    //  "wizardpeak"
+    //],
+    "map_locations": [
+      {
+        "map": "wizardpeak",
+        "x": 185,
+        "y": 590,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "Egg Theif"
+      }
+    ]
+  },
+  //GEMSTONES WIZARD PEAK ---------------------------------------
+  {
+    "name": "Wizard Peak",
+    //"access_rules": [
+    //  "wizardpeak"
+    //],
+    "map_locations": [
+      {
+        "map": "wizardpeak",
+        "x": 950,
+        "y": 540,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 25%"
+      }
+    ]
+  },
+  {
+    "name": "Wizard Peak",
+    //"access_rules": [
+    //  "wizardpeak"
+    //],
+    "map_locations": [
+      {
+        "map": "wizardpeak",
+        "x": 950,
+        "y": 565,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 50%"
+      }
+    ]
+  },
+  {
+    "name": "Wizard Peak",
+    //"access_rules": [
+    //  "wizardpeak"
+    //],
+    "map_locations": [
+      {
+        "map": "wizardpeak",
+        "x": 950,
+        "y": 590,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 75%"
+      }
+    ]
+  },
+  {
+    "name": "Wizard Peak",
+    //"access_rules": [
+    //  "wizardpeak"
+    //],
+    "map_locations": [
+      {
+        "map": "wizardpeak",
+        "x": 950,
+        "y": 615,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 100%"
+      }
+    ]
+  },
+  // HIGH CAVES CHECKS --------------------------------------
+  {
+    "name": "High Caves",
+    //"access_rules": [
+    //  "highcaves"
+    //],
+    "map_locations": [
+      {
+        "map": "highcaves",
+        "x": 200,
+        "y": 225,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "CYRUS"
+      }
+    ]
+  },
+  {
+    "name": "High Caves",
+    //"access_rules": [
+    //  "highcaves"
+    //],
+    "map_locations": [
+      {
+        "map": "highcaves",
+        "x": 630,
+        "y": 410,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "AJAX"
+      }
+    ]
+  },
+  {
+    "name": "High Caves",
+    //"access_rules": [
+    //  "highcaves"
+    //],
+    "map_locations": [
+      {
+        "map": "highcaves",
+        "x": 710,
+        "y": 260,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "CEDRIC"
+      }
+    ]
+  },
+  // HIGH CAVES OTHER CHECKS ---------------------------------
+  {
+    "name": "High Caves",
+    //"access_rules": [
+    //  "highcaves"
+    //],
+    "map_locations": [
+      {
+        "map": "highcaves",
+        "x": 990,
+        "y": 290,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "EGG THIEF 1"
+      }
+    ]
+  },
+  {
+    "name": "High Caves",
+    //"access_rules": [
+    //  "highcaves"
+    //],
+    "map_locations": [
+      {
+        "map": "highcaves",
+        "x": 760,
+        "y": 580,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "EGG THIEF 2"
+      }
+    ]
+  },
+  {
+    "name": "High Caves",
+    //"access_rules": [
+    //  "highcaves"
+    //],
+    "map_locations": [
+      {
+        "map": "highcaves",
+        "x": 760,
+        "y": 260,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "REALM EXIT"
+      }
+    ]
+  },
+
+  //GEMSTONES HIGH CAVES ---------------------------------------
+  {
+    "name": "High Caves",
+    //"access_rules": [
+    //  "highcaves"
+    //],
+    "map_locations": [
+      {
+        "map": "highcaves",
+        "x": 1000,
+        "y": 490,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 25%"
+      }
+    ]
+  },
+  {
+    "name": "High Caves",
+    //"access_rules": [
+    //  "highcaves"
+    //],
+    "map_locations": [
+      {
+        "map": "highcaves",
+        "x": 1025,
+        "y": 490,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 50%"
+      }
+    ]
+  },
+  {
+    "name": "High Caves",
+    //"access_rules": [
+    //  "highcaves"
+    //],
+    "map_locations": [
+      {
+        "map": "highcaves",
+        "x": 1050,
+        "y": 490,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 75%"
+      }
+    ]
+  },
+  {
+    "name": "High Caves",
+    //"access_rules": [
+    //  "highcaves"
+    //],
+    "map_locations": [
+      {
+        "map": "highcaves",
+        "x": 1075,
+        "y": 490,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 100%"
+      }
+    ]
+  },
+  // BLOWHARD BOSS REALM ---------------------------------
+  {
+    "name": "BLOWHARD",
+    //"access_rules": [
+    //  "blowhard"
+    //],
+    "map_locations": [
+      {
+        "map": "blowhard",
+        "x": 515,
+        "y": 345,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "ALTAIR"
+      }
+    ]
+  },
+  {
+    "name": "Blowhard",
+    //"access_rules": [
+    //  "blowhard"
+    //],
+    "map_locations": [
+      {
+        "map": "blowhard",
+        "x": 865,
+        "y": 300,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "REALM EXIT"
+      }
+    ]
+  },
+  {
+    "name": "Blowhard",
+    //"access_rules": [
+    //  "blowhard"
+    //],
+    "map_locations": [
+      {
+        "map": "blowhard",
+        "x": 155,
+        "y": 245,
+        "size": 25,
+        "border_thickness": 2,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "BLOWHARD"
+      }
+    ]
+  },
+  //GEMSTONES BLOWHARD BOSS REALM ---------------------------------------
+  {
+    "name": "Blowhard",
+    //"access_rules": [
+    //  "blowhard"
+    //],
+    "map_locations": [
+      {
+        "map": "blowhard",
+        "x": 845,
+        "y": 385,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 25%"
+      }
+    ]
+  },
+  {
+    "name": "Blowhard",
+    //"access_rules": [
+    //  "blowhard"
+    //],
+    "map_locations": [
+      {
+        "map": "blowhard",
+        "x": 845,
+        "y": 410,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 50%"
+      }
+    ]
+  },
+  {
+    "name": "Blowhard",
+    //"access_rules": [
+    //  "blowhard"
+    //],
+    "map_locations": [
+      {
+        "map": "blowhard",
+        "x": 845,
+        "y": 435,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 75%"
+      }
+    ]
+  },
+  {
+    "name": "Blowhard",
+    //"access_rules": [
+    //  "blowhard"
+    //],
+    "map_locations": [
+      {
+        "map": "blowhard",
+        "x": 845,
+        "y": 460,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 100%"
+      }
+    ]
+  }
 ]
