@@ -89,7 +89,7 @@
   {
     "name": "Artisans",
     "access_rules": [
-      "artisans"
+      "artisans,obscure"
     ],
     "map_locations": [
       {
@@ -428,9 +428,9 @@
   },
   {
     "name": "Stone Hill",
-    //"access_rules": [
-    //  "stonehill"
-    //],
+    "access_rules": [
+      "obscure"
+    ],
     "map_locations": [
       {
         "map": "stonehill",
@@ -449,9 +449,9 @@
   },
   {
     "name": "Stone Hill",
-    //"access_rules": [
-    //  "stonehill"
-    //],
+    "access_rules": [
+      "obscure"
+    ],
     "map_locations": [
       {
         "map": "stonehill",
@@ -470,9 +470,9 @@
   },
   {
     "name": "Stone Hill",
-    //"access_rules": [
-    //  "stonehill"
-    //],
+    "access_rules": [
+      "obscure"
+    ],
     "map_locations": [
       {
         "map": "stonehill",
@@ -662,9 +662,9 @@
   },
   {
     "name": "Dark Hollow",
-    //"access_rules": [
-    //  "darkhollow"
-    //],
+    "access_rules": [
+      "obscure"
+    ],
     "map_locations": [
       {
         "map": "darkhollow",
@@ -683,9 +683,9 @@
   },
   {
     "name": "Dark Hollow",
-    //"access_rules": [
-    //  "darkhollow"
-    //],
+    "access_rules": [
+      "obscure"
+    ],
     "map_locations": [
       {
         "map": "darkhollow",
@@ -704,9 +704,9 @@
   },
   {
     "name": "Dark Hollow",
-    //"access_rules": [
-    //  "darkhollow"
-    //],
+    "access_rules": [
+      "obscure"
+    ],
     "map_locations": [
       {
         "map": "darkhollow",
@@ -917,9 +917,9 @@
   },
   {
     "name": "Town Square",
-    //"access_rules": [
-    //  "townsquare"
-    //],
+    "access_rules": [
+      "obscure"
+    ],
     "map_locations": [
       {
         "map": "townsquare",
@@ -1283,7 +1283,7 @@
     {
       "name": "Peace Keepers",
       "access_rules": [
-        "peacekeepers"
+        "peacekeepers,obscure"
       ],
       "map_locations": [
         {
@@ -1602,9 +1602,9 @@
     },
     {
       "name": "Dry Canyon",
-      //"access_rules": [
-      //  "drycanyon"
-      //],
+      "access_rules": [
+        "obscure"
+      ],
       "map_locations": [
         {
           "map": "drycanyon",
@@ -1644,9 +1644,9 @@
     },
     {
       "name": "Dry Canyon",
-      //"access_rules": [
-      //  "drycanyon"
-      //],
+      "access_rules": [
+        "obscure"
+      ],
       "map_locations": [
         {
           "map": "drycanyon",
@@ -1665,9 +1665,9 @@
     },
     {
       "name": "Dry Canyon",
-      //"access_rules": [
-      //  "drycanyon"
-      //],
+      "access_rules": [
+        "obscure"
+      ],
       "map_locations": [
         {
           "map": "drycanyon",
@@ -1856,10 +1856,31 @@
       ]
     },
     {
+      "name": "Cliff Town",
+      "access_rules": [
+        "obscure"
+      ],
+      "map_locations": [
+        {
+          "map": "clifftown",
+          "x": 560,
+          "y": 210,
+          "size": 20,
+          "border_thickness": 1,
+          "shape": "trapezoid"
+        }
+      ],
+      "sections": [
+        {
+          "name": "METAL CHEST"
+        }
+      ]
+    },
+    {
       "name": "Cliff Townw",
-      //"access_rules": [
-      //  "clifftown"
-      //],
+      "access_rules": [
+        "obscure"
+      ],
       "map_locations": [
         {
           "map": "clifftown",
@@ -2091,9 +2112,9 @@
     // OTHER CHECKS ---------------------------------
     {
       "name": "Ice Cavern",
-      //"access_rules": [
-      //  "icecavern"
-      //],
+      "access_rules": [
+        "obscure"
+      ],
       "map_locations": [
         {
           "map": "icycavern",
@@ -2112,9 +2133,9 @@
     },
     {
       "name": "Ice Cavern",
-      //"access_rules": [
-      //  "icecavern"
-      //],
+      "access_rules": [
+        "obscure"
+      ],
       "map_locations": [
         {
           "map": "icycavern",
@@ -2154,9 +2175,9 @@
     },
     {
       "name": "Ice Cavern",
-      //"access_rules": [
-      //  "icecavern"
-      //],
+      "access_rules": [
+        "obscure"
+      ],
       "map_locations": [
         {
           "map": "icycavern",
@@ -2175,9 +2196,9 @@
     },
     {
       "name": "Ice Cavern",
-      //"access_rules": [
-      //  "icecavern"
-      //],
+      "access_rules": [
+        "obscure"
+      ],
       "map_locations": [
         {
           "map": "icycavern",
@@ -2196,9 +2217,9 @@
     },
     {
       "name": "Ice Cavern",
-      //"access_rules": [
-      //  "icecavern"
-      //],
+      "access_rules": [
+        "obscure"
+      ],
       "map_locations": [
         {
           "map": "icycavern",
@@ -2217,9 +2238,9 @@
     },
     {
       "name": "Ice Cavern",
-      //"access_rules": [
-      //  "icecavern"
-      //],
+      "access_rules": [
+        "obscure"
+      ],
       "map_locations": [
         {
           "map": "icycavern",
@@ -2238,9 +2259,9 @@
     },
     {
       "name": "Ice Cavern",
-      //"access_rules": [
-      //  "icecavern"
-      //],
+      "access_rules": [
+        "obscure"
+      ],
       "map_locations": [
         {
           "map": "icycavern",
@@ -2409,9 +2430,9 @@
     },
     {
       "name": "Doctor Shemp",
-      //"access_rules": [
-      //  "doctorshemp"
-      //],
+      "access_rules": [
+        "obscure"
+      ],
       "map_locations": [
         {
           "map": "doctorshemp",
@@ -2430,9 +2451,9 @@
     },
     {
       "name": "Doctor Shemp",
-      //"access_rules": [
-      //  "doctorshemp"
-      //],
+      "access_rules": [
+        "obscure"
+      ],
       "map_locations": [
         {
           "map": "doctorshemp",
@@ -2646,7 +2667,7 @@
   {
     "name": "Magic Crafters",
     "access_rules": [
-      "magiccrafters"
+      "magiccrafters,obscure"
     ],
     "map_locations": [
       {
@@ -2667,7 +2688,28 @@
   {
     "name": "Magic Crafters",
     "access_rules": [
-      "magiccrafters"
+      "magiccrafters,obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "magiccrafters",
+        "x": 490,
+        "y": 220,
+        "size": 15,
+        "border_thickness": 1,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "METAL CHEST"
+      }
+    ]
+  },
+  {
+    "name": "Magic Crafters",
+    "access_rules": [
+      "magiccrafters,obscure"
     ],
     "map_locations": [
       {
@@ -2688,7 +2730,7 @@
   {
     "name": "Magic Crafters",
     "access_rules": [
-      "magiccrafters"
+      "magiccrafters,obscure"
     ],
     "map_locations": [
       {
@@ -3007,9 +3049,9 @@
   },
   {
     "name": "Alpine Ridge",
-    //"access_rules": [
-    //  "alpineridge"
-    //],
+    "access_rules": [
+      "obscure"
+    ],
     "map_locations": [
       {
         "map": "alpineridge",
@@ -3132,7 +3174,7 @@
       }
     ]
   },
-  // WIZARD PEAK CHECKS --------------------------------------
+  // WIZARD PEAK DRAGONS --------------------------------------
   {
     "name": "Wizard Peak",
     //"access_rules": [
@@ -3220,9 +3262,9 @@
   },
   {
     "name": "Cliff Townw",
-    //"access_rules": [
-    //  "wizardpeak"
-    //],
+    "access_rules": [
+      "obscure"
+    ],
     "map_locations": [
       {
         "map": "wizardpeak",
@@ -3236,6 +3278,27 @@
     "sections": [
       {
         "name": "Life Chest"
+      }
+    ]
+  },
+  {
+    "name": "Cliff Townw",
+    "access_rules": [
+      "obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "wizardpeak",
+        "x": 370,
+        "y": 350,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "Metal Chest"
       }
     ]
   },
@@ -3697,6 +3760,2541 @@
         "map": "blowhard",
         "x": 845,
         "y": 460,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 100%"
+      }
+    ]
+  },
+  // DREAM WEAVERS DRAGONS ----------------------------------------
+  {
+    "name": "Dream Weavers",
+    "access_rules": [
+      "dreamweavers"
+    ],
+
+    "map_locations": [
+      {
+        "map": "dreamweavers",
+        "x": 475,
+        "y": 150,
+        "size": 15,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "LATEEF"
+      }
+    ]
+  },
+  {
+    "name": "Dream Weavers",
+    "access_rules": [
+      "dreamweavers"
+    ],
+    "map_locations": [
+      {
+        "map": "dreamweavers",
+        "x": 200,
+        "y": 250,
+        "size": 15,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "ZIKOMO"
+      }
+    ]
+  },
+  // DREAM WEAVERS OTHER ITEMS ------------------------------
+  {
+    "name": "Dream Weavers",
+    "access_rules": [
+      "dreamweavers,obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "dreamweavers",
+        "x": 580,
+        "y": 150,
+        "size": 15,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "Life Chest"
+      }
+    ]
+  },
+  //REALM GATES FOR DREAM WEAVERS -------------------------------------
+  {
+    "name": "Dream Weavers",
+    "access_rules": [
+      "dreamweavers,darkpassage"
+    ],
+    "map_locations": [
+      {
+        "map": "dreamweavers",
+        "x": 390,
+        "y": 320,
+        "size": 15,
+        "border_thickness": 2,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "DARK PASSAGE GATE"
+      }
+    ]
+  },
+  {
+    "name": "Dream Weavers",
+    "access_rules": [
+      "dreamweavers,loftycastle"
+    ],
+    "map_locations": [
+      {
+        "map": "dreamweavers",
+        "x": 520,
+        "y": 140,
+        "size": 15,
+        "border_thickness": 2,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "LOFTY CASTLE GATE"
+      }
+    ]
+  },
+  {
+    "name": "Dream Weavers",
+    "access_rules": [
+      "dreamweavers,hauntedtowers"
+    ],
+    "map_locations": [
+      {
+        "map": "dreamweavers",
+        "x": 35,
+        "y": 300,
+        "size": 15,
+        "border_thickness": 2,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "HAUNTED TOWERS GATE"
+      }
+    ]
+  },
+  {
+    "name": "Dream Weavers",
+    "access_rules": [
+      "dreamweavers,jacques"
+    ],
+    "map_locations": [
+      {
+        "map": "dreamweavers",
+        "x": 375,
+        "y": 135,
+        "size": 15,
+        "border_thickness": 2,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "JACQUES GATE"
+      }
+    ]
+  },
+  {
+    "name": "Dream Weavers",
+    "access_rules": [
+      "dreamweavers,icyflight"
+    ],
+    "map_locations": [
+      {
+        "map": "dreamweavers",
+        "x": 520,
+        "y": 45,
+        "size": 15,
+        "border_thickness": 2,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "ICY FLIGHT GATE"
+      }
+    ]
+  },
+  // GEMSTONES DREAM WEAVERS ---------------------------------------
+  {
+    "name": "Dream Weavers",
+    "access_rules": [
+      "dreamweavers"
+    ],
+    "map_locations": [
+      {
+        "map": "dreamweavers",
+        "x": 510,
+        "y": 360,
+        "size": 15,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 25%"
+      }
+    ]
+  },
+  {
+    "name": "Dream Weavers",
+    "access_rules": [
+      "dreamweavers"
+    ],
+    "map_locations": [
+      {
+        "map": "dreamweavers",
+        "x": 510,
+        "y": 380,
+        "size": 15,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 50%"
+      }
+    ]
+  },
+  {
+    "name": "Dream Weavers",
+    "access_rules": [
+      "dreamweavers"
+    ],
+    "map_locations": [
+      {
+        "map": "dreamweavers",
+        "x": 510,
+        "y": 400,
+        "size": 15,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 75%"
+      }
+    ]
+  },
+  {
+    "name": "Dream Weavers",
+    "access_rules": [
+      "dreamweavers"
+    ],
+    "map_locations": [
+      {
+        "map": "dreamweavers",
+        "x": 510,
+        "y": 420,
+        "size": 15,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 100%"
+      }
+    ]
+  },
+  // DARK PASSAGE DRAGONS -----------------------------------------
+  {
+    "name": "Dark Passage",
+    // ACCESS RULES FOR REALMS LEFT OUT FOR NOW ---
+    //"access_rules": [
+    //  "darkpassage"
+    //],
+    "map_locations": [
+      {
+        "map": "darkpassage",
+        "x": 585,
+        "y": 470,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "KASIYA"
+      }
+    ]
+  },
+  {
+    "name": "Dark Passage",
+    //"access_rules": [
+    //  "darkpassage"
+    //],
+    "map_locations": [
+      {
+        "map": "darkpassage",
+        "x": 965,
+        "y": 375,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "AZIZI"
+      }
+    ]
+  },
+  {
+    "name": "Dark Passage",
+    //"access_rules": [
+    //  "darkpassage"
+    //],
+    "map_locations": [
+      {
+        "map": "darkpassage",
+        "x": 800,
+        "y": 375,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "BAKARI"
+      }
+    ]
+  },
+  {
+    "name": "Dark Passage",
+    //"access_rules": [
+    //  "darkpassage"
+    //],
+    "map_locations": [
+      {
+        "map": "darkpassage",
+        "x": 160,
+        "y": 275,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "APARA"
+      }
+    ]
+  },
+  {
+    "name": "Dark Passage",
+    //"access_rules": [
+    //  "darkpassage"
+    //],
+    "map_locations": [
+      {
+        "map": "darkpassage",
+        "x": 280,
+        "y": 300,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "OBAST"
+      }
+    ]
+  },
+  // OTHER CHECKS -------------------------------------
+  {
+    "name": "Dark Passage",
+    "access_rules": [
+      "obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "darkpassage",
+        "x": 35,
+        "y": 250,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "Life Chest"
+      }
+    ]
+  },
+  {
+    "name": "Dark Passage",
+    //"access_rules": [
+    //  "darkpassage"
+    //],
+    "map_locations": [
+      {
+        "map": "darkpassage",
+        "x": 835,
+        "y": 350,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "REALM EXIT"
+      }
+    ]
+  },
+  {
+    "name": "Dark Passage",
+    "access_rules": [
+      "obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "darkpassage",
+        "x": 820,
+        "y": 260,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "METAL CHEST"
+      }
+    ]
+  },
+  //GEMSTONES DARK PASSAGE ---------------------------------------
+  {
+    "name": "Alpine Ridge",
+    //"access_rules": [
+    //  "darkpassage"
+    //],
+    "map_locations": [
+      {
+        "map": "darkpassage",
+        "x": 200,
+        "y": 500,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 25%"
+      }
+    ]
+  },
+  {
+    "name": "Dark Passage",
+    //"access_rules": [
+    //  "darkpassage"
+    //],
+    "map_locations": [
+      {
+        "map": "darkpassage",
+        "x": 200,
+        "y": 525,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 50%"
+      }
+    ]
+  },
+  {
+    "name": "Dark Passage",
+    //"access_rules": [
+    //  "darkpassage"
+    //],
+    "map_locations": [
+      {
+        "map": "darkpassage",
+        "x": 200,
+        "y": 550,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 75%"
+      }
+    ]
+  },
+  {
+    "name": "Dark Passage",
+    //"access_rules": [
+    //  "darkpassage"
+    //],
+    "map_locations": [
+      {
+        "map": "darkpassage",
+        "x": 200,
+        "y": 575,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 100%"
+      }
+    ]
+  },
+  // HAUNTED TOWERS CHECKS --------------------------------------
+  {
+    "name": "Haunted Towers",
+    //"access_rules": [
+    //  "hauntedtower"
+    //],
+    "map_locations": [
+      {
+        "map": "hauntedtower",
+        "x": 625,
+        "y": 400,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "KOSOKO"
+      }
+    ]
+  },
+  {
+    "name": "Haunted Towers",
+    //"access_rules": [
+    //  "hauntedtower"
+    //],
+    "map_locations": [
+      {
+        "map": "hauntedtower",
+        "x": 360,
+        "y": 400,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "LUTALO"
+      }
+    ]
+  },
+  {
+    "name": "Haunted Towers",
+    //"access_rules": [
+    //  "hauntedtower"
+    //],
+    "map_locations": [
+      {
+        "map": "hauntedtower",
+        "x": 540,
+        "y": 220,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "COPANO"
+      }
+    ]
+  },
+  // HAUNTED TOWERS CHECKS ---------------------------------------
+  {
+    "name": "Haunted Towers",
+    //"access_rules": [
+    //  "hauntedtower"
+    //],
+    "map_locations": [
+      {
+        "map": "hauntedtower",
+        "x": 130,
+        "y": 220,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "REALM EXIT"
+      }
+    ]
+  },
+  {
+    "name": "Haunted Towers",
+    "access_rules": [
+      "obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "hauntedtower",
+        "x": 300,
+        "y": 460,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "Life Chest"
+      }
+    ]
+  },
+  {
+    "name": "Haunted Towers",
+    "access_rules": [
+      "obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "hauntedtower",
+        "x": 210,
+        "y": 400,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "METAL CHEST 1"
+      }
+    ]
+  },
+  {
+    "name": "Haunted Towers",
+    "access_rules": [
+      "obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "hauntedtower",
+        "x": 500,
+        "y": 145,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "METAL CHEST 2"
+      }
+    ]
+  },
+  //GEMSTONES HAUNTED TOWERS ---------------------------------------
+  {
+    "name": "Haunted Towers",
+    //"access_rules": [
+    //  "hauntedtower"
+    //],
+    "map_locations": [
+      {
+        "map": "hauntedtower",
+        "x": 160,
+        "y": 560,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 25%"
+      }
+    ]
+  },
+  {
+    "name": "Haunted Towers",
+    //"access_rules": [
+    //  "hauntedtower"
+    //],
+    "map_locations": [
+      {
+        "map": "hauntedtower",
+        "x": 160,
+        "y": 585,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 50%"
+      }
+    ]
+  },
+  {
+    "name": "Haunted Towers",
+    //"access_rules": [
+    //  "hauntedtower"
+    //],
+    "map_locations": [
+      {
+        "map": "hauntedtower",
+        "x": 160,
+        "y": 610,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 75%"
+      }
+    ]
+  },
+  {
+    "name": "Haunted Towers",
+    //"access_rules": [
+    //  "hauntedtower"
+    //],
+    "map_locations": [
+      {
+        "map": "hauntedtower",
+        "x": 160,
+        "y": 635,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 100%"
+      }
+    ]
+  },
+  // LOFTY CASTLE CHECKS --------------------------------------
+  {
+    "name": "Lofty Castle",
+    //"access_rules": [
+    //  "loftycastle"
+    //],
+    "map_locations": [
+      {
+        "map": "loftycastle",
+        "x": 450,
+        "y": 310,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "MUDADA"
+      }
+    ]
+  },
+  {
+    "name": "Lofty Castle",
+    //"access_rules": [
+    //  "loftycastle"
+    //],
+    "map_locations": [
+      {
+        "map": "loftycastle",
+        "x": 900,
+        "y": 210,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "USENI"
+      }
+    ]
+  },
+  {
+    "name": "Lofty Castle",
+    //"access_rules": [
+    //  "loftycastle"
+    //],
+    "map_locations": [
+      {
+        "map": "loftycastle",
+        "x": 580,
+        "y": 650,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "BARUTI"
+      }
+    ]
+  },
+  // OTHER CHECKS ---------------------------------
+  {
+    "name": "Lofty Castle",
+    "access_rules": [
+      "obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "loftycastle",
+        "x": 930,
+        "y": 220,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "CHEST KEY"
+      }
+    ]
+  },
+  {
+    "name": "Lofty Castle",
+    "access_rules": [
+      "obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "loftycastle",
+        "x": 665,
+        "y": 320,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "KEY CHEST"
+      }
+    ]
+  },
+  {
+    "name": "Lofty Castle",
+    "access_rules": [
+      "obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "loftycastle",
+        "x": 700,
+        "y": 320,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "LIFE CHEST 1"
+      }
+    ]
+  },
+  {
+    "name": "Lofty Castle",
+    "access_rules": [
+      "obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "loftycastle",
+        "x": 815,
+        "y": 190,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "LIFE CHEST 2"
+      }
+    ]
+  },
+  {
+    "name": "Lofty Castle",
+    //"access_rules": [
+    //  "loftycastle"
+    //],
+    "map_locations": [
+      {
+        "map": "loftycastle",
+        "x": 70,
+        "y": 210,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "REALM EXIT"
+      }
+    ]
+  },
+
+  //GEMSTONES LOFTY CASTLE ---------------------------------------
+  {
+    "name": "Lofty Castle",
+    //"access_rules": [
+    //  "loftycastle"
+    //],
+    "map_locations": [
+      {
+        "map": "loftycastle",
+        "x": 180,
+        "y": 630,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 25%"
+      }
+    ]
+  },
+  {
+    "name": "Lofty Castle",
+    //"access_rules": [
+    //  "loftycastle"
+    //],
+    "map_locations": [
+      {
+        "map": "loftycastle",
+        "x": 180,
+        "y": 655,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 50%"
+      }
+    ]
+  },
+  {
+    "name": "Lofty Castle",
+    //"access_rules": [
+    //  "loftycastle"
+    //],
+    "map_locations": [
+      {
+        "map": "loftycastle",
+        "x": 180,
+        "y": 680,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 75%"
+      }
+    ]
+  },
+  {
+    "name": "Lofty Castle",
+    //"access_rules": [
+    //  "loftycastle"
+    //],
+    "map_locations": [
+      {
+        "map": "loftycastle",
+        "x": 180,
+        "y": 705,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 100%"
+      }
+    ]
+  },
+  // JACQUES BOSS REALM ---------------------------------
+  {
+    "name": "Jacques",
+    //"access_rules": [
+    //  "jacques"
+    //],
+    "map_locations": [
+      {
+        "map": "jacques",
+        "x": 285,
+        "y": 615,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "UNIKA"
+      }
+    ]
+  },
+  {
+    "name": "Jacques",
+    //"access_rules": [
+    //  "jacques"
+    //],
+    "map_locations": [
+      {
+        "map": "jacques",
+        "x": 450,
+        "y": 260,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "REVILO"
+      }
+    ]
+  },
+  {
+    "name": "Jacques",
+    "access_rules": [
+      "obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "jacques",
+        "x": 190,
+        "y": 490,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "CHEST KEY"
+      }
+    ]
+  },
+  {
+    "name": "Jacques",
+    "access_rules": [
+      "obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "jacques",
+        "x": 345,
+        "y": 295,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "KEY CHEST"
+      }
+    ]
+  },
+  {
+    "name": "Jacques",
+    //"access_rules": [
+    //  "jacques"
+    //],
+    "map_locations": [
+      {
+        "map": "jacques",
+        "x": 750,
+        "y": 250,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "REALM EXIT"
+      }
+    ]
+  },
+  {
+    "name": "Jacques",
+    //"access_rules": [
+    //  "jacques"
+    //],
+    "map_locations": [
+      {
+        "map": "jacques",
+        "x": 630,
+        "y": 250,
+        "size": 25,
+        "border_thickness": 2,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "JACQUES"
+      }
+    ]
+  },
+  //GEMSTONES JACQUES BOSS REALM ---------------------------------------
+  {
+    "name": "Jacques",
+    //"access_rules": [
+    //  "jacques"
+    //],
+    "map_locations": [
+      {
+        "map": "jacques",
+        "x": 880,
+        "y": 610,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 25%"
+      }
+    ]
+  },
+  {
+    "name": "Jacques",
+    //"access_rules": [
+    //  "jacques"
+    //],
+    "map_locations": [
+      {
+        "map": "jacques",
+        "x": 880,
+        "y": 635,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 50%"
+      }
+    ]
+  },
+  {
+    "name": "Jacques",
+    //"access_rules": [
+    //  "jacques"
+    //],
+    "map_locations": [
+      {
+        "map": "jacques",
+        "x": 880,
+        "y": 660,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 75%"
+      }
+    ]
+  },
+  {
+    "name": "Jacques",
+    //"access_rules": [
+    //  "jacques"
+    //],
+    "map_locations": [
+      {
+        "map": "jacques",
+        "x": 880,
+        "y": 685,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 100%"
+      }
+    ]
+  },
+  // BEAST MAKERS DRAGONS --------------------------------------------------
+  {
+    "name": "Beat Makers",
+    "access_rules": [
+      "beastmakers"
+    ],
+
+    "map_locations": [
+      {
+        "map": "beastmakers",
+        "x": 170,
+        "y": 300,
+        "size": 15,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "BRUNO"
+      }
+    ]
+  },
+  {
+    "name": "Beast Makers",
+    "access_rules": [
+      "beastmakers"
+    ],
+    "map_locations": [
+      {
+        "map": "beastmakers",
+        "x": 250,
+        "y": 450,
+        "size": 15,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "CLEETUS"
+      }
+    ]
+  },
+  // BEAST MAKERS OTHER ITEMS ---------------------------------------
+  {
+    "name": "Beast Makers",
+    "access_rules": [
+      "beastmakers,obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "beastmakers",
+        "x": 370,
+        "y": 225,
+        "size": 15,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "KEY CHEST"
+      }
+    ]
+  },
+  {
+    "name": "Beast Makers",
+    "access_rules": [
+      "beastmakers,obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "beastmakers",
+        "x": 280,
+        "y": 140,
+        "size": 15,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "CHEST KEY"
+      }
+    ]
+  },
+  //REALM GATES FOR BEAST MAKERS ---------------------------------------
+  {
+    "name": "Beast Makers",
+    "access_rules": [
+      "beastmakers,terracevillage"
+    ],
+    "map_locations": [
+      {
+        "map": "beastmakers",
+        "x": 175,
+        "y": 330,
+        "size": 15,
+        "border_thickness": 2,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "TERRACE VILLAGE GATE"
+      }
+    ]
+  },
+  {
+    "name": "Beast Makers",
+    "access_rules": [
+      "beastmakers,mistybog"
+    ],
+    "map_locations": [
+      {
+        "map": "beastmakers",
+        "x": 350,
+        "y": 435,
+        "size": 15,
+        "border_thickness": 2,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "MISTY BOG GATE"
+      }
+    ]
+  },
+  {
+    "name": "Beast Makers",
+    "access_rules": [
+      "beastmakers,treetops"
+    ],
+    "map_locations": [
+      {
+        "map": "beastmakers",
+        "x": 580,
+        "y": 310,
+        "size": 15,
+        "border_thickness": 2,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "TREE TOPS GATE"
+      }
+    ]
+  },
+  {
+    "name": "Beast Makers",
+    "access_rules": [
+      "beastmakers,metalhead"
+    ],
+    "map_locations": [
+      {
+        "map": "beastmakers",
+        "x": 360,
+        "y": 245,
+        "size": 15,
+        "border_thickness": 2,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "METALHEAD GATE"
+      }
+    ]
+  },
+  {
+    "name": "Beast Makers",
+    "access_rules": [
+      "beastmakers,wildflight"
+    ],
+    "map_locations": [
+      {
+        "map": "beastmakers",
+        "x": 260,
+        "y": 560,
+        "size": 15,
+        "border_thickness": 2,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "WILD FLIGHT GATE"
+      }
+    ]
+  },
+  // GEMSTONES BEAST MAKERS ---------------------------------------
+  {
+    "name": "Beast Makers",
+    "access_rules": [
+      "beastmakers"
+    ],
+    "map_locations": [
+      {
+        "map": "beastmakers",
+        "x": 530,
+        "y": 510,
+        "size": 15,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 25%"
+      }
+    ]
+  },
+  {
+    "name": "Beast Makers",
+    "access_rules": [
+      "beastmakers"
+    ],
+    "map_locations": [
+      {
+        "map": "beastmakers",
+        "x": 530,
+        "y": 525,
+        "size": 15,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 50%"
+      }
+    ]
+  },
+  {
+    "name": "Beast Makers",
+    "access_rules": [
+      "beastmakers"
+    ],
+    "map_locations": [
+      {
+        "map": "beastmakers",
+        "x": 530,
+        "y": 545,
+        "size": 15,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 75%"
+      }
+    ]
+  },
+  {
+    "name": "Beast Makers",
+    "access_rules": [
+      "beastmakers"
+    ],
+    "map_locations": [
+      {
+        "map": "beastmakers",
+        "x": 530,
+        "y": 565,
+        "size": 15,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 100%"
+      }
+    ]
+  },
+  // TERRACE VILLAGE DRAGONS -----------------------------------------
+  {
+    "name": "Terrace Village",
+    // ACCESS RULES FOR REALMS LEFT OUT FOR NOW ---
+    //"access_rules": [
+    //  "terracevillage"
+    //],
+    "map_locations": [
+      {
+        "map": "terracevillage",
+        "x": 500,
+        "y": 330,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "CLAUDE"
+      }
+    ]
+  },
+  {
+    "name": "Terrace Village",
+    //"access_rules": [
+    //  "terracevillage"
+    //],
+    "map_locations": [
+      {
+        "map": "terracevillage",
+        "x": 130,
+        "y": 210,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "CYPRIN"
+      }
+    ]
+  },
+  // TERRACE VILLAGE OTHER CHECKS -------------------------------------
+  {
+    "name": "Terrace Village",
+    "access_rules": [
+      "obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "terracevillage",
+        "x": 540,
+        "y": 350,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "Life Chest 1"
+      }
+    ]
+  },
+  {
+    "name": "Terrace Village",
+    "access_rules": [
+      "obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "terracevillage",
+        "x": 80,
+        "y": 160,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "Life Chest 2"
+      }
+    ]
+  },
+  {
+    "name": "Terrace Village",
+    //"access_rules": [
+    //  "terracevillage"
+    //],
+    "map_locations": [
+      {
+        "map": "terracevillage",
+        "x": 220,
+        "y": 200,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "REALM EXIT"
+      }
+    ]
+  },
+  {
+    "name": "Dark Passage",
+    //"access_rules": [
+    //  "terracevillage"
+    //],
+    "map_locations": [
+      {
+        "map": "terracevillage",
+        "x": 430,
+        "y": 445,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "METAL CHEST 1"
+      }
+    ]
+  },
+  {
+    "name": "Dark Passage",
+    //"access_rules": [
+    //  "terracevillage"
+    //],
+    "map_locations": [
+      {
+        "map": "terracevillage",
+        "x": 405,
+        "y": 455,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "METAL CHEST 2"
+      }
+    ]
+  },
+  {
+    "name": "Dark Passage",
+    //"access_rules": [
+    //  "terracevillage"
+    //],
+    "map_locations": [
+      {
+        "map": "terracevillage",
+        "x": 260,
+        "y": 380,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "METAL CHEST 3"
+      }
+    ]
+  },
+  //GEMSTONES TERRACE VILLAGE ---------------------------------------
+  {
+    "name": "Terrace Village",
+    //"access_rules": [
+    //  "terracevillage"
+    //],
+    "map_locations": [
+      {
+        "map": "terracevillage",
+        "x": 170,
+        "y": 460,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 25%"
+      }
+    ]
+  },
+  {
+    "name": "Terrace Village",
+    //"access_rules": [
+    //  "terracevillage"
+    //],
+    "map_locations": [
+      {
+        "map": "terracevillage",
+        "x": 170,
+        "y": 485,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 50%"
+      }
+    ]
+  },
+  {
+    "name": "Terrace Village",
+    //"access_rules": [
+    //  "terracevillage"
+    //],
+    "map_locations": [
+      {
+        "map": "terracevillage",
+        "x": 170,
+        "y": 510,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 75%"
+      }
+    ]
+  },
+  {
+    "name": "Terrace Village",
+    //"access_rules": [
+    //  "terracevillage"
+    //],
+    "map_locations": [
+      {
+        "map": "terracevillage",
+        "x": 170,
+        "y": 535,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 100%"
+      }
+    ]
+  },
+  // MISTY BOG DRAGONS --------------------------------------
+  {
+    "name": "Misty Bog",
+    //"access_rules": [
+    //  "mistybog"
+    //],
+    "map_locations": [
+      {
+        "map": "mistybog",
+        "x": 690,
+        "y": 375,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "ROSCO"
+      }
+    ]
+  },
+  {
+    "name": "Misty Bog",
+    //"access_rules": [
+    //  "mistybog"
+    //],
+    "map_locations": [
+      {
+        "map": "mistybog",
+        "x": 735,
+        "y": 150,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "DAMON"
+      }
+    ]
+  },
+  {
+    "name": "Misty Bog",
+    //"access_rules": [
+    //  "mistybog"
+    //],
+    "map_locations": [
+      {
+        "map": "mistybog",
+        "x": 700,
+        "y": 730,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "ZEKE"
+      }
+    ]
+  },
+  {
+    "name": "Misty Bog",
+    //"access_rules": [
+    //  "mistybog"
+    //],
+    "map_locations": [
+      {
+        "map": "mistybog",
+        "x": 375,
+        "y": 680,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "BUBBA"
+      }
+    ]
+  },
+  // MISTY BOG CHECKS ---------------------------------------
+  {
+    "name": "Misty Bog",
+    //"access_rules": [
+    //  "mistybog"
+    //],
+    "map_locations": [
+      {
+        "map": "mistybog",
+        "x": 420,
+        "y": 680,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "REALM EXIT"
+      }
+    ]
+  },
+  {
+    "name": "Misty Bog",
+    "access_rules": [
+      "obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "mistybog",
+        "x": 445,
+        "y": 280,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "Life Chest"
+      }
+    ]
+  },
+  //GEMSTONES MISTY BOG ---------------------------------------
+  {
+    "name": "Misty Bog",
+    //"access_rules": [
+    //  "mistybog"
+    //],
+    "map_locations": [
+      {
+        "map": "mistybog",
+        "x": 860,
+        "y": 730,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 25%"
+      }
+    ]
+  },
+  {
+    "name": "Misty Bog",
+    //"access_rules": [
+    //  "mistybog"
+    //],
+    "map_locations": [
+      {
+        "map": "mistybog",
+        "x": 860,
+        "y": 755,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 50%"
+      }
+    ]
+  },
+  {
+    "name": "Misty Bog",
+    //"access_rules": [
+    //  "mistybog"
+    //],
+    "map_locations": [
+      {
+        "map": "mistybog",
+        "x": 860,
+        "y": 780,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 75%"
+      }
+    ]
+  },
+  {
+    "name": "Misty Bog",
+    //"access_rules": [
+    //  "mistybog"
+    //],
+    "map_locations": [
+      {
+        "map": "mistybog",
+        "x": 860,
+        "y": 805,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 100%"
+      }
+    ]
+  },
+  // TREE TOPS DRAGONS --------------------------------------
+  {
+    "name": "Tree Tops",
+    //"access_rules": [
+    //  "treetops"
+    //],
+    "map_locations": [
+      {
+        "map": "treetops",
+        "x": 510,
+        "y": 350,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "ISAAK"
+      }
+    ]
+  },
+  {
+    "name": "Tree Tops",
+    //"access_rules": [
+    //  "treetops"
+    //],
+    "map_locations": [
+      {
+        "map": "treetops",
+        "x": 700,
+        "y": 260,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "LYLE"
+      }
+    ]
+  },
+  {
+    "name": "Tree Tops",
+    //"access_rules": [
+    //  "treetops"
+    //],
+    "map_locations": [
+      {
+        "map": "treetops",
+        "x": 1000,
+        "y": 380,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "JED"
+      }
+    ]
+  },
+  // TREE TOPS OTHER CHECKS ---------------------------------
+  {
+    "name": "Tree Tops",
+    "access_rules": [
+      "obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "treetops",
+        "x": 500,
+        "y": 180,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "CHEST KEY"
+      }
+    ]
+  },
+  {
+    "name": "Tree Tops",
+    "access_rules": [
+      "obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "treetops",
+        "x": 490,
+        "y": 390,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "KEY CHEST"
+      }
+    ]
+  },
+  {
+    "name": "Tree Tops",
+    "access_rules": [
+      "obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "treetops",
+        "x": 180,
+        "y": 410,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "METAL CHEST 1"
+      }
+    ]
+  },
+  {
+    "name": "Tree Tops",
+    "access_rules": [
+      "obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "treetops",
+        "x": 310,
+        "y": 630,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "METAL CHEST 2"
+      }
+    ]
+  },
+  {
+    "name": "Tree Tops",
+    "access_rules": [
+      "obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "treetops",
+        "x": 420,
+        "y": 350,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEM THIEF 1"
+      }
+    ]
+  },
+  {
+    "name": "Tree Tops",
+    "access_rules": [
+      "obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "treetops",
+        "x": 970,
+        "y": 350,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEM THIEF 2"
+      }
+    ]
+  },
+  {
+    "name": "Tree Tops",
+    "access_rules": [
+      "obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "treetops",
+        "x": 540,
+        "y": 200,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "LIFE CHEST 1"
+      }
+    ]
+  },
+  {
+    "name": "Tree Tops",
+    "access_rules": [
+      "obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "treetops",
+        "x": 810,
+        "y": 570,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "LIFE CHEST 2"
+      }
+    ]
+  },
+  {
+    "name": "Tree Tops",
+    "access_rules": [
+      "obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "treetops",
+        "x": 85,
+        "y": 415,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "LIFE CHEST 3"
+      }
+    ]
+  },
+  {
+    "name": "Tree Tops",
+    //"access_rules": [
+    //  "treetops"
+    //],
+    "map_locations": [
+      {
+        "map": "treetops",
+        "x": 100,
+        "y": 660,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "REALM EXIT"
+      }
+    ]
+  },
+
+  //GEMSTONES TREE TOPS ---------------------------------------
+  {
+    "name": "Tree Tops",
+    //"access_rules": [
+    //  "treetops"
+    //],
+    "map_locations": [
+      {
+        "map": "treetops",
+        "x": 910,
+        "y": 610,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 25%"
+      }
+    ]
+  },
+  {
+    "name": "Tree Tops",
+    //"access_rules": [
+    //  "treetops"
+    //],
+    "map_locations": [
+      {
+        "map": "treetops",
+        "x": 910,
+        "y": 635,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 50%"
+      }
+    ]
+  },
+  {
+    "name": "Tree Tops",
+    //"access_rules": [
+    //  "treetops"
+    //],
+    "map_locations": [
+      {
+        "map": "treetops",
+        "x": 910,
+        "y": 660,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 75%"
+      }
+    ]
+  },
+  {
+    "name": "Tree Tops",
+    //"access_rules": [
+    //  "treetops"
+    //],
+    "map_locations": [
+      {
+        "map": "treetops",
+        "x": 910,
+        "y": 685,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 100%"
+      }
+    ]
+  },
+  // METALHEAD BOSS REALM ---------------------------------
+  {
+    "name": "Metalhead",
+    //"access_rules": [
+    //  "metalhead"
+    //],
+    "map_locations": [
+      {
+        "map": "metalhead",
+        "x": 450,
+        "y": 310,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "SADIKI"
+      }
+    ]
+  },
+  {
+    "name": "Metalhead",
+    "access_rules": [
+      "obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "metalhead",
+        "x": 170,
+        "y": 360,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "Life Chest"
+      }
+    ]
+  },
+  {
+    "name": "Metal Head",
+    "access_rules": [
+      "obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "metalhead",
+        "x": 440,
+        "y": 430,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "CHEST KEY"
+      }
+    ]
+  },
+  {
+    "name": "Metalhead",
+    "access_rules": [
+      "obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "metalhead",
+        "x": 970,
+        "y": 100,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "KEY CHEST"
+      }
+    ]
+  },
+  {
+    "name": "Metalhead",
+    //"access_rules": [
+    //  "metalhead"
+    //],
+    "map_locations": [
+      {
+        "map": "metalhead",
+        "x": 930,
+        "y": 360,
+        "size": 20,
+        "border_thickness": 1,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "REALM EXIT"
+      }
+    ]
+  },
+  {
+    "name": "Metalhead",
+    //"access_rules": [
+    //  "metalhead"
+    //],
+    "map_locations": [
+      {
+        "map": "metalhead",
+        "x": 610,
+        "y": 200,
+        "size": 25,
+        "border_thickness": 2,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "METALHEAD"
+      }
+    ]
+  },
+  //GEMSTONES METALHEAD BOSS REALM ---------------------------------------
+  {
+    "name": "Metalhead",
+    //"access_rules": [
+    //  "metalhead"
+    //],
+    "map_locations": [
+      {
+        "map": "metalhead",
+        "x": 950,
+        "y": 480,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 25%"
+      }
+    ]
+  },
+  {
+    "name": "Metalhead",
+    //"access_rules": [
+    //  "metalhead"
+    //],
+    "map_locations": [
+      {
+        "map": "metalhead",
+        "x": 950,
+        "y": 505,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 50%"
+      }
+    ]
+  },
+  {
+    "name": "Metalhead",
+    //"access_rules": [
+    //  "metalhead"
+    //],
+    "map_locations": [
+      {
+        "map": "metalhead",
+        "x": 950,
+        "y": 530,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 75%"
+      }
+    ]
+  },
+  {
+    "name": "Metalhead",
+    //"access_rules": [
+    //  "metalhead"
+    //],
+    "map_locations": [
+      {
+        "map": "metalhead",
+        "x": 950,
+        "y": 555,
         "size": 20,
         "border_thickness": 2,
         "shape": "diamond"
