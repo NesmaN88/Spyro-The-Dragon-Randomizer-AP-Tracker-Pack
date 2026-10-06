@@ -1,5 +1,11 @@
 [
   {
+    "name": "Include Obscure Items - Items Not Implemented Yet",
+    "type": "toggle",
+    "img": "images/items/obscure.png",
+    "codes": "obscure"
+  },
+  {
     "name": "Toasty's Stilts",
     "type": "toggle",
     "img": "images/items/toastystilts.png",
