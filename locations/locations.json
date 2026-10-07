@@ -6305,5 +6305,1217 @@
         "name": "GEMSTONE 100%"
       }
     ]
+  },
+  // GNORC GNEXUS DRAGONS ---------------------------------------
+  {
+    "name": "GNORC GNEXUS",
+    "access_rules": [
+      "toastysstilts,shempsstaff,Blowhard's Beard,metalheadsmowhawk"
+    ],
+    "map_locations": [
+      {
+        "map": "gnorcgnexus",
+        "x": 510,
+        "y": 530,
+        "size": 30,
+        "border_thickness": 2,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "DELBIN"
+      }
+    ]
+  },
+  {
+    "name": "Gnorc Gnexus",
+    "access_rules": [
+      "toastysstilts,shempsstaff,Blowhard's Beard,metalheadsmowhawk"
+    ],
+    "map_locations": [
+      {
+        "map": "gnorcgnexus",
+        "x": 570,
+        "y": 530,
+        "size": 30,
+        "border_thickness": 2,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "MAGNUS (BEAT GNASTY GNORC)"
+      }
+    ]
+  },
+  // GNORC GNEXUS GEMS ----------------------------------
+  {
+    "name": "Gnorc Gnexus",
+    "access_rules": [
+      "toastysstilts,shempsstaff,Blowhard's Beard,metalheadsmowhawk"
+    ],
+    "map_locations": [
+      {
+        "map": "gnorcgnexus",
+        "x": 260,
+        "y": 490,
+        "size": 30,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 25%"
+      }
+    ]
+  },
+  {
+    "name": "Gnorc Gnexus",
+    "access_rules": [
+      "toastysstilts,shempsstaff,Blowhard's Beard,metalheadsmowhawk"
+    ],
+    "map_locations": [
+      {
+        "map": "gnorcgnexus",
+        "x": 260,
+        "y": 520,
+        "size": 30,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 50%"
+      }
+    ]
+  },
+  {
+    "name": "Gnorc Gnexus",
+    "access_rules": [
+      "toastysstilts,shempsstaff,Blowhard's Beard,metalheadsmowhawk"
+    ],
+    "map_locations": [
+      {
+        "map": "gnorcgnexus",
+        "x": 260,
+        "y": 550,
+        "size": 30,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 75%"
+      }
+    ]
+  },
+  {
+    "name": "Gnorc Gnexus",
+    "access_rules": [
+      "toastysstilts,shempsstaff,Blowhard's Beard,metalheadsmowhawk"
+    ],
+    "map_locations": [
+      {
+        "map": "gnorcgnexus",
+        "x": 260,
+        "y": 580,
+        "size": 30,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 100%"
+      }
+    ]
+  },
+  // Gnorc Gnexus Realm Gates ---------------------------
+  {
+    "name": "Gnorc Gnexus",
+    "access_rules": [
+      "toastysstilts,shempsstaff,Blowhard's Beard,metalheadsmowhawk,gnorccove"
+    ],
+    "map_locations": [
+      {
+        "map": "gnorcgnexus",
+        "x": 335,
+        "y": 520,
+        "size": 30,
+        "border_thickness": 2,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "Gnorc Cove"
+      }
+    ]
+  },
+  {
+    "name": "Gnorc Gnexus",
+    "access_rules": [
+      "toastysstilts,shempsstaff,Blowhard's Beard,metalheadsmowhawk,twilightharbor"
+    ],
+    "map_locations": [
+      {
+        "map": "gnorcgnexus",
+        "x": 390,
+        "y": 420,
+        "size": 30,
+        "border_thickness": 2,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "Twilight Harbor"
+      }
+    ]
+  },
+  {
+    "name": "Gnorc Gnexus",
+    "access_rules": [
+      "toastysstilts,shempsstaff,Blowhard's Beard,metalheadsmowhawk,gnastygnorcr"
+    ],
+    "map_locations": [
+      {
+        "map": "gnorcgnexus",
+        "x": 620,
+        "y": 410,
+        "size": 30,
+        "border_thickness": 2,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "Gnasty Gnorc"
+      }
+    ]
+  },
+  {
+    "name": "Gnorc Gnexus",
+    "access_rules": [
+      "toastysstilts,shempsstaff,Blowhard's Beard,metalheadsmowhawk,gnastyslootr"
+    ],
+    "map_locations": [
+      {
+        "map": "gnorcgnexus",
+        "x": 800,
+        "y": 480,
+        "size": 30,
+        "border_thickness": 2,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "Gnasty's Loot"
+      }
+    ]
+  },
+  // GNORC COVE DRAGONS ---------------------------------------
+  {
+    "name": "GNORC Cove",
+    //"access_rules": [
+    //  "toastysstilts,shempsstaff,Blowhard's Beard,metalheadsmowhawk,gnorccove"
+    //],
+    "map_locations": [
+      {
+        "map": "gnorccove",
+        "x": 280,
+        "y": 290,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "LATEEF"
+      }
+    ]
+  },
+  {
+    "name": "Gnorc Cove",
+    //"access_rules": [
+    //  "toastysstilts,shempsstaff,Blowhard's Beard,metalheadsmowhawk,gnorccove"
+    //],
+    "map_locations": [
+      {
+        "map": "gnorccove",
+        "x": 715,
+        "y": 605,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "TOMAS"
+      }
+    ]
+  },
+  // GNORC COVE OTHER CHECKS ----------------------------------------------
+  {
+    "name": "Gnorc Cove",
+    //"access_rules": [
+    //  "toastysstilts,shempsstaff,Blowhard's Beard,metalheadsmowhawk,gnorccove"
+    //],
+    "map_locations": [
+      {
+        "map": "gnorccove",
+        "x": 380,
+        "y": 620,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "REALM EXIT"
+      }
+    ]
+  },
+  {
+    "name": "Gnorc Cove",
+    "access_rules": [
+      "obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "gnorccove",
+        "x": 365,
+        "y": 840,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "CHEST KEY"
+      }
+    ]
+  },
+  {
+    "name": "Gnorc Cove",
+    "access_rules": [
+      "obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "gnorccove",
+        "x": 580,
+        "y": 755,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "KEY CHEST"
+      }
+    ]
+  },
+  {
+    "name": "Gnorc Cove",
+    "access_rules": [
+      "obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "gnorccove",
+        "x": 435,
+        "y": 200,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "LIFE CHEST 1"
+      }
+    ]
+  },
+  {
+    "name": "Gnorc Cove",
+    "access_rules": [
+      "obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "gnorccove",
+        "x": 890,
+        "y": 480,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "LIFE CHEST 2"
+      }
+    ]
+  },
+  {
+    "name": "Gnorc Cove",
+    "access_rules": [
+      "obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "gnorccove",
+        "x": 130,
+        "y": 400,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "METAL CHEST 1"
+      }
+    ]
+  },
+  {
+    "name": "Gnorc Cove",
+    "access_rules": [
+      "obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "gnorccove",
+        "x": 400,
+        "y": 310,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "METAL CHEST 2"
+      }
+    ]
+  },
+  {
+    "name": "Gnorc Cove",
+    "access_rules": [
+      "obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "gnorccove",
+        "x": 690,
+        "y": 440,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "METAL CHEST 3"
+      }
+    ]
+  },
+  {
+    "name": "Gnorc Cove",
+    "access_rules": [
+      "obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "gnorccove",
+        "x": 530,
+        "y": 610,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "METAL CHEST 4"
+      }
+    ]
+  },
+  // GNORC COVE GEMS ------------------------------------------------
+  {
+    "name": "Gnorc Cove",
+    //"access_rules": [
+    //  "gnorccover"
+    //],
+    "map_locations": [
+      {
+        "map": "gnorccove",
+        "x": 140,
+        "y": 760,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 25%"
+      }
+    ]
+  },
+  {
+    "name": "Gnorc Cove",
+    //"access_rules": [
+    //  "gnorccover"
+    //],
+    "map_locations": [
+      {
+        "map": "gnorccove",
+        "x": 140,
+        "y": 785,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 50%"
+      }
+    ]
+  },
+  {
+    "name": "Gnorc Cove",
+    //"access_rules": [
+    //  "gnorccover"
+    //],
+    "map_locations": [
+      {
+        "map": "gnorccove",
+        "x": 140,
+        "y": 810,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 75%"
+      }
+    ]
+  },
+  {
+    "name": "Gnorc Cove",
+    //"access_rules": [
+    //  "gnorccover"
+    //],
+    "map_locations": [
+      {
+        "map": "gnorccove",
+        "x": 140,
+        "y": 835,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 100%"
+      }
+    ]
+  },
+  // TWILIGHT HARBOR DRAGONS ---------------------------------------
+  {
+    "name": "Twilight Harbor",
+    //"access_rules": [
+    //  "twilightharbor"
+    //],
+    "map_locations": [
+      {
+        "map": "twilightharbor",
+        "x": 915,
+        "y": 170,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "COSMOS"
+      }
+    ]
+  },
+  {
+    "name": "Twilight Harbor",
+    //"access_rules": [
+    //  "twilightharbor"
+    //],
+    "map_locations": [
+      {
+        "map": "twilightharbor",
+        "x": 340,
+        "y": 460,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "CLEETUS"
+      }
+    ]
+  },
+  // TWILIGHT HARBOR OTHER CHECKS ----------------------------------------------
+  {
+    "name": "Twilight Harbor",
+    //"access_rules": [
+    //  "twilightharbor"
+    //],
+    "map_locations": [
+      {
+        "map": "twilightharbor",
+        "x": 525,
+        "y": 675,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "REALM EXIT"
+      }
+    ]
+  },
+  {
+    "name": "Twilight Habor",
+    "access_rules": [
+      "obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "twilightharbor",
+        "x": 1000,
+        "y": 170,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "METAL CHEST"
+      }
+    ]
+  },
+  {
+    "name": "Twilight Harbor",
+    "access_rules": [
+      "obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "twilightharbor",
+        "x": 995,
+        "y": 505,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "LIFE CHEST 1"
+      }
+    ]
+  },
+  {
+    "name": "Twilight Harbor",
+    "access_rules": [
+      "obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "twilightharbor",
+        "x": 705,
+        "y": 265,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "LIFE CHEST 2"
+      }
+    ]
+  },
+  {
+    "name": "Twilight Harbor",
+    "access_rules": [
+      "obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "twilightharbor",
+        "x": 130,
+        "y": 400,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "METAL CHEST 1"
+      }
+    ]
+  },
+  {
+    "name": "Twilight Harbor",
+    "access_rules": [
+      "obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "twilightharbor",
+        "x": 310,
+        "y": 250,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "LIFE CHEST 3"
+      }
+    ]
+  },
+  // TWILIGHT HARBOR GEMS ------------------------------------------------
+  {
+    "name": "Twilight Harbor",
+    //"access_rules": [
+    //  "twilightharbor"
+    //],
+    "map_locations": [
+      {
+        "map": "twilightharbor",
+        "x": 900,
+        "y": 640,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 25%"
+      }
+    ]
+  },
+  {
+    "name": "Twilight Harbor",
+    //"access_rules": [
+    //  "twilightharbor"
+    //],
+    "map_locations": [
+      {
+        "map": "twilightharbor",
+        "x": 900,
+        "y": 665,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 50%"
+      }
+    ]
+  },
+  {
+    "name": "Twilight Harbor",
+    //"access_rules": [
+    //  "twilightharbor"
+    //],
+    "map_locations": [
+      {
+        "map": "twilightharbor",
+        "x": 900,
+        "y": 690,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 75%"
+      }
+    ]
+  },
+  {
+    "name": "Twilight Harbor",
+    //"access_rules": [
+    //  "twilightharbor"
+    //],
+    "map_locations": [
+      {
+        "map": "twilightharbor",
+        "x": 900,
+        "y": 715,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 100%"
+      }
+    ]
+  },
+  // GNASTY GNORC REALM ---------------------------------------
+
+  // GNASTY GNORC REALM OTHER CHECKS ----------------------------------------------
+  {
+    "name": "Gnasty Gnorc",
+    //"access_rules": [
+    //  "gnastygnorc"
+    //],
+    "map_locations": [
+      {
+        "map": "gnastygnorc",
+        "x": 920,
+        "y": 150,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GNASTY GNORC"
+      }
+    ]
+  },
+  {
+    "name": "Gnasty Gnorc",
+    "access_rules": [
+      "obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "gnastygnorc",
+        "x": 500,
+        "y": 280,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "KEY THIEF 1"
+      }
+    ]
+  },
+  {
+    "name": "Gnasty Gnorc",
+    "access_rules": [
+      "obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "gnastygnorc",
+        "x": 590,
+        "y": 255,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "trapezoid"
+      }
+    ],
+    "sections": [
+      {
+        "name": "KEY THIEF 2"
+      }
+    ]
+  },
+  // GNASTY GNORC REALM GEMS ------------------------------------------------
+  {
+    "name": "Gnasty Gnorc",
+    //"access_rules": [
+    //  "gnastygnorc"
+    //],
+    "map_locations": [
+      {
+        "map": "gnastygnorc",
+        "x": 855,
+        "y": 660,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 25%"
+      }
+    ]
+  },
+  {
+    "name": "Gnasty Gnorc",
+    //"access_rules": [
+    //  "gnastygnorc"
+    //],
+    "map_locations": [
+      {
+        "map": "gnastygnorc",
+        "x": 855,
+        "y": 685,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 50%"
+      }
+    ]
+  },
+  {
+    "name": "Gnasty Gnorc",
+    //"access_rules": [
+    //  "gnastygnorc"
+    //],
+    "map_locations": [
+      {
+        "map": "gnastygnorc",
+        "x": 855,
+        "y": 710,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 75%"
+      }
+    ]
+  },
+  {
+    "name": "Gnasty Gnorc",
+    //"access_rules": [
+    //  "gnastygnorc"
+    //],
+    "map_locations": [
+      {
+        "map": "gnastygnorc",
+        "x": 855,
+        "y": 735,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 100%"
+      }
+    ]
+  },
+  // GNASTY's LOOT CHECKS ---------------------------------------
+  {
+    "name": "Gnasty's Loot",
+    //"access_rules": [
+    //  "gnastyslootr"
+    //],
+    "map_locations": [
+      {
+        "map": "gnastysloot",
+        "x": 860,
+        "y": 525,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "REALM EXIT"
+      }
+    ]
+  },
+  {
+    "name": "Gnasty's Loot",
+    "access_rules": [
+      "obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "gnastysloot",
+        "x": 870,
+        "y": 450,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "KEY THIEF 1"
+      }
+    ]
+  },
+  {
+    "name": "Gnasty's Loot",
+    "access_rules": [
+      "obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "gnastysloot",
+        "x": 750,
+        "y": 320,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "KEY THIEF 2"
+      }
+    ]
+  },
+  {
+    "name": "Gnasty's Loot",
+    "access_rules": [
+      "obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "gnastysloot",
+        "x": 740,
+        "y": 730,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "KEY THIEF 3"
+      }
+    ]
+  },
+  {
+    "name": "Gnasty's Loot",
+    "access_rules": [
+      "obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "gnastysloot",
+        "x": 350,
+        "y": 570,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "KEY THIEF 4"
+      }
+    ]
+  },
+  {
+    "name": "Gnasty's Loot",
+    "access_rules": [
+      "obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "gnastysloot",
+        "x": 480,
+        "y": 510,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "METAL CHEST 1"
+      }
+    ]
+  },
+  {
+    "name": "Gnasty's Loot",
+    "access_rules": [
+      "obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "gnastysloot",
+        "x": 740,
+        "y": 450,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "METAL CHEST 2"
+      }
+    ]
+  },
+  {
+    "name": "Gnasty's Loot",
+    "access_rules": [
+      "obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "gnastysloot",
+        "x": 790,
+        "y": 420,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "METAL CHEST 3"
+      }
+    ]
+  },
+  {
+    "name": "Gnasty's Loot",
+    "access_rules": [
+      "obscure"
+    ],
+    "map_locations": [
+      {
+        "map": "gnastysloot",
+        "x": 840,
+        "y": 340,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "rect"
+      }
+    ],
+    "sections": [
+      {
+        "name": "METAL CHEST 4"
+      }
+    ]
+  },
+  // GNASTY'S LOOT GEMS -------------------------------------------
+  {
+    "name": "Gnasty Gnorc",
+    //"access_rules": [
+    //  "gnastysloot"
+    //],
+    "map_locations": [
+      {
+        "map": "gnastysloot",
+        "x": 150,
+        "y": 690,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 25%"
+      }
+    ]
+  },
+  {
+    "name": "Gnasty's Loot'",
+    //"access_rules": [
+    //  "gnastysloot"
+    //],
+    "map_locations": [
+      {
+        "map": "gnastysloot",
+        "x": 150,
+        "y": 715,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 50%"
+      }
+    ]
+  },
+  {
+    "name": "Gnasty's Loot'",
+    //"access_rules": [
+    //  "gnastysloot"
+    //],
+    "map_locations": [
+      {
+        "map": "gnastysloot",
+        "x": 150,
+        "y": 735,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 75%"
+      }
+    ]
+  },
+  {
+    "name": "Gnasty's Loot'",
+    //"access_rules": [
+    //  "gnastysloot"
+    //],
+    "map_locations": [
+      {
+        "map": "gnastysloot",
+        "x": 150,
+        "y": 760,
+        "size": 20,
+        "border_thickness": 2,
+        "shape": "diamond"
+      }
+    ],
+    "sections": [
+      {
+        "name": "GEMSTONE 100%"
+      }
+    ]
   }
 ]
