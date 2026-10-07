@@ -1,7 +1,8 @@
 This is a tracker pack to be used with Pop Tracker - https://poptracker.github.io/
 
-Spyro The Dragon Item Tracker for Archipelago.
-Track;
+Spyro The Dragon Item Tracker for Archipelago - https://discord.com/channels/731205301247803413/1281652479779536958
+
+This pack Allows you to Track;
 - Gem count per level,
 - Gem count Total Collect 0 to 14,000,
 - Dragon Count per level,
