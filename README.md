@@ -1,3 +1,5 @@
+SPYRO THE DRAGON RANDOMIZER
+
 This is a tracker pack to be used with Pop Tracker - https://poptracker.github.io/
 
 Spyro The Dragon Item Tracker for Archipelago - https://discord.com/channels/731205301247803413/1281652479779536958
